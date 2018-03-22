@@ -38,7 +38,7 @@
             </div></div><div class="lang--english _motto--english edition--normalized"><div class="title">
                <h3 class="title">
                  <span class="italics"><span class="choice"><span class="orig">Embleme </span><span class="reg">Emblem</span></span> 6. Of the Secrets of Nature.
-                 <span class="choice"><span class="orig">Sowe </span><span class="reg">Sow</span></span> your gold in the white foliated earth.</span>
+                 <span class="the-motto"><span class="choice"><span class="orig">Sowe </span><span class="reg">Sow</span></span> your gold in the white foliated earth.</span></span>
                   
                </h3>
             </div></div></div><div class="original is-hidden"><div class="switch-wrapper left"><div class="latin-german-switch"><ul><li class="is-selected"><a href="#">Latin</a></li><li><a href="#">German</a></li></ul></div></div><div class="lang--latin _motto--latin"><h3 class="image-caption">
@@ -70,14 +70,19 @@
             <div class="_music">
                <section class="music wrapper-section"><div class="section section--single"><div class="test">
                   <style>
-                     .atalanta-notation {
-                        width: 60vw;
-                        margin-bottom: 5rem;
-                     }
-                     .atalanta-notation svg {
+                    /* cb addition */
+                    .atalanta-notation {
+                      width: 60vw;
+                      margin-bottom: 5rem;
+                    }
+
+                    /* cb addition */
+                    .atalanta-notation svg {
 /*                        outline: 2px solid blue;*/
-                     }
-                     .atalanta-notation-viz-cmn {
+                    }
+
+                     /* This is for the background (non-javascript) image */
+                    .atalanta-notation-viz-cmn {
 /*                        outline: 2px solid red;*/
                         width: 100%;
                         height: 500px;
@@ -85,19 +90,66 @@
                         background-size: contain;
                         background-color: white;
                         overflow: scroll;
-                      }
+                    }
+
+                    /* Playing notes */
+                    svg .note {
+                      transition: fill 0.2s;
+                    }
+
+                    /* Start / stop buttons */
+                    .atalanta-notation-start, .atalanta-notation-stop, .atalanta-notation-mute-track {
+                      height: 1em;
+                      width: 1em;
+                      display: inline-block;
+                      cursor: pointer;
+                      background-size: contain;
+                      background-repeat: no-repeat;
+                    }
+
+                    .atalanta-notation-start, .atalanta-notation-stop {    
+      /*background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/cc/Stopped_icon.svg');*/
+    }
+    
+    /* Mute buttons */
+    
+    .atalanta-notation-mute-track {
+      display: inline-block;
+      height: 1em;
+      width: 1em;
+      /* background-color: red; */
+      cursor: pointer;
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/21/Speaker_Icon.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    
+    .atalanta-notation-mute-track.mute {
+      /* background-color: gray; */
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3f/Mute_Icon.svg');
+    }
+    
+    .measure .staff {
+      transition: opacity 0.6s;
+    }
+
                   }
                   </style>
-                  <div class="atalanta-notation" data-mei="../assets/data/mei/Fuga 6.xml">
-                   <button class="atalanta-notation-start">Start</button>
-                   <button class="atalanta-notation-stop">Stop</button>
-                   <button class="atalanta-notation-mute-1">M1</button>
-                   <button class="atalanta-notation-mute-2">M2</button>
-                   <button class="atalanta-notation-mute-3">M3</button>
-                   <div class="atalanta-notation-viz atalanta-notation-viz-cmn" 
-                        style="background-image: url(../media/images/emblem-scores/music.png)"></div>
-                   <div class="atalanta-notation-viz atalanta-notation-viz-audio" data-tempo="240"
-                        data-mp3="../media/audio/fugue 06 A.mp3;../media/audio/fugue 06 H.mp3;../media/audio/fugue 06 P.mp3">
+  <div class="atalanta-notation" data-mei="mei/Fuga 6.xml">
+    <span class="atalanta-notation-start" title="play music">&#9654;</span> 
+    <span class="atalanta-notation-stop" title="stop playing music">&#9274;</span>
+    <span class="atalanta-notation-mute-track track-1">&nbsp;</span>
+    <span class="atalanta-notation-mute-track track-2">&nbsp;</span>
+    <span class="atalanta-notation-mute-track track-3">&nbsp;</span>
+    
+    <div class="atalanta-notation-viz atalanta-notation-viz-cmn" 
+         style="background-image: url(../media/images/emblem-scores/music.png)"></div>
+<!--                    <div class="atalanta-notation-viz atalanta-notation-viz-audio" data-tempo="240"
+                        data-mp3="../media/audio/fugue 06 P.mp3;../media/audio/fugue 06 A.mp3;../media/audio/fugue 06 H.mp3">
+                   </div> -->
+
+                                      <div class="atalanta-notation-viz atalanta-notation-viz-audio" data-tempo="240"
+                        data-mp3="../audio/fugue 06 P.mp3;../audio/fugue 06 A.mp3;../audio/fugue 06 H.mp3">
                    </div>
                         <!-- Tracks separated by semicolons, audio files by commas -->
                   </div>

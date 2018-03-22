@@ -1547,6 +1547,27 @@ ul.sidenav__options li.sidenav--is-active a:hover {
 #tools a:active {
   color: yellow; }
 
+/*** RSA STYLES ***/
+.latin-german-switch, .facsimile-normalized-switch {
+  display: none;
+}
+.the-motto {
+  display: block;
+  font-size: 2rem;
+  line-height: 2.5rem;
+  margin-top: 1rem;
+}
+h3.epigram {
+  display: none;
+}
+h3.discourse {
+  display: none;
+}
+.ab {
+  margin-top: 5rem;
+  margin-bottom: 8rem;
+}
+
 /***     Breakpoints     ***/
 /* large  -  desktop */
 /* medium-large - laptop */

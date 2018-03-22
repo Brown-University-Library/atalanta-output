@@ -52,7 +52,7 @@
   // Given a DOM node (through this), make a music notation component
   
   function createMusicComponent() {
-    console.log($(this));
+    
     let containerNode = $(this);
     
     // Get rid of default content for browsers with no javascript
@@ -157,9 +157,7 @@
       let views = [];
       
       containerNode.find('.' + VIZ_CLASS_NAME).each(function () {
-        console.log($(this));
         let viewContainer = $(this);
-        console.log("this is the viewContainer: " + viewContainer);
         if (viewContainer.hasClass(CMN_VIZ_CLASS_NAME)) {
           views.push(ViewCMN(viewContainer, verovioToolkit));
         } else if (viewContainer.hasClass(AUDIO_VIZ_CLASS_NAME)) {
@@ -178,7 +176,7 @@
 
     function updateAllViews(timeInMilliseconds) {
       
-      let TEMP_TEMPO = 225;
+      let TEMP_TEMPO = 56 * 4;
       
       let timeAdjustedForTempo = timeInMilliseconds * (TEMP_TEMPO / 60); // TEMP KLUDGE
       
@@ -192,6 +190,11 @@
       views.forEach((view) => view.stop())
     }
     
+    function setMute(muteStatus) {
+      console.log("MUTE CHANGE FOR ALL VIEWS");
+      views.forEach((view) => view.onMuteChange(muteStatus));
+    }
+    
     function init() {
       views = createViews();
       renderAllViews();      
@@ -201,7 +204,8 @@
 
     return {
       update: updateAllViews,
-      stop: stopAllViews
+      stop: stopAllViews,
+      setMute: setMute
     };
   }
   
@@ -219,17 +223,12 @@
                         };
                 vrvToolkit.setOptions(options);
   */  
-    console.log("view height = " + viewContainer.height());
-    console.log("view width = " + viewContainer.width());
-
+    
     let zoom = 30,
-
         pageHeight = viewContainer.height() * 100 / zoom,
         pageWidth  = viewContainer.width()  * 100 / zoom,
-        highlightedNotes = [];
-    
-    console.log("page height = " + pageHeight);
-    console.log("page width = " + pageWidth);
+        highlightedNotes = [],
+        HIGHLIGHT_COLOR = '#f00';
 
     function removeFallbackImage() {
       viewContainer.css('background-image', 'none');
@@ -263,12 +262,32 @@
       verovioToolkit.getElementsAtTime(timeInMilliseconds).notes.forEach(
         (note) => {
           let highLightedNote = $('#' + note);
-          highLightedNote.attr('fill', '#f00').attr('stroke', '#f00');
+          highLightedNote.attr('fill', HIGHLIGHT_COLOR).attr('stroke', HIGHLIGHT_COLOR);
           highlightedNotes.push(highLightedNote);
         }
       );
       
       // $('#m-103').attr("fill", "#0c0").attr("stroke", "#0c0");
+    }
+    
+    function onMuteChange(muteStatus) {
+      
+      // THIS SHOULD BE HANDLED BY CSS
+      
+      console.log("MUTE CHANGE FOR CMN");
+
+      muteStatus.forEach((mute, index) => {
+        $('.measure .staff:nth-of-type(' + (index + 1) + ')')
+          .attr('opacity', mute ? '0.2': '1.0');
+        $('.measure .barLineAttr path:nth-of-type(' + (index + 1) + ')')
+          .attr('opacity', mute ? '0.2': '1.0');
+      })
+      
+      // For each 
+      //  Gray out 
+      //  $('.measure .staff:nth-of-type(2)').attr('opacity','0.2');
+      //  Gray out bar lines
+      //  $('.measure .barLineAttr path:nth-of-type(2)').attr('opacity', '0.2');
     }
     
     function init() {
@@ -279,10 +298,10 @@
     init();
     
     return {
-      type: 'cmn',
       render: render,
       update: update,
-      stop: function () {}
+      stop: function () {},
+      onMuteChange: onMuteChange
     }
   }
   
@@ -303,7 +322,6 @@
     function update(timeInMilliseconds) {
       
       if (!isPlaying) {
-        console.log("START TRACKS");
         tracks.forEach((track) => track.play(timeInMilliseconds));
         isPlaying = true;
       }
@@ -314,6 +332,7 @@
     function stop() {
       console.log("STOP TRACKS");
       tracks.forEach((track) => track.stop());
+      isPlaying = false;
     }
     
     // Given the attribute string, returns an array-of-arrays
@@ -326,6 +345,14 @@
                                 acc.push(x.split(','))
                                 return acc;
                               }, []);
+    }
+    
+    function onMuteChange(muteStatusArray) {
+      
+      // Bring down volume for tracks
+      console.log("MUTE CHANGE FOR AUDIO");
+      console.log(muteStatusArray);
+      muteStatusArray.forEach((muteStatus, i) => tracks[i].mute(muteStatus));
     }
     
     function init() {
@@ -347,10 +374,10 @@
     init();
     
     return {
-      type: 'audio',
       render: function () {},
       update: update,
-      stop: stop
+      stop: stop,
+      onMuteChange: onMuteChange
     }
   }
   
@@ -365,11 +392,37 @@
     let bufferList, 
         bufferLoader, 
         sources,
-        isMuted = false;
+        isMuted = false,
+        gainNode = null;
 
     function play(startTimeInMilliseconds) {
       
       // Take each buffer and connect to audio output
+      
+      sources = bufferList.map((buffer) => {
+        
+        // Get buffer source node
+        
+        let source = audioContext.createBufferSource();
+        source.buffer = buffer;
+        
+        // Get gain node
+        
+        if (!audioContext.createGain)
+          audioContext.createGain = audioContext.createGainNode;
+        
+        gainNode = audioContext.createGain();
+        
+        // Connect source node to gain node & gain to output
+        
+        source.connect(gainNode);
+        gainNode.connect(audioContext.destination);
+        
+        return source;
+      });
+      
+      /*
+      
       
       sources = bufferList.map((buffer) => {
         let source = audioContext.createBufferSource();
@@ -378,13 +431,7 @@
         return source;
       });
       
-      /*
-      bufferList.forEach(function (buffer) {
-        let source = audioContext.createBufferSource();
-        source.buffer = buffer;
-        source.connect(audioContext.destination);
-        sources.push(source);
-      }); */
+      */
 
       // Start audio
 
@@ -410,6 +457,17 @@
       console.log('Loaded audio files:' + trackFilenames);
       // play(); // TEMP -- for testing
     }
+    
+    function setGain(gain) {
+      console.log("Setting gain to " + gain);
+      gainNode.gain.value = gain * gain;
+    }    
+    
+    function mute(muteStatus) {
+      isMuted = (muteStatus);
+      console.log("TURNING MUTE STATUS TO " + muteStatus);
+      setGain(muteStatus ? 0 : 1);
+    }
 
     function init() {
       // Load audio
@@ -421,7 +479,8 @@
 
     return {
       play: play,
-      stop: stop
+      stop: stop,
+      mute: mute
     }
   }
   
@@ -507,9 +566,14 @@
       viewManager.stop();
     }
     
+    function setMute(muteStatus) {
+      viewManager.setMute(muteStatus);
+    }
+    
     return {
       play: play,
-      stop: stop
+      stop: stop,
+      setMute: setMute
     };
   }
   
@@ -517,8 +581,17 @@
   // OBJECT: Controller (is this necessary?)
   
   function initControllers(model, containerNode) {
+
     containerNode.find('.atalanta-notation-start').click(() => model.play());
     containerNode.find('.atalanta-notation-stop').click(() => model.stop());
+    
+    let muteButtons = containerNode.find('.atalanta-notation-mute-track');
+    
+    muteButtons.click((e) => {
+      $(e.target).toggleClass('mute');
+      let muteStatus = muteButtons.map((x,o) => $(o).hasClass('mute')).get();
+      model.setMute(muteStatus);
+    });
   }
   
   
