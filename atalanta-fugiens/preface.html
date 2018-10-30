@@ -1,109 +1,693 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Furnace and Fugue: Atalanta Fugiens (Digital Edition)</title>
-	<link type="text/css" rel="stylesheet" media="screen" href="../assets/css/styles.css" />
-	<script src="../assets/js/vendors/jquery/jquery-3.3.1.min.js"></script>
-	<script src="../assets/js/vendors/openseadragon/openseadragon.min.js"></script>
-</head>
-<body>
-<!-- GLOBAL NAVIGATION -->
-	<header>
-		<div class="_topnav"></div>
-<!-- EMBLEM NAVIGATION -->
-		<nav class="subnav">
-			<ul>
-				<li class="subnav__views--single is-hidden" data-state="active"><a href="#"><span></span>Single View</a></li>
-				<li class="subnav__options--option is-active" data-state="active"><a href="#">English</a></li>
-				<li class="subnav__options--option" data-state="inactive"><a href="#">Latin/German</a></li>
-				<li class="subnav__options--option" data-state="inactive"><a href="#">Original</a></li>
-				<li class="subnav__views--double" data-state="inactive"><a href="#"><span></span>Comparative View</a></li>
-				<li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">English</a></li>
-				<li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">Latin/German</a></li>
-				<li class="subnav__options--option is-hidden is-active" data-state="active"><a href="#">Original</a></li>
-			</ul>
-		</nav>
-	</header>
-<!-- EMBLEM PAGE-->
-	<main id="emblem-data" class="emblem-page frontmatter" data-id="4">
-<!-- SIDENAV -->
-	<div class="_sidenav"></div>
-<!-- EMBLEM GRID -->
-		<!-- Facsimile -->
-		<div class="section__facsimile is-hidden">
-			<div class="facsimile--full">
-				<section class="_facsimile">
-					<section class="facsimile">
-						<div id="openseadragon-wrapper">
-							<div id="tools">
-								<span>
-									<a id="next" href="#next" title="Next" style="position: relative"><svg id="icon_arrow-right-lineart" data-name="icon_arrow-right-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.6 250.2" transform="scale(1)" transform-origin="0 0"><title>export_icon_arrow-right-lineart</title><polyline points="1.8 248.5 125.1 125.1 1.8 1.8" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="5"/></svg><span>Next</span></a>
-									<a id="previous" href="#previous" title="Previous" style="position: relative"><svg id="icon_arrow-left-lineart" data-name="icon_arrow-left-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.6 250.2" transform="scale(1)" transform-origin="0 0"><title>export_icon_arrow-left-lineart</title><polyline points="126.9 1.8 3.5 125.1 126.9 248.5" fill="none" stroke="#000" stroke-miterlimit="50" stroke-width="5"/></svg><span>Previous</span></a>
-									<a id="zoom-in" href="#zoom-in" title="Zoom In" style="position: relative"><svg id="icon_zoom-in-lineart" data-name="icon_zoom-in-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.1 299.9" transform="scale(.6)" transform-origin="50% 80%"><title>icon_magnifying-glass_zoom-in</title><g id="handle"><path d="M537.6,337.5l97,97Z" transform="translate(-343 -143)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="24"/></g><g id="glass"><path d="M480,153a127,127,0,1,1-89.8,37.2A126.2,126.2,0,0,1,480,153m0-10A137,137,0,1,0,617,280,137,137,0,0,0,480,143Z" transform="translate(-343 -143)"/></g><g id="symbol"><path d="M480,337.5v-115M422.5,280h115" transform="translate(-343 -143)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="12"/></g></svg><span>Zoom In</span></a>
-									<a id="zoom-out" href="#zoom-out" title="Zoom Out" style="position: relative"><svg id="icon_zoom-out-lineart" data-name="icon_zoom-out-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.1 299.9" transform="scale(.6)" transform-origin="50% 80%"><title>icon_magnifying-glass_zoom-out</title><g id="handle"><path d="M537.6,337.5l97,97Z" transform="translate(-343 -143)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="24"/></g><g id="glass"><path d="M480,154a126,126,0,1,1-89.1,36.9A125.2,125.2,0,0,1,480,154m0-11A137,137,0,1,0,617,280,137,137,0,0,0,480,143Z" transform="translate(-343 -143)"/></g><g id="symbol"><line x1="79.5" y1="137" x2="194.5" y2="137" fill="none" stroke="#000" stroke-miterlimit="100" stroke-width="10"/></g></svg><span>Zoom Out</span></a>
-								</span>
-							</div>
-						</div>
-					</section>
-				</section>
-			</div>
-		</div>
-		<div class="emblem">
-			<section class="section__preface section--single panel--full">
-				<div class="translation">
-					<div class="switch-wrapper left">
-						<div class="facsimile-normalized-switch">
-							<ul>
-								<li><a href="#">Facsimile</a></li>
-								<li class="is-selected"><a href="#">Normalized</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--english _preface--english edition--normalized"></div>
-				</div>
-				<div class="original is-hidden">
-					<div class="switch-wrapper left">
-						<div class="latin-german-switch" style="display:none;">
-							<ul>
-								<li class="is-selected"><a href="#">Latin</a></li>
-								<li><a href="#">German</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--latin _preface--latin"></div>
-				</div>
-			</section>
-			<section class="section__preface section--double panel--right is-hidden">
-				<div class="translation is-hidden">
-					<div class="switch-wrapper right">
-						<div class="facsimile-normalized-switch">
-							<ul>
-								<li><a href="#">Facsimile</a></li>
-								<li class="is-selected"><a href="#">Normalized</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--english _preface--english edition--normalized"></div>
-				</div>
-				<div class="original">
-					<div class="switch-wrapper right">
-						<div class="latin-german-switch" style="display:none;">
-							<ul>
-								<li class="is-selected"><a href="#">Latin</a></li>
-								<li><a href="#">German</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--latin _preface--latin"></div>
-				</div>
-			</section>
-		</div><!-- END EMBLEM -->
-	</main> <!-- END OF EMBLEM PAGE -->
-<!-- JS -->
-	<script src="../assets/js/topnav.js"></script>
-	<script src="../assets/js/emblem.js"></script>
-	<script src="../assets/js/zooming-image-viewer--openseadragon.js"></script>
-</body>
-</html>
+<html xmlns:af="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="text/html" charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Furnace and Fugue: Atalanta Fugiens (Digital Edition)</title><link type="text/css" rel="stylesheet" media="screen" href="../assets/css/styles.css"><script type="text/javascript" src="../assets/js/vendors/jquery/jquery-3.3.1.min.js"></script><script type="text/javascript" src="../assets/js/vendors/openseadragon/openseadragon.min.js"></script></head><body><header><div class="_topnav"><nav class="topnav">
+<ul>
+<li class="my-trigger">
+<button>
+<img class="toc-icon" src="../assets/icons/toc.png" alt="table of contents icon">
+</button>
+</li>
+<li class="topnav__identity">
+<a href="../index.html">Furnace &amp; Fugue</a>
+</li>
+</ul>
+</nav><nav class="toc-wrapper">
+<div style="margin-left: 2em" class="toc">
+<div class="toc__items">
+<ul>
+<li class="toc__heading">
+<a href="../index.html">Home</a>
+</li>
+<li class="toc__heading">
+<a href="#">Front Matter</a>
+</li>
+<li>
+<a href="#">Print Culture</a>
+</li>
+<li>
+<a href="#">Maier's Biography</a>
+</li>
+<li>
+<a href="#">Maier's Bibliography</a>
+</li>
+<li class="toc__heading">
+<a href="#">Atalanta fugiens</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/frontispiece.html">Frontispiece</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/author-epigram.html">Author's Epigram</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/dedication.html">Dedication</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/preface.html">Preface</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem01.html">Emblem 1</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem02.html">Emblem 2</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem03.html">Emblem 3</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem04.html">Emblem 4</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem05.html">Emblem 5</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem06.html">Emblem 6</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem07.html">Emblem 7</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem08.html">Emblem 8</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem09.html">Emblem 9</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem10.html">Emblem 10</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem11.html">Emblem 11</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem12.html">Emblem 12</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem13.html">Emblem 13</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem14.html">Emblem 14</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem15.html">Emblem 15</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem16.html">Emblem 16</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem17.html">Emblem 17</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem18.html">Emblem 18</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem19.html">Emblem 19</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem20.html">Emblem 20</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem21.html">Emblem 21</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem22.html">Emblem 22</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem23.html">Emblem 23</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem24.html">Emblem 24</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem25.html">Emblem 25</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem26.html">Emblem 26</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem27.html">Emblem 27</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem28.html">Emblem 28</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem29.html">Emblem 29</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem30.html">Emblem 30</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem31.html">Emblem 31</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem32.html">Emblem 32</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem33.html">Emblem 33</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem34.html">Emblem 34</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem35.html">Emblem 35</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem36.html">Emblem 36</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem37.html">Emblem 37</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem38.html">Emblem 38</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem39.html">Emblem 39</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem40.html">Emblem 40</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem41.html">Emblem 41</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem42.html">Emblem 42</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem43.html">Emblem 43</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem44.html">Emblem 44</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem45.html">Emblem 45</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem46.html">Emblem 46</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem47.html">Emblem 47</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem48.html">Emblem 48</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem49.html">Emblem 49</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem50.html">Emblem 50</a>
+</li>
+<li class="toc__heading">
+<a href="../atalanta-essays/essay-toc.html">Essays</a>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay-intro.html">Introduction</a>
+<span class="toc__byline">by Donna Bilak and Tara Nummedal</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay1.html">Essay 1</a>
+<span class="toc__byline">by Author 1</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay2.html">Essay 2</a>
+<span class="toc__byline">by Author 2</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay3.html">Essay 3</a>
+<span class="toc__byline">by Author 3</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay4.html">Essay 4</a>
+<span class="toc__byline">by Author 4</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay5.html">Essay 5</a>
+<span class="toc__byline">by Author 5</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay6.html">Essay 6</a>
+<span class="toc__byline">by Author 6</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay7.html">Essay 7</a>
+<span class="toc__byline">by Author 7</span>
+</li>
+<li class="toc__heading">
+<a href="#">Search</a>
+</li>
+<li class="toc__heading">Resources</li>
+<li>
+<a href="#">Process &amp; Acknowledgments</a>
+</li>
+<li>
+<a href="#">Performance Edition</a>
+</li>
+<li>
+<a href="#">Downloads</a>
+</li>
+</ul>
+</div>
+</div>
+</nav></div><nav class="subnav"><ul><li class="subnav__views--single is-hidden" data-state="active"><a href="#">Single View</a></li><li class="subnav__options--option is-active" data-state="active"><a href="#">English</a></li><li class="subnav__options--option" data-state="inactive"><a href="#">Latin/German</a></li><li class="subnav__options--option" data-state="inactive"><a href="#">Original</a></li><li class="subnav__views--double" data-state="inactive"><a href="#">Comparative View</a></li><li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">English</a></li><li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">Latin/German</a></li><li class="subnav__options--option is-hidden is-active" data-state="active"><a href="#">Original</a></li></ul></nav></header><main id="emblem-data" class="emblem-page frontmatter" data-id="1"><div class="_sidenav"></div><div class="section__facsimile is-hidden"><div class="facsimile--full"><section class="_facsimile"><section class="facsimile"><div id="openseadragon-wrapper"><div id="tools"><span><a id="zoom-in" href="#zoom-in" title="Zoom In" style="display: inline-block; position: relative">Zoom In</a><a id="zoom-out" href="#zoom-out" title="Zoom Out" style="display: inline-block; position: relative">Zoom Out</a><a id="previous" href="#previous" title="Previous" style="display: inline-block; position: relative">Previous</a><a id="next" href="#next" title="Next" style="display: inline-block; position: relative">Next</a></span></div></div></section></section></div></div><div class="emblem"><section class="section__frontispiece section--single panel--full"><div class="translation"><div class="switch-wrapper left"><div class="facsimile-normalized-switch"><ul><li><a href="#">Facsimile</a></li><li class="is-selected"><a href="#">Normalized</a></li></ul></div></div><span class="page-break--atalanta-fugiens"></span><span class="page-break--beinecke"></span><div class="lang--english _frontispiece--english edition--normalized"><div class="preface">
+                        <span class="milestone">006</span>
+                        <h3 class="preface">The <span class="original">Præface </span><span class="regularized">Preface</span> to the Reader.</h3>         
+                        Candid Reader!
+                        <div class="ab">
+                        It is a truth <span class="original">denyd </span><span class="regularized">denied</span> by none that man in his composition
+                        <span class="original">repræsents </span><span class="regularized">represents</span> a compendium of the universe, and is destinated to live three kinds
+                        of life, namely a vegetable, in his mothers <span class="original">wombe </span><span class="regularized">womb</span>, where indeed <span class="original">hee </span><span class="regularized">he</span> <span class="original">growes </span><span class="regularized">grows</span> 
+                        and is <span class="original">encreased </span><span class="regularized">increased</span> like a plant; a sensible, <span class="original">towitt </span><span class="regularized">to wit</span> in this world, where for the
+                        most part <span class="original">hee </span><span class="regularized">he</span> is led by the Senses, as all other <span class="original">animalls </span><span class="regularized">animals</span>, from which <span class="original">hee </span><span class="regularized">he</span> 
+                        differs, in beginning to exercise the understanding, though imperfectly; and
+                        lastly an intelligible, in the other world with God, and the Intelligences,
+                        or good <span class="original">Angells </span><span class="regularized">Angels</span> <span class="original">assistent </span><span class="regularized">assistant</span> to him; in this life, the nearer a man comes to the
+                        divine nature, the more <span class="original">doth </span><span class="regularized">does</span> <span class="original">hee </span><span class="regularized">he</span> <span class="original">rejoyce </span><span class="regularized">rejoice</span> and is delighted in searching out 
+                        things <span class="original">subtill </span><span class="regularized">subtle</span> <span class="original">wonderfull </span><span class="regularized">wonderful</span> and rare, by the understanding: and on the contrary,
+                        the more a man declines and degenerates to a <span class="original">bestiall </span><span class="regularized">bestial</span> kind, the <span class="original">lesse </span><span class="regularized">less</span> is <span class="original">hee </span><span class="regularized">he</span> 
+                        affected with them, and is bound to a more <span class="original">corporeall </span><span class="regularized">corporeal</span> sense.<span class="note-mark">*</span><div class="margin-note"><span class="note-mark">*</span>
+                        X <span class="original">Wee </span><span class="regularized">We</span> see examples of either, that some, namely the more learned
+                        are adorned with those arts &amp; sciences, but very many addicted to these,
+                        that is to say the pleasures of the body, lust, gluttony, <span class="original">externall </span><span class="regularized">external</span> <span class="original">pompe </span><span class="regularized">pomp</span>,
+                            and the like.</div> Now to instruct 
+                        and perfect the understanding God <span class="original">hath </span><span class="regularized">has</span> hidden infinite secrets in nature, 
+                        which are <span class="original">forc'd </span><span class="regularized">forced</span> out <span class="subst"><span class="del">of</span><span class="add">by</span></span> innumerable arts and Sciences, as fire out of a flint, 
+                        and <span class="original">transferrd </span><span class="regularized">transferred</span> to use: amongst these <span class="original">Chymicall </span><span class="regularized">Chymical</span> <span class="milestone">007</span>secrets are not the mea<span class="original">=<br></span>nest, but next to the indagation of divine things, the <span class="original">principall </span><span class="regularized">principal</span> and most 
+                        <span class="original">pretious </span><span class="regularized">precious</span> of all, not to be investigated by circumforaneous impostors, and 
+                        <span class="original">pseudochymicall </span><span class="regularized">pseudochymical</span> drones (who in these things are asini ad Lyram, because 
+                        <span class="original">alltogether </span><span class="regularized">altogether</span> strangers to all good learning and intention) but by more lofty
+                        <span class="original">witts </span><span class="regularized">wits</span>, generously educated, and <span class="original">borne </span><span class="regularized">born</span> to greater things, they being very <span class="original">sub<span class="original">=<br></span>till </span><span class="regularized">subtle</span>, concise, sacred, rare, and abstruse, and therefore to be comprehended
+                        by the understanding sooner than by sense, rather by profound contem
+                        
+                        <span class="pb">05</span><span class="fw original">the <span class="original">præface </span><span class="regularized">preface</span> to the Reader.</span><span class="original">=<br></span>plation upon the reading of authors, and comparing them together, and 
+                        with the works of nature, than sensitive operation, or <span class="original">manuall </span><span class="regularized">manual</span> experi<span class="original">=<br></span>mentation, which is blind without <span class="original">prævious </span><span class="regularized">previous</span> theory: next after such <span class="original">intellec<span class="original">=<br></span>tuall </span><span class="regularized">intellectual</span> sciences as these are reckoned those which treat of a visible and au<span class="original">=<br></span>dible object, as are <span class="original">Opticks </span><span class="regularized">Optics</span>, or perspectives, and Picture, which is by some
+                        Poets called mute, as this on the contrary a speaking picture, as <span class="original">allso </span><span class="regularized">also</span> <span class="original">Mu<span class="original">=<br></span>sicke </span><span class="regularized">Music</span>, whether <span class="original">vocall </span><span class="regularized">vocal</span>, or <span class="original">instrumentall </span><span class="regularized">instrumental</span>: herein the ancient Philosophers 
+                        did <span class="original">soe </span><span class="regularized">so</span> exercise themselves, that <span class="original">hee </span><span class="regularized">he</span> was reputed unlearned, and <span class="original">forcd </span><span class="regularized">forced</span>
+                        to sing to the Myrtle, who refused the Harp in <span class="original">festivalls </span><span class="regularized">festivals</span>, as is declared of
+                        Themistocles: in <span class="original">Musicke </span><span class="regularized">Music</span> was Socrates instructed, and Plato <span class="original">himselfe </span><span class="regularized">himself</span>, who
+                        concluded him not harmoniously compounded, that delighted not in <span class="original">Musicall </span><span class="regularized">Musical</span>
+                        harmony: Pythagoras was very famous in the same, who is <span class="original">sayd </span><span class="regularized">said</span> to have used
+                        the symphony of <span class="original">musicke </span><span class="regularized">music</span> morning, and evening to compose the minds of
+                        his disciples: for this is a peculiar virtue of <span class="original">Musicke </span><span class="regularized">Music</span>, to quicken or refresh the
+                        affections by the different <span class="original">musicall </span><span class="regularized">musical</span> measures: <span class="original">Soe </span><span class="regularized">So</span> the Phrygian tune was 
+                        by the <span class="original">Græks </span><span class="regularized">Greeks</span> termed <span class="original">warrlike </span><span class="regularized">warlike</span>, because it was sung in <span class="original">warre </span><span class="regularized">war</span>, and upon en<span class="original">=<br></span>gagement, and had a singular virtue in stirring up the Spirits of the 
+                        Soldiers; instead of which the <span class="original">Jonicke </span><span class="regularized">Ionic</span> is sometimes used for the same pur<span class="original">=<br></span>pose, which was formerly esteemed <span class="milestone">008</span>amatory (as the Phrygian is <span class="subst"><span class="del">sometimes</span><span class="add">now</span></span> re<span class="original">=<br></span>puted) from which <span class="original">wee </span><span class="regularized">we</span> gather tunes <span class="original">changd </span><span class="regularized">changed</span> one with another: it is <span class="original">sayd </span><span class="regularized">said</span> that
+                        Timothy Milese used the Phrygian to make Alexander the great more 
+                        <span class="original">Spritefull </span><span class="regularized">Spriteful</span> and <span class="original">couragious </span><span class="regularized">courageous</span> in warlike <span class="original">affaires </span><span class="regularized">affairs</span>, which Cicero takes notice of 2.
+                        de legibus, but Terpander Lesbius of the <span class="original">Jonicke </span><span class="regularized">Ionic</span>; who being sent for by 
+                        the <span class="original">Lacedæmonians </span><span class="regularized">Lacedamonians</span>, seditions then raging among them, did by the <span class="original">sweet<span class="original">=<br></span>nesse </span><span class="regularized">sweetness</span> of singing <span class="original">soe </span><span class="regularized">so</span> titillate and affect their minds, that they returned 
+                        into <span class="original">freindship </span><span class="regularized">friendship</span>, and desisted from sedition: upon which consideration the
+                        Lesbian singers were <span class="original">allwayes </span><span class="regularized">always</span> <span class="original">præferrd </span><span class="regularized">preferred</span> in the judgment of the Spartans: 
+                        Fabius <span class="original">sayth </span><span class="regularized">says</span> thus of <span class="original">Musicke </span><span class="regularized">Music</span>: <span class="original">Musicke </span><span class="regularized">Music</span> is an honest and pleasant recrea<span class="original">=<br></span>tion most proper for generous <span class="original">witts </span><span class="regularized">wits</span>: that therefore <span class="original">wee </span><span class="regularized">we</span> might have these 
+                        three objects of the more <span class="original">spirituall </span><span class="regularized">spiritual</span> senses, namely <span class="original">seing </span><span class="regularized">seeing</span> and hearing, as 
+                        <span class="original">allso </span><span class="regularized">also</span> the understanding <span class="original">itselfe </span><span class="regularized">itself</span>, as it were in one view and embrace, and
+                        insinuate all at once into mens minds for the better understanding thereof,
+                        behold <span class="original">wee </span><span class="regularized">we</span> have <span class="original">joyned </span><span class="regularized">joined</span> the <span class="original">Opticke </span><span class="regularized">Optic</span> together with <span class="original">Musicke </span><span class="regularized">Music</span>, and sense 
+                        with the understanding, that is, things rare to be seen and heard of with
+                        <span class="original">Chymicall </span><span class="regularized">Chymical</span> emblems, which are peculiar to this Science: for all other arts,
+                        if they represent emblems of manners, or other things, than of the secrets
+                        of nature, this seems different from their scope and end, they being 
+                        willing and requisite to be understood by all men; <span class="original">Chymy </span><span class="regularized">Chemia</span> not <span class="original">soe </span><span class="regularized">so</span>, 
+                        which as a <span class="original">chast </span><span class="regularized">chaste</span> virgin ought to be seen through a <span class="original">veile </span><span class="regularized">veil</span>, and as Diana,
+                        not without a garment of various <span class="original">colours </span><span class="regularized">colors</span>, for reasons <span class="original">elswhere </span><span class="regularized">elsewhere</span> expres<span class="original">=<br></span>sed: I say, these <span class="original">foure </span><span class="regularized">four</span> <span class="original">emblematicall </span><span class="regularized">emblematical</span>, feigned, <span class="original">poeticall </span><span class="regularized">poetical</span> and <span class="original">allegoricall </span><span class="regularized">allegorical</span>, pic<span class="original">=<br></span>ted notions, graved in Venus or Copper, not without Venus or elegancy; most
+                        abstruse <span class="original">Chymicall </span><span class="regularized">Chymical</span> things, and lastly most rare <span class="original">Musicall </span><span class="regularized">Musical</span> things to be enu<span class="original">=<br></span>cleated by the understanding, you have <span class="original">alltogether </span><span class="regularized">altogether</span> in one <span class="original">booke </span><span class="regularized">book</span>, and may
+                        as designed apply them to your <span class="original">owne </span><span class="regularized">own</span> use, which if it be more <span class="original">intel
+                        
+                        <span class="pb">06</span><span class="fw original">the <span class="original">præface </span><span class="regularized">preface</span> to the Reader.</span><span class="original">=<br></span>lectuall </span><span class="regularized">intellectual</span>, than <span class="original">sensuall </span><span class="regularized">sensual</span>, the more profitable <span class="milestone">009</span>and <span class="original">delightfull </span><span class="regularized">delightful</span> will it be in time:
+                        but if it be first in bondage to the sense, there is <span class="original">noe </span><span class="regularized">no</span> doubt but there will 
+                        be a passage from the sense to the understanding as by a <span class="original">doore </span><span class="regularized">door</span>: for nothing is
+                        <span class="original">sayd </span><span class="regularized">said</span> to be in the understanding, which had not admission by some sense, 
+                        the understanding of a man new <span class="original">borne </span><span class="regularized">born</span> being <span class="original">supposd </span><span class="regularized">supposed</span> as a smooth table, 
+                        wherein nothing is as yet written, but any thing may be written by the 
+                        <span class="original">helpe </span><span class="regularized">help</span> of sense, as a Style: and it is <span class="original">coḿonly </span><span class="regularized">commonly</span> <span class="original">sayd </span><span class="regularized">said</span>, there is <span class="original">noe </span><span class="regularized">no</span> desire of a
+                        thing <span class="original">unknowne </span><span class="regularized">unknown</span>, because the senses being inquisitors and messengers must
+                        first convey, and as warders <span class="add">the instruments of a <span class="original">citty </span><span class="regularized">city</span></span> watching at the gates <span class="subst"><span class="del">(their organs)</span> <span class="del">of <span class="original">citty </span><span class="regularized">city</span></span><span class="add">thereof</span></span>
+                        <span class="original">informe </span><span class="regularized">inform</span> and impart everything that is to be <span class="original">knowne </span><span class="regularized">known</span>, to the understanding,
+                        as the dictator and arbiter. As to the reason of engraving these Emblems,
+                        lest even they may seem monstrous and incongruous to you, I will add a few
+                        things: Atalanta is renowned by the Poets for <span class="add">speed in</span> running, in which exercise
+                        <span class="original">shee </span><span class="regularized">she</span> surpassed all her suitors, and therefore, the reward of victory being
+                        propounded, death ensued to those <span class="subst"><span class="del">being</span><span class="add">that were</span></span> <span class="original">overrunne </span><span class="regularized">overrun</span> by the Virgin, till <span class="original">Shee </span><span class="regularized">She</span>
+                        <span class="original">herselfe </span><span class="regularized">herself</span> was overcome by Hippomenes, a youth <span class="subst"><span class="del">more</span><span class="add">very</span></span> hardy and circumspect,
+                        casting three golden apples at <span class="add">three</span> <span class="original">severall </span><span class="regularized">several</span> times in her way, which taking up,
+                        <span class="original">Shee </span><span class="regularized">She</span> was in the <span class="original">meane </span><span class="regularized">mean</span> time outgone by him, being now near and touching 
+                        the <span class="original">goale </span><span class="regularized">goal</span>: as this Atalanta <span class="original">runns </span><span class="regularized">runs</span>, <span class="original">soe </span><span class="regularized">so</span> one <span class="original">Musicall </span><span class="regularized">Musical</span> note <span class="original">allwayes </span><span class="regularized">always</span> <span class="original">runns </span><span class="regularized">runs</span> before
+                        <span class="superscript">1</span>another, <span class="superscript">6</span>as <span class="superscript">7</span>Hippomenes, <span class="superscript">2</span>and <span class="superscript">3</span>the <span class="superscript">4</span>other <span class="superscript">5</span><span class="original">followes </span><span class="regularized">follows</span>: <span class="superscript">8</span>yet they are established and
+                        confirmed in a third, which is single and of one vali<span class="add">dity</span>, as a golden apple:
+                        This same virgin is merely <span class="original">Chymicall </span><span class="regularized">Chymical</span>, namely <span class="original">Philosophicall </span><span class="regularized">Philosophical</span> Mercury 
+                        fixed in flight and restrained by the golden Sulphur, <span class="note-mark">*</span><div class="margin-note"><span class="note-mark">*</span>x ☿</div> which if a man 
+                        know how to make stand, <span class="original">hee </span><span class="regularized">he</span> will have that Spouse which <span class="original">hee </span><span class="regularized">he</span> desires, if 
+                        not, destruction and <span class="original">ruine </span><span class="regularized">ruin</span> of his <span class="original">affaires </span><span class="regularized">affairs</span>: From Hippomenes and Atalanta
+                        lying together in the temple of the mother of the Gods, that is, a <span class="original">vessell </span><span class="regularized">vessel</span>, 
+                        are <span class="original">Lyons </span><span class="regularized">Lions</span> produced, or they acquire a red <span class="original">colour </span><span class="regularized">color</span>: <span class="milestone">0010</span>This virgin <span class="original">allso </span><span class="regularized">also</span> <span class="original">obtaind </span><span class="regularized">obtained</span>
+                        a victory before men, killing a <span class="original">certaine </span><span class="regularized">certain</span> boar of notable <span class="original">bignesse </span><span class="regularized">bigness</span>, for which
+                        <span class="original">Shee </span><span class="regularized">She</span> was rewarded by Meleager: Striking a <span class="original">rocke </span><span class="regularized">rock</span> at Stethæus the temple
+                        of <span class="original">Æsculapius </span><span class="regularized">Aesculapius</span> <span class="original">Shee </span><span class="regularized">She</span> brought forth water, <span class="subst"><span class="del">which</span><span class="add">whereof</span></span> being thirsty, <span class="original">Shee </span><span class="regularized">She</span> <span class="original">dranke </span><span class="regularized">drank</span>:
+                        which things being <span class="original">truely </span><span class="regularized">truly</span> <span class="original">allegoricall </span><span class="regularized">allegorical</span> and <span class="original">emblematicall </span><span class="regularized">emblematical</span>, and <span class="original">noe </span><span class="regularized">no</span> way
+                        <span class="original">historicall </span><span class="regularized">historical</span>, I was willing that this intellectual <span class="original">emblematicall </span><span class="regularized">emblematical</span> treatise 
+                        Should indigitate and take notice of them in commemoration of this noble
+                        <span class="original">Heroesse </span><span class="regularized">Heroine</span>, especially the apples cast before her being taken out of the 
+                        Hesperian gardens, and <span class="original">administred </span><span class="regularized">administered</span> to Hippomenes by Venus, the <span class="original">Goddesse </span><span class="regularized">Goddess</span>
+                        of <span class="original">favour </span><span class="regularized">favor</span> and <span class="original">sweetnesse </span><span class="regularized">sweetness</span>: in those <span class="original">Musicall </span><span class="regularized">Musical</span> measures or flights you see 
+                        this observed, that every <span class="original">disticke </span><span class="regularized">distich</span> being conveniently adapted to those three
+                        <span class="original">voyces </span><span class="regularized">voices</span> may be <span class="original">expressd </span><span class="regularized">expressed</span> in singing, in which <span class="original">soe </span><span class="regularized">so</span> many <span class="original">varietyes </span><span class="regularized">varieties</span> of flights
+                        being <span class="original">accomodated </span><span class="regularized">accommodated</span> to one single <span class="original">voyce </span><span class="regularized">voice</span>, every wise and intelligent man will
+                        <span class="original">allso </span><span class="regularized">also</span> <span class="original">thinke </span><span class="regularized">think</span> well of this kind of <span class="original">emblematicall </span><span class="regularized">emblematical</span> figuration in them, as 
+                        <span class="original">allso </span><span class="regularized">also</span> the adaptation in the <span class="original">disticks </span><span class="regularized">distichs</span> to every <span class="original">voyce </span><span class="regularized">voice</span>: for if some Merchants
+                        <span class="original">doe </span><span class="regularized">do</span> <span class="original">esteeme </span><span class="regularized">esteem</span> and buy an artifice of picture with a great <span class="original">summe </span><span class="regularized">sum</span> of money,
+                        where the eyes alone are deceived, they judging it very near to nature, 
+                        why should not the learned have these figures in good estimation 
+                    
+                        <span class="pb">07</span><span class="fw original">the <span class="original">præface </span><span class="regularized">preface</span> to the Reader.</span>
+                        which are <span class="original">soe </span><span class="regularized">so</span> <span class="original">usefull </span><span class="regularized">useful</span> and serviceable both to the understanding and
+                        many of the senses, that great utility besides delight and recreation 
+                        may be expected from them? Farewell <span class="pc">. . . . . . .</span>
+                        </div>
+                    </div></div></div><div class="original is-hidden"><div class="switch-wrapper left"><div class="latin-german-switch" style="display:none;"><ul><li class="is-selected"><a href="#">Latin</a></li><li><a href="#">German</a></li></ul></div></div><div class="lang--latin _frontispiece--latin"><div class="preface la">
+            <span class="pb atalanta-fugiens">06</span>
+            
+            <div class="page italic">
+               
+            
+               <span class="original"><br></span><span class="milestone atalanta-fugiens">pr-01</span><span class="caps">H</span><span class="caps">ominem</span>, lectorem candide, universi compendium
+               <span class="original"><br></span>sui compositione referre, in confesso est omnium,
+               <span class="original"><br></span><span class="original">&amp;</span> ternis vite generibus vivendis destinatum es<span class="original">-<br></span>se, nempe vegetabili in utero materno, ubi sal<span class="original">-<br></span>tem plant<span class="original">æ</span><span class="regularized">[ae]</span> instar crescit <span class="original">&amp;</span> augmentatur; sensi<span class="original">-<br></span>bili, nimirum in hoc mundo, ubi maxima ex parte sensibus ducitur,
+               <span class="original"><br></span>ceu reliqua animalia, à quibus differt, quod intellectu incipiat
+               <span class="original"><br></span>uti, licet imperfectè; ac denique intelligibili, in altero mundo apud
+               <span class="original"><br></span>Deum, eiq́ue assistentes intelligentias seu Angelos bonos; <span class="milestone atalanta-fugiens">pr-02</span>In pr<span class="original">æ</span><span class="regularized">[ae]</span><span class="original">-<br></span>senti vitâ, quò quis magis ad divinam naturam accedit, eò magis
+               <span class="original"><br></span>rebus intellectu indagandis, subtilibus, miris <span class="original">&amp;</span> raris, gaudet <span class="original">&amp;</span> 
+               <span class="original"><br></span>delectatur: Et econtrà, quò quis ad pecuinũ<span class="regularized">[pecuinum]</span> genus magis declinat,
+               <span class="original"><br></span>eò min his capitur, <span class="original">&amp;</span> sensui corporaliori astrictus est: <span class="milestone atalanta-fugiens">pr-03</span>Utro<span class="original">-<br></span>rumque videmus Exempla, quosdam illis, utpote doctiores, artibus
+               <span class="original"><br></span><span class="original">&amp;</span> scientiis politos esse deditos, quàmplurimos hisce, nempe volu<span class="original">-<br></span>ptatibus corporis, libidini, gul<span class="original">æ</span><span class="regularized">[ae]</span>, pomp<span class="original">æ</span><span class="regularized">[ae]</span> extern<span class="original">æ</span><span class="regularized">[ae]</span>, <span class="original">&amp;</span> his similibus.
+               <span class="original"><br></span><span class="milestone atalanta-fugiens">pr-04</span>Ad excolendum autem intellectum Deus infinita arcana abdidit
+               <span class="original"><br></span>in natura, qu<span class="original">æ</span><span class="regularized">[ae]</span> scientiis <span class="original">&amp;</span> artibus innumeris, ut ignis ex silice ex<span class="original">-<br></span>tunduntur, <span class="original">&amp;</span> in usum transferuntur: <span class="milestone atalanta-fugiens">pr-05</span>Inter h<span class="original">æ</span><span class="regularized">[ae]</span>c sunt Chymica
+            
+        </div>
+            
+            <span class="pb atalanta-fugiens">7</span>
+            
+            
+        <div class="page italic">
+           
+               <span class="original"><br></span>secreta non postrema, sed post divinorum indagationem, omnium
+               <span class="original"><br></span>prima <span class="original">&amp;</span> preciosissima, non circumforaneis deceptoribus <span class="original">&amp;</span> fucis
+               <span class="original"><br></span>pseudo-chymicis (qui in his sunt asini ad lyram, quippe ad omni bo<span class="original">-<br></span>na doctrina <span class="original">&amp;</span> intentione alienissimi) sed ingeniis altioribus, libe<span class="original">-<br></span>raliter educatis, <span class="original">&amp;</span> ad <span class="regularized">majora natis</span><span class="original">majoranatis </span> investiganda, cùm sint val<span class="original">-<br></span>dè subtilia, augusta, sacra, rara <span class="original">&amp;</span> abstrusa, ideoq́ue intellectu
+               <span class="original"><br></span>comprehendenda priùs, quàm sensu, potiùs per contemplationem
+               <span class="original"><br></span>profundam ex lectione authorum, eorumq́ue inter se <span class="original">&amp;</span> cum natu<span class="original">-<br></span>r<span class="original">æ</span><span class="regularized">[ae]</span> operibus comparationem, quàm operationem sensitivam, seu
+               <span class="original"><br></span>manualem experimentationem, qu<span class="original">æ</span><span class="regularized">[ae]</span> c<span class="original">œ</span><span class="regularized">[oe]</span>ca est fine Theorica pr<span class="original">æ</span><span class="regularized">[ae]</span><span class="original">-<br></span>via: <span class="milestone atalanta-fugiens">pr-06</span>Post scientias huiusmodi intellectuales proximè numerantur,
+               <span class="original"><br></span>que<span class="regularized">[quae]</span> de visibili ac audibili objecto tractant, ut sun Optica seu per<span class="original">-<br></span>spectiva, <span class="original">&amp;</span> pictura loquens, nec non Musica sive vocalis
+               <span class="original"><br></span>seu organica: <span class="milestone atalanta-fugiens">pr-07</span>In hac antiqui Philosophi adeò se exercuerunt, ut in<span class="original">-<br></span>doctus haberetur, <span class="original">&amp;</span> ad myrtu<span class="regularized">[myrtum]</span> canere cogeretur, qui lyra<span class="regularized">[lyram]</span> recusasset
+               <span class="original"><br></span>in conviviis, ut de <span class="latin">Themistocle</span> traditur: <span class="milestone atalanta-fugiens">pr-08</span>In Musica <span class="latin">Socrates</span>
+               <span class="original"><br></span>institutus <span class="original">&amp;</span> ipse <span class="latin">Plato</span>, qui non harmonicè compositũ<span class="regularized">[compositum]</span> eum statuit,
+               <span class="original"><br></span>qui harmonia Musicali non gaudeat: <span class="milestone atalanta-fugiens">pr-09</span>In eâdem <span class="latin">Pythagoras</span> per<span class="original">-<br></span>celebris fuit, qui manè <span class="original">&amp;</span> vesperi music<span class="original">æ</span><span class="regularized">[ae]</span> symphonia ad compo<span class="original">-<br></span>nendos suorum discipulorum animos usus dicitur: <span class="milestone atalanta-fugiens">pr-10</span>Est enim Mu<span class="original">-<br></span>sic<span class="original">æ</span><span class="regularized">[ae]</span> h<span class="original">æ</span><span class="regularized">[ae]</span>c peculiaris vis, ut affectus excitet vel mulceat, pro diver<span class="original">-<br></span>so Musicali modo: <span class="milestone atalanta-fugiens">pr-11</span>Sic <span class="latin">Phrygius</span> Modus apud <span class="latin">Gr<span class="original">æ</span><span class="regularized">[ae]</span>cos</span> diceba<span class="original">-<br></span>tur bellicosus propterea, quod in bello <span class="original">&amp;</span> in pr<span class="original">æ</span><span class="regularized">[ae]</span>lio ineundo accinere<span class="original">-<br></span>tur, <span class="original">&amp;</span> singularem vim haberet ad animos militum concitandos;
+               <span class="original"><br></span>cuius vice ad eundem usum nunc adhibetur <span class="latin">Ionicus</span>, qui olim
+            
+        </div>
+              
+            <span class="pb atalanta-fugiens">8</span>
+            
+            
+        <div class="page italic">
+           
+               <span class="original"><br></span>amatorius <span class="original">æ</span><span class="regularized">[ae]</span>stimatus fuit (qualis nunc habetur <span class="latin">Phrygius</span>) unde
+               <span class="original"><br></span>modos inter se mutatos conjicimus: <span class="milestone atalanta-fugiens">pr-12</span><span class="latin">Phrygio</span> <span class="latin">Timotheum</span>
+                  <span class="original"><br></span><span class="latin">Milesium</span> usum tradunt ad Alexandrum Magnum in rebus bel<span class="original">-<br></span>licis alacriorem <span class="original">&amp;</span> animosiorem reddendum, cujus Cicero meminit
+               <span class="original"><br></span>2. de legib<span class="regularized">[legibus]</span>. <span class="milestone atalanta-fugiens">pr-13</span><span class="latin">Terpandrum</span> verò <span class="latin">Lesbium</span> <span class="latin">Ionico</span>; qui accersi<span class="original">-<br></span>tus à Laced<span class="original">æ</span><span class="regularized">[ae]</span>moniis, seditionibus inter se tumultuantibus suavi<span class="original">-<br></span>tate cantus eorum animos adeò delinivit, ut redirent in amici<span class="original">-<br></span>citiam <span class="original">&amp;</span> à seditione desisterent: Unde <span class="latin">Lesbii</span> cantores primas
+               <span class="original"><br></span>semper meruerunt Spartanorum judicio: <span class="milestone atalanta-fugiens">pr-14</span>De Musica sic Fabius,
+               <span class="original"><br></span>Musica, inquit, est honestum <span class="original">&amp;</span> jucundum oblectamentum libe<span class="original">-<br></span>ralibus ingeniis maximè dignum: <span class="milestone atalanta-fugiens">pr-15</span>H<span class="original">æ</span><span class="regularized">[ae]</span>c tria itaque sensuum magis
+               <span class="original"><br></span>spiritualium, nempe visus <span class="original">&amp;</span> auditus, nec non intellectus ipsius
+               <span class="original"><br></span>objecta, ut in uno quasi conspectu <span class="original">&amp;</span> complexu haberemus, <span class="original">&amp;</span> ma<span class="original">-<br></span>gis intelligendũ<span class="regularized">[intelligendum]</span> animis simul <span class="original">&amp;</span> semel insinuaremus, En conju<span class="original">-<br></span>ximus Opticam cum Musica <span class="original">&amp;</span> sensum cum intellectu, hoc est, ra<span class="original">-<br></span>ra visu <span class="original">&amp;</span> auditu cum chymicis emblematibus, qu<span class="original">æ</span><span class="regularized">[ae]</span> huic scienti<span class="original">æ</span><span class="regularized">[ae]</span>
+               <span class="original"><br></span>sunt propria. <span class="milestone atalanta-fugiens">pr-16</span>C<span class="original">æ</span><span class="regularized">[ae]</span>ter<span class="original">æ</span><span class="regularized">[ae]</span> enim artes, si emblemata edant de moribus,
+               <span class="original"><br></span>aur rebus aliis, quàm de natur<span class="original">æ</span><span class="regularized">[ae]</span> arcanis, alienum hoc videtur ab
+               <span class="original"><br></span>eorum scopo <span class="original">&amp;</span> fine, cùm intelligi omnibus velint <span class="original">&amp;</span> debeant;
+               <span class="original"><br></span><span class="milestone atalanta-fugiens">pr-17</span>Chemia nõ<span class="regularized">[non]</span> itẽ<span class="regularized">[item]</span>, qu<span class="original">æ</span><span class="regularized">[ae]</span> ut casta virgo per transennam, <span class="original">&amp;</span> veluti Dia<span class="original">-<br></span>na, non absq<span class="original">;</span><span class="regularized">[absque]</span> veste variati coloris visenda est, propter causas alibi
+               <span class="original"><br></span>expressas: <span class="milestone atalanta-fugiens">pr-18</span>Quatuor, inquam, h<span class="original">æ</span><span class="regularized">[ae]</span>c, ficta, poëtica <span class="original">&amp;</span> allegorica, picta,
+               <span class="original"><br></span>Emblematica, Veneri sive cupro, non sine Venere sue gratia, incisa,
+               <span class="original"><br></span>Chymica secretissima, intellectu indaganda <span class="original">&amp;</span> denique Musicalia
+               <span class="original"><br></span>rariora, simul <span class="original">&amp;</span> semel uno libro suscipias inq́ue tuum usum dicata
+               <span class="original"><br></span>adhibeas, qui si potiùs intellectualis fuerit, quàm sensualis, eò uti             
+            
+         </div>
+                        
+            <span class="pb atalanta-fugiens">9</span>
+            
+            
+         <div class="page italic">
+            <span class="original">-<br></span>lior <span class="original">&amp;</span> jucundior olim futurus est: <span class="milestone atalanta-fugiens">pr-19</span>quod si verò primum sensui man<span class="original">-<br></span>cipatus, nullum est dubium quin à sensu ad intellectum transitus
+               <span class="original"><br></span>fiet, tanquam per ostium: <span class="milestone atalanta-fugiens">pr-20</span>Nihil enim in intellectu esse dicitur, quod
+               <span class="original"><br></span>non per sensum aliquem introiverit, cùm hominis recens nati in<span class="original">-<br></span>tellectus instar tabul<span class="original">æ</span><span class="regularized">[ae]</span> ras<span class="original">æ</span><span class="regularized">[ae]</span> habeatur, in qua nihil adhuc scriptum,
+               <span class="original"><br></span>sed quod libet sensu mediante, tanquam stylo, scribi possit: <span class="milestone atalanta-fugiens">pr-21</span>Et vulgo
+               <span class="original"><br></span>dicitur; Ignoti nulla cupido, quia oportet, ut intellectui, veluti dicta<span class="original">-<br></span>tori <span class="original">&amp;</span> arbitro, sensus indagatores <span class="original">&amp;</span> nuncii, omne scibile primitus
+               <span class="original"><br></span>apportent <span class="original">&amp;</span> innotescere faciant, tanquã<span class="regularized">[tanquam]</span> Excubitores ad (sua or<span class="original">-<br></span>gana) civitatis alicujus portas invigilãtes<span class="regularized">[invigilantes]</span>. <span class="milestone atalanta-fugiens">pr-22</span>De ratione inscriptionis
+               <span class="original"><br></span>horum emblematũ<span class="regularized">[emblematum]</span>, ne <span class="original">&amp;</span> h<span class="original">æ</span><span class="regularized">[ae]</span>c tibi monstrosa videatur <span class="original">&amp;</span> absona,
+               <span class="original"><br></span>pauca adjiciam: <span class="milestone atalanta-fugiens">pr-23</span><span class="latin">Atalanta</span> Poëtis celebrata est propter fugam,
+               <span class="original"><br></span>quâ omnes procos in certamine antevertit, ideóque ipsis victis pro
+               <span class="original"><br></span>virgine, pr<span class="original">æ</span><span class="regularized">[ae]</span>mio victori<span class="original">æ</span><span class="regularized">[ae]</span> proposito, mors obtigit, donec ab <span class="latin">Hippo<span class="original">-<br></span>mene</span>, juvene audaciore <span class="original">&amp;</span> provido, superata <span class="original">&amp;</span> obtenta sit trium
+               <span class="original"><br></span>malorum aureorum per vices inter currendum objectu, qu<span class="original">æ</span><span class="regularized">[ae]</span> dum
+               <span class="original"><br></span>illa tolleret, pr<span class="original">æ</span><span class="regularized">[ae]</span>venta est ab eo, metam jam attingente: <span class="milestone atalanta-fugiens">pr-24</span>H<span class="original">æ</span><span class="regularized">[ae]</span>c <span class="latin">Ata<span class="original">-<br></span>lanta</span> ut fugit, sic una vox Musicalis semper fugit ante aliam <span class="original">&amp;</span>
+               <span class="original"><br></span>altera insequitur, ut <span class="latin">Hippomenes</span>: <span class="milestone atalanta-fugiens">pr-25</span>In tertia tamen stabiliun<span class="original">-<br></span>tur <span class="original">&amp;</span> firmantur, qu<span class="original">æ</span><span class="regularized">[ae]</span> simplex est <span class="original">&amp;</span> unius valoris, tanquam
+               <span class="original"><br></span>malo aureo: <span class="milestone atalanta-fugiens">pr-26</span>H<span class="original">æ</span><span class="regularized">[ae]</span>c eadem virgo merè Chymica est, nempe Mercu<span class="original">-<br></span>rius Philosophicus à sulfure aureo in fuga fixatus <span class="original">&amp;</span> retentus,
+               <span class="original"><br></span>quem si quis sistere noverit, sponsam, quam ambit, habebit, sin mi<span class="original">-<br></span>nus, perditionem suarum rerum <span class="original">&amp;</span> interitum: <span class="milestone atalanta-fugiens">pr-27</span>Ex <span class="latin">Hippome<span class="original">-<br></span>ne</span> <span class="original">&amp;</span> <span class="latin">Atalanta</span> coëuntibus in templo Matris Deûm, hoc est, va<span class="original">-<br></span>se, fiunt leones, sive rubeum acquirunt colorem. <span class="milestone atalanta-fugiens">pr-28</span>Obtinuit quoque
+            
+         </div>
+                         
+            <span class="pb atalanta-fugiens">10</span>
+            
+            
+         <div class="page italic">
+             
+               <span class="original"><br></span>h<span class="original">æ</span><span class="regularized">[ae]</span>c virgo victoriam pr<span class="original">æ</span><span class="regularized">[ae]</span> viris, apro quodam insignis magnitudinis
+               <span class="original"><br></span>occiso, unde pr<span class="original">æ</span><span class="regularized">[ae]</span>mio à <span class="latin">Meleagro</span> donata est: <span class="milestone atalanta-fugiens">pr-29</span>Apud Steth<span class="original">æ</span><span class="regularized">[ae]</span>um
+               <span class="original"><br></span><span class="original">Æ</span><span class="regularized">[Ae]</span>sculapii fanum è saxo percusso aquam elicuit, quam sitibunda
+               <span class="original"><br></span>bibit: <span class="milestone atalanta-fugiens">pr-30</span>Qu<span class="original">æ</span><span class="regularized">[ae]</span> cùm allegorica <span class="original">&amp;</span> Emblematica revera sint <span class="original">&amp;</span> nullo
+               <span class="original"><br></span>modo historica, volui in hujus Heroin<span class="original">æ</span><span class="regularized">[ae]</span> commemorationem intell<span class="original">-<br></span>lectualem hunc tractatum Emblematicum indigetare, pr<span class="original">æ</span><span class="regularized">[ae]</span>sertim
+               <span class="original"><br></span>cùm poma ei projecta ex hortis Hesperiis à Venere, suavitatis
+               <span class="original"><br></span>Dea, <span class="latin">Hippomeni</span> fuerint ministrata: <span class="milestone atalanta-fugiens">pr-30</span>In modulis illis seu fugis
+               <span class="original"><br></span>Musicis hoc observatum videtis, quod singula disticha ad tres il<span class="original">-<br></span>las voces adaptata convenienter canendo exprimi possint, in qui<span class="original">-<br></span>bus cùm uni simplici voci tot varietates fugarum sint accommo<span class="original">-<br></span>dat<span class="original">æ</span><span class="regularized">[ae]</span>, omnis cordatus <span class="original">&amp;</span> intelligens hanc quoque Emblematicam
+               <span class="original"><br></span>quasi figurationem, in his, ut <span class="original">&amp;</span> in distichis adaptationẽ<span class="regularized">[adaptationem]</span> ad singu<span class="original">-<br></span>las voculas, boni consulet <span class="original">&amp;</span> pro nonnihilo reputabit: <span class="milestone atalanta-fugiens">pr-31</span>Si enim
+               <span class="original"><br></span>mercatores nonnulli pro magna pecuni<span class="original">æ</span><span class="regularized">[ae]</span> summa artificium pictur<span class="original">æ</span><span class="regularized">[ae]</span>
+               <span class="original"><br></span>aliquod <span class="original">æ</span><span class="regularized">[ae]</span>stimant <span class="original">&amp;</span> emunt, ubi soli oculi falluntur, cùm natur<span class="original">æ</span><span class="regularized">[ae]</span>
+               <span class="original"><br></span>propinquissimum judicent, quid ni literati has figuras, qu<span class="original">æ</span><span class="regularized">[ae]</span> <span class="original">&amp;</span> in<span class="original">-<br></span>tellecctui <span class="original">&amp;</span> sensibus pluribus inserviunt ita, ut magna inde spe<span class="original">-<br></span>randa sit utilitas pr<span class="original">æ</span><span class="regularized">[ae]</span>ter oblectationem, in precio habeant <span class="original">&amp;</span> ma<span class="original">-<br></span>gni censeant? Vale.
+            
+                        
+         </div>
+         
+         </div></div></div></section><section class="section__frontispiece section--double panel--right is-hidden"><div class="translation is-hidden"><div class="switch-wrapper right"><div class="facsimile-normalized-switch"><ul><li><a href="#">Facsimile</a></li><li class="is-selected"><a href="#">Normalized</a></li></ul></div></div><div class="lang--english _frontispiece--english edition--normalized"><div class="preface">
+                        <span class="milestone">006</span>
+                        <h3 class="preface">The <span class="original">Præface </span><span class="regularized">Preface</span> to the Reader.</h3>         
+                        Candid Reader!
+                        <div class="ab">
+                        It is a truth <span class="original">denyd </span><span class="regularized">denied</span> by none that man in his composition
+                        <span class="original">repræsents </span><span class="regularized">represents</span> a compendium of the universe, and is destinated to live three kinds
+                        of life, namely a vegetable, in his mothers <span class="original">wombe </span><span class="regularized">womb</span>, where indeed <span class="original">hee </span><span class="regularized">he</span> <span class="original">growes </span><span class="regularized">grows</span> 
+                        and is <span class="original">encreased </span><span class="regularized">increased</span> like a plant; a sensible, <span class="original">towitt </span><span class="regularized">to wit</span> in this world, where for the
+                        most part <span class="original">hee </span><span class="regularized">he</span> is led by the Senses, as all other <span class="original">animalls </span><span class="regularized">animals</span>, from which <span class="original">hee </span><span class="regularized">he</span> 
+                        differs, in beginning to exercise the understanding, though imperfectly; and
+                        lastly an intelligible, in the other world with God, and the Intelligences,
+                        or good <span class="original">Angells </span><span class="regularized">Angels</span> <span class="original">assistent </span><span class="regularized">assistant</span> to him; in this life, the nearer a man comes to the
+                        divine nature, the more <span class="original">doth </span><span class="regularized">does</span> <span class="original">hee </span><span class="regularized">he</span> <span class="original">rejoyce </span><span class="regularized">rejoice</span> and is delighted in searching out 
+                        things <span class="original">subtill </span><span class="regularized">subtle</span> <span class="original">wonderfull </span><span class="regularized">wonderful</span> and rare, by the understanding: and on the contrary,
+                        the more a man declines and degenerates to a <span class="original">bestiall </span><span class="regularized">bestial</span> kind, the <span class="original">lesse </span><span class="regularized">less</span> is <span class="original">hee </span><span class="regularized">he</span> 
+                        affected with them, and is bound to a more <span class="original">corporeall </span><span class="regularized">corporeal</span> sense.<span class="note-mark">*</span><div class="margin-note"><span class="note-mark">*</span>
+                        X <span class="original">Wee </span><span class="regularized">We</span> see examples of either, that some, namely the more learned
+                        are adorned with those arts &amp; sciences, but very many addicted to these,
+                        that is to say the pleasures of the body, lust, gluttony, <span class="original">externall </span><span class="regularized">external</span> <span class="original">pompe </span><span class="regularized">pomp</span>,
+                            and the like.</div> Now to instruct 
+                        and perfect the understanding God <span class="original">hath </span><span class="regularized">has</span> hidden infinite secrets in nature, 
+                        which are <span class="original">forc'd </span><span class="regularized">forced</span> out <span class="subst"><span class="del">of</span><span class="add">by</span></span> innumerable arts and Sciences, as fire out of a flint, 
+                        and <span class="original">transferrd </span><span class="regularized">transferred</span> to use: amongst these <span class="original">Chymicall </span><span class="regularized">Chymical</span> <span class="milestone">007</span>secrets are not the mea<span class="original">=<br></span>nest, but next to the indagation of divine things, the <span class="original">principall </span><span class="regularized">principal</span> and most 
+                        <span class="original">pretious </span><span class="regularized">precious</span> of all, not to be investigated by circumforaneous impostors, and 
+                        <span class="original">pseudochymicall </span><span class="regularized">pseudochymical</span> drones (who in these things are asini ad Lyram, because 
+                        <span class="original">alltogether </span><span class="regularized">altogether</span> strangers to all good learning and intention) but by more lofty
+                        <span class="original">witts </span><span class="regularized">wits</span>, generously educated, and <span class="original">borne </span><span class="regularized">born</span> to greater things, they being very <span class="original">sub<span class="original">=<br></span>till </span><span class="regularized">subtle</span>, concise, sacred, rare, and abstruse, and therefore to be comprehended
+                        by the understanding sooner than by sense, rather by profound contem
+                        
+                        <span class="pb">05</span><span class="fw original">the <span class="original">præface </span><span class="regularized">preface</span> to the Reader.</span><span class="original">=<br></span>plation upon the reading of authors, and comparing them together, and 
+                        with the works of nature, than sensitive operation, or <span class="original">manuall </span><span class="regularized">manual</span> experi<span class="original">=<br></span>mentation, which is blind without <span class="original">prævious </span><span class="regularized">previous</span> theory: next after such <span class="original">intellec<span class="original">=<br></span>tuall </span><span class="regularized">intellectual</span> sciences as these are reckoned those which treat of a visible and au<span class="original">=<br></span>dible object, as are <span class="original">Opticks </span><span class="regularized">Optics</span>, or perspectives, and Picture, which is by some
+                        Poets called mute, as this on the contrary a speaking picture, as <span class="original">allso </span><span class="regularized">also</span> <span class="original">Mu<span class="original">=<br></span>sicke </span><span class="regularized">Music</span>, whether <span class="original">vocall </span><span class="regularized">vocal</span>, or <span class="original">instrumentall </span><span class="regularized">instrumental</span>: herein the ancient Philosophers 
+                        did <span class="original">soe </span><span class="regularized">so</span> exercise themselves, that <span class="original">hee </span><span class="regularized">he</span> was reputed unlearned, and <span class="original">forcd </span><span class="regularized">forced</span>
+                        to sing to the Myrtle, who refused the Harp in <span class="original">festivalls </span><span class="regularized">festivals</span>, as is declared of
+                        Themistocles: in <span class="original">Musicke </span><span class="regularized">Music</span> was Socrates instructed, and Plato <span class="original">himselfe </span><span class="regularized">himself</span>, who
+                        concluded him not harmoniously compounded, that delighted not in <span class="original">Musicall </span><span class="regularized">Musical</span>
+                        harmony: Pythagoras was very famous in the same, who is <span class="original">sayd </span><span class="regularized">said</span> to have used
+                        the symphony of <span class="original">musicke </span><span class="regularized">music</span> morning, and evening to compose the minds of
+                        his disciples: for this is a peculiar virtue of <span class="original">Musicke </span><span class="regularized">Music</span>, to quicken or refresh the
+                        affections by the different <span class="original">musicall </span><span class="regularized">musical</span> measures: <span class="original">Soe </span><span class="regularized">So</span> the Phrygian tune was 
+                        by the <span class="original">Græks </span><span class="regularized">Greeks</span> termed <span class="original">warrlike </span><span class="regularized">warlike</span>, because it was sung in <span class="original">warre </span><span class="regularized">war</span>, and upon en<span class="original">=<br></span>gagement, and had a singular virtue in stirring up the Spirits of the 
+                        Soldiers; instead of which the <span class="original">Jonicke </span><span class="regularized">Ionic</span> is sometimes used for the same pur<span class="original">=<br></span>pose, which was formerly esteemed <span class="milestone">008</span>amatory (as the Phrygian is <span class="subst"><span class="del">sometimes</span><span class="add">now</span></span> re<span class="original">=<br></span>puted) from which <span class="original">wee </span><span class="regularized">we</span> gather tunes <span class="original">changd </span><span class="regularized">changed</span> one with another: it is <span class="original">sayd </span><span class="regularized">said</span> that
+                        Timothy Milese used the Phrygian to make Alexander the great more 
+                        <span class="original">Spritefull </span><span class="regularized">Spriteful</span> and <span class="original">couragious </span><span class="regularized">courageous</span> in warlike <span class="original">affaires </span><span class="regularized">affairs</span>, which Cicero takes notice of 2.
+                        de legibus, but Terpander Lesbius of the <span class="original">Jonicke </span><span class="regularized">Ionic</span>; who being sent for by 
+                        the <span class="original">Lacedæmonians </span><span class="regularized">Lacedamonians</span>, seditions then raging among them, did by the <span class="original">sweet<span class="original">=<br></span>nesse </span><span class="regularized">sweetness</span> of singing <span class="original">soe </span><span class="regularized">so</span> titillate and affect their minds, that they returned 
+                        into <span class="original">freindship </span><span class="regularized">friendship</span>, and desisted from sedition: upon which consideration the
+                        Lesbian singers were <span class="original">allwayes </span><span class="regularized">always</span> <span class="original">præferrd </span><span class="regularized">preferred</span> in the judgment of the Spartans: 
+                        Fabius <span class="original">sayth </span><span class="regularized">says</span> thus of <span class="original">Musicke </span><span class="regularized">Music</span>: <span class="original">Musicke </span><span class="regularized">Music</span> is an honest and pleasant recrea<span class="original">=<br></span>tion most proper for generous <span class="original">witts </span><span class="regularized">wits</span>: that therefore <span class="original">wee </span><span class="regularized">we</span> might have these 
+                        three objects of the more <span class="original">spirituall </span><span class="regularized">spiritual</span> senses, namely <span class="original">seing </span><span class="regularized">seeing</span> and hearing, as 
+                        <span class="original">allso </span><span class="regularized">also</span> the understanding <span class="original">itselfe </span><span class="regularized">itself</span>, as it were in one view and embrace, and
+                        insinuate all at once into mens minds for the better understanding thereof,
+                        behold <span class="original">wee </span><span class="regularized">we</span> have <span class="original">joyned </span><span class="regularized">joined</span> the <span class="original">Opticke </span><span class="regularized">Optic</span> together with <span class="original">Musicke </span><span class="regularized">Music</span>, and sense 
+                        with the understanding, that is, things rare to be seen and heard of with
+                        <span class="original">Chymicall </span><span class="regularized">Chymical</span> emblems, which are peculiar to this Science: for all other arts,
+                        if they represent emblems of manners, or other things, than of the secrets
+                        of nature, this seems different from their scope and end, they being 
+                        willing and requisite to be understood by all men; <span class="original">Chymy </span><span class="regularized">Chemia</span> not <span class="original">soe </span><span class="regularized">so</span>, 
+                        which as a <span class="original">chast </span><span class="regularized">chaste</span> virgin ought to be seen through a <span class="original">veile </span><span class="regularized">veil</span>, and as Diana,
+                        not without a garment of various <span class="original">colours </span><span class="regularized">colors</span>, for reasons <span class="original">elswhere </span><span class="regularized">elsewhere</span> expres<span class="original">=<br></span>sed: I say, these <span class="original">foure </span><span class="regularized">four</span> <span class="original">emblematicall </span><span class="regularized">emblematical</span>, feigned, <span class="original">poeticall </span><span class="regularized">poetical</span> and <span class="original">allegoricall </span><span class="regularized">allegorical</span>, pic<span class="original">=<br></span>ted notions, graved in Venus or Copper, not without Venus or elegancy; most
+                        abstruse <span class="original">Chymicall </span><span class="regularized">Chymical</span> things, and lastly most rare <span class="original">Musicall </span><span class="regularized">Musical</span> things to be enu<span class="original">=<br></span>cleated by the understanding, you have <span class="original">alltogether </span><span class="regularized">altogether</span> in one <span class="original">booke </span><span class="regularized">book</span>, and may
+                        as designed apply them to your <span class="original">owne </span><span class="regularized">own</span> use, which if it be more <span class="original">intel
+                        
+                        <span class="pb">06</span><span class="fw original">the <span class="original">præface </span><span class="regularized">preface</span> to the Reader.</span><span class="original">=<br></span>lectuall </span><span class="regularized">intellectual</span>, than <span class="original">sensuall </span><span class="regularized">sensual</span>, the more profitable <span class="milestone">009</span>and <span class="original">delightfull </span><span class="regularized">delightful</span> will it be in time:
+                        but if it be first in bondage to the sense, there is <span class="original">noe </span><span class="regularized">no</span> doubt but there will 
+                        be a passage from the sense to the understanding as by a <span class="original">doore </span><span class="regularized">door</span>: for nothing is
+                        <span class="original">sayd </span><span class="regularized">said</span> to be in the understanding, which had not admission by some sense, 
+                        the understanding of a man new <span class="original">borne </span><span class="regularized">born</span> being <span class="original">supposd </span><span class="regularized">supposed</span> as a smooth table, 
+                        wherein nothing is as yet written, but any thing may be written by the 
+                        <span class="original">helpe </span><span class="regularized">help</span> of sense, as a Style: and it is <span class="original">coḿonly </span><span class="regularized">commonly</span> <span class="original">sayd </span><span class="regularized">said</span>, there is <span class="original">noe </span><span class="regularized">no</span> desire of a
+                        thing <span class="original">unknowne </span><span class="regularized">unknown</span>, because the senses being inquisitors and messengers must
+                        first convey, and as warders <span class="add">the instruments of a <span class="original">citty </span><span class="regularized">city</span></span> watching at the gates <span class="subst"><span class="del">(their organs)</span> <span class="del">of <span class="original">citty </span><span class="regularized">city</span></span><span class="add">thereof</span></span>
+                        <span class="original">informe </span><span class="regularized">inform</span> and impart everything that is to be <span class="original">knowne </span><span class="regularized">known</span>, to the understanding,
+                        as the dictator and arbiter. As to the reason of engraving these Emblems,
+                        lest even they may seem monstrous and incongruous to you, I will add a few
+                        things: Atalanta is renowned by the Poets for <span class="add">speed in</span> running, in which exercise
+                        <span class="original">shee </span><span class="regularized">she</span> surpassed all her suitors, and therefore, the reward of victory being
+                        propounded, death ensued to those <span class="subst"><span class="del">being</span><span class="add">that were</span></span> <span class="original">overrunne </span><span class="regularized">overrun</span> by the Virgin, till <span class="original">Shee </span><span class="regularized">She</span>
+                        <span class="original">herselfe </span><span class="regularized">herself</span> was overcome by Hippomenes, a youth <span class="subst"><span class="del">more</span><span class="add">very</span></span> hardy and circumspect,
+                        casting three golden apples at <span class="add">three</span> <span class="original">severall </span><span class="regularized">several</span> times in her way, which taking up,
+                        <span class="original">Shee </span><span class="regularized">She</span> was in the <span class="original">meane </span><span class="regularized">mean</span> time outgone by him, being now near and touching 
+                        the <span class="original">goale </span><span class="regularized">goal</span>: as this Atalanta <span class="original">runns </span><span class="regularized">runs</span>, <span class="original">soe </span><span class="regularized">so</span> one <span class="original">Musicall </span><span class="regularized">Musical</span> note <span class="original">allwayes </span><span class="regularized">always</span> <span class="original">runns </span><span class="regularized">runs</span> before
+                        <span class="superscript">1</span>another, <span class="superscript">6</span>as <span class="superscript">7</span>Hippomenes, <span class="superscript">2</span>and <span class="superscript">3</span>the <span class="superscript">4</span>other <span class="superscript">5</span><span class="original">followes </span><span class="regularized">follows</span>: <span class="superscript">8</span>yet they are established and
+                        confirmed in a third, which is single and of one vali<span class="add">dity</span>, as a golden apple:
+                        This same virgin is merely <span class="original">Chymicall </span><span class="regularized">Chymical</span>, namely <span class="original">Philosophicall </span><span class="regularized">Philosophical</span> Mercury 
+                        fixed in flight and restrained by the golden Sulphur, <span class="note-mark">*</span><div class="margin-note"><span class="note-mark">*</span>x ☿</div> which if a man 
+                        know how to make stand, <span class="original">hee </span><span class="regularized">he</span> will have that Spouse which <span class="original">hee </span><span class="regularized">he</span> desires, if 
+                        not, destruction and <span class="original">ruine </span><span class="regularized">ruin</span> of his <span class="original">affaires </span><span class="regularized">affairs</span>: From Hippomenes and Atalanta
+                        lying together in the temple of the mother of the Gods, that is, a <span class="original">vessell </span><span class="regularized">vessel</span>, 
+                        are <span class="original">Lyons </span><span class="regularized">Lions</span> produced, or they acquire a red <span class="original">colour </span><span class="regularized">color</span>: <span class="milestone">0010</span>This virgin <span class="original">allso </span><span class="regularized">also</span> <span class="original">obtaind </span><span class="regularized">obtained</span>
+                        a victory before men, killing a <span class="original">certaine </span><span class="regularized">certain</span> boar of notable <span class="original">bignesse </span><span class="regularized">bigness</span>, for which
+                        <span class="original">Shee </span><span class="regularized">She</span> was rewarded by Meleager: Striking a <span class="original">rocke </span><span class="regularized">rock</span> at Stethæus the temple
+                        of <span class="original">Æsculapius </span><span class="regularized">Aesculapius</span> <span class="original">Shee </span><span class="regularized">She</span> brought forth water, <span class="subst"><span class="del">which</span><span class="add">whereof</span></span> being thirsty, <span class="original">Shee </span><span class="regularized">She</span> <span class="original">dranke </span><span class="regularized">drank</span>:
+                        which things being <span class="original">truely </span><span class="regularized">truly</span> <span class="original">allegoricall </span><span class="regularized">allegorical</span> and <span class="original">emblematicall </span><span class="regularized">emblematical</span>, and <span class="original">noe </span><span class="regularized">no</span> way
+                        <span class="original">historicall </span><span class="regularized">historical</span>, I was willing that this intellectual <span class="original">emblematicall </span><span class="regularized">emblematical</span> treatise 
+                        Should indigitate and take notice of them in commemoration of this noble
+                        <span class="original">Heroesse </span><span class="regularized">Heroine</span>, especially the apples cast before her being taken out of the 
+                        Hesperian gardens, and <span class="original">administred </span><span class="regularized">administered</span> to Hippomenes by Venus, the <span class="original">Goddesse </span><span class="regularized">Goddess</span>
+                        of <span class="original">favour </span><span class="regularized">favor</span> and <span class="original">sweetnesse </span><span class="regularized">sweetness</span>: in those <span class="original">Musicall </span><span class="regularized">Musical</span> measures or flights you see 
+                        this observed, that every <span class="original">disticke </span><span class="regularized">distich</span> being conveniently adapted to those three
+                        <span class="original">voyces </span><span class="regularized">voices</span> may be <span class="original">expressd </span><span class="regularized">expressed</span> in singing, in which <span class="original">soe </span><span class="regularized">so</span> many <span class="original">varietyes </span><span class="regularized">varieties</span> of flights
+                        being <span class="original">accomodated </span><span class="regularized">accommodated</span> to one single <span class="original">voyce </span><span class="regularized">voice</span>, every wise and intelligent man will
+                        <span class="original">allso </span><span class="regularized">also</span> <span class="original">thinke </span><span class="regularized">think</span> well of this kind of <span class="original">emblematicall </span><span class="regularized">emblematical</span> figuration in them, as 
+                        <span class="original">allso </span><span class="regularized">also</span> the adaptation in the <span class="original">disticks </span><span class="regularized">distichs</span> to every <span class="original">voyce </span><span class="regularized">voice</span>: for if some Merchants
+                        <span class="original">doe </span><span class="regularized">do</span> <span class="original">esteeme </span><span class="regularized">esteem</span> and buy an artifice of picture with a great <span class="original">summe </span><span class="regularized">sum</span> of money,
+                        where the eyes alone are deceived, they judging it very near to nature, 
+                        why should not the learned have these figures in good estimation 
+                    
+                        <span class="pb">07</span><span class="fw original">the <span class="original">præface </span><span class="regularized">preface</span> to the Reader.</span>
+                        which are <span class="original">soe </span><span class="regularized">so</span> <span class="original">usefull </span><span class="regularized">useful</span> and serviceable both to the understanding and
+                        many of the senses, that great utility besides delight and recreation 
+                        may be expected from them? Farewell <span class="pc">. . . . . . .</span>
+                        </div>
+                    </div></div></div><div class="original"><div class="switch-wrapper right"><div class="latin-german-switch"><ul><li class="is-selected"><a href="#">Latin</a></li><li><a href="#">German</a></li></ul></div></div><div class="lang--latin _frontispiece--latin"><div class="preface la">
+            <span class="pb atalanta-fugiens">06</span>
+            
+            <div class="page italic">
+               
+            
+               <span class="original"><br></span><span class="milestone atalanta-fugiens">pr-01</span><span class="caps">H</span><span class="caps">ominem</span>, lectorem candide, universi compendium
+               <span class="original"><br></span>sui compositione referre, in confesso est omnium,
+               <span class="original"><br></span><span class="original">&amp;</span> ternis vite generibus vivendis destinatum es<span class="original">-<br></span>se, nempe vegetabili in utero materno, ubi sal<span class="original">-<br></span>tem plant<span class="original">æ</span><span class="regularized">[ae]</span> instar crescit <span class="original">&amp;</span> augmentatur; sensi<span class="original">-<br></span>bili, nimirum in hoc mundo, ubi maxima ex parte sensibus ducitur,
+               <span class="original"><br></span>ceu reliqua animalia, à quibus differt, quod intellectu incipiat
+               <span class="original"><br></span>uti, licet imperfectè; ac denique intelligibili, in altero mundo apud
+               <span class="original"><br></span>Deum, eiq́ue assistentes intelligentias seu Angelos bonos; <span class="milestone atalanta-fugiens">pr-02</span>In pr<span class="original">æ</span><span class="regularized">[ae]</span><span class="original">-<br></span>senti vitâ, quò quis magis ad divinam naturam accedit, eò magis
+               <span class="original"><br></span>rebus intellectu indagandis, subtilibus, miris <span class="original">&amp;</span> raris, gaudet <span class="original">&amp;</span> 
+               <span class="original"><br></span>delectatur: Et econtrà, quò quis ad pecuinũ<span class="regularized">[pecuinum]</span> genus magis declinat,
+               <span class="original"><br></span>eò min his capitur, <span class="original">&amp;</span> sensui corporaliori astrictus est: <span class="milestone atalanta-fugiens">pr-03</span>Utro<span class="original">-<br></span>rumque videmus Exempla, quosdam illis, utpote doctiores, artibus
+               <span class="original"><br></span><span class="original">&amp;</span> scientiis politos esse deditos, quàmplurimos hisce, nempe volu<span class="original">-<br></span>ptatibus corporis, libidini, gul<span class="original">æ</span><span class="regularized">[ae]</span>, pomp<span class="original">æ</span><span class="regularized">[ae]</span> extern<span class="original">æ</span><span class="regularized">[ae]</span>, <span class="original">&amp;</span> his similibus.
+               <span class="original"><br></span><span class="milestone atalanta-fugiens">pr-04</span>Ad excolendum autem intellectum Deus infinita arcana abdidit
+               <span class="original"><br></span>in natura, qu<span class="original">æ</span><span class="regularized">[ae]</span> scientiis <span class="original">&amp;</span> artibus innumeris, ut ignis ex silice ex<span class="original">-<br></span>tunduntur, <span class="original">&amp;</span> in usum transferuntur: <span class="milestone atalanta-fugiens">pr-05</span>Inter h<span class="original">æ</span><span class="regularized">[ae]</span>c sunt Chymica
+            
+        </div>
+            
+            <span class="pb atalanta-fugiens">7</span>
+            
+            
+        <div class="page italic">
+           
+               <span class="original"><br></span>secreta non postrema, sed post divinorum indagationem, omnium
+               <span class="original"><br></span>prima <span class="original">&amp;</span> preciosissima, non circumforaneis deceptoribus <span class="original">&amp;</span> fucis
+               <span class="original"><br></span>pseudo-chymicis (qui in his sunt asini ad lyram, quippe ad omni bo<span class="original">-<br></span>na doctrina <span class="original">&amp;</span> intentione alienissimi) sed ingeniis altioribus, libe<span class="original">-<br></span>raliter educatis, <span class="original">&amp;</span> ad <span class="regularized">majora natis</span><span class="original">majoranatis </span> investiganda, cùm sint val<span class="original">-<br></span>dè subtilia, augusta, sacra, rara <span class="original">&amp;</span> abstrusa, ideoq́ue intellectu
+               <span class="original"><br></span>comprehendenda priùs, quàm sensu, potiùs per contemplationem
+               <span class="original"><br></span>profundam ex lectione authorum, eorumq́ue inter se <span class="original">&amp;</span> cum natu<span class="original">-<br></span>r<span class="original">æ</span><span class="regularized">[ae]</span> operibus comparationem, quàm operationem sensitivam, seu
+               <span class="original"><br></span>manualem experimentationem, qu<span class="original">æ</span><span class="regularized">[ae]</span> c<span class="original">œ</span><span class="regularized">[oe]</span>ca est fine Theorica pr<span class="original">æ</span><span class="regularized">[ae]</span><span class="original">-<br></span>via: <span class="milestone atalanta-fugiens">pr-06</span>Post scientias huiusmodi intellectuales proximè numerantur,
+               <span class="original"><br></span>que<span class="regularized">[quae]</span> de visibili ac audibili objecto tractant, ut sun Optica seu per<span class="original">-<br></span>spectiva, <span class="original">&amp;</span> pictura loquens, nec non Musica sive vocalis
+               <span class="original"><br></span>seu organica: <span class="milestone atalanta-fugiens">pr-07</span>In hac antiqui Philosophi adeò se exercuerunt, ut in<span class="original">-<br></span>doctus haberetur, <span class="original">&amp;</span> ad myrtu<span class="regularized">[myrtum]</span> canere cogeretur, qui lyra<span class="regularized">[lyram]</span> recusasset
+               <span class="original"><br></span>in conviviis, ut de <span class="latin">Themistocle</span> traditur: <span class="milestone atalanta-fugiens">pr-08</span>In Musica <span class="latin">Socrates</span>
+               <span class="original"><br></span>institutus <span class="original">&amp;</span> ipse <span class="latin">Plato</span>, qui non harmonicè compositũ<span class="regularized">[compositum]</span> eum statuit,
+               <span class="original"><br></span>qui harmonia Musicali non gaudeat: <span class="milestone atalanta-fugiens">pr-09</span>In eâdem <span class="latin">Pythagoras</span> per<span class="original">-<br></span>celebris fuit, qui manè <span class="original">&amp;</span> vesperi music<span class="original">æ</span><span class="regularized">[ae]</span> symphonia ad compo<span class="original">-<br></span>nendos suorum discipulorum animos usus dicitur: <span class="milestone atalanta-fugiens">pr-10</span>Est enim Mu<span class="original">-<br></span>sic<span class="original">æ</span><span class="regularized">[ae]</span> h<span class="original">æ</span><span class="regularized">[ae]</span>c peculiaris vis, ut affectus excitet vel mulceat, pro diver<span class="original">-<br></span>so Musicali modo: <span class="milestone atalanta-fugiens">pr-11</span>Sic <span class="latin">Phrygius</span> Modus apud <span class="latin">Gr<span class="original">æ</span><span class="regularized">[ae]</span>cos</span> diceba<span class="original">-<br></span>tur bellicosus propterea, quod in bello <span class="original">&amp;</span> in pr<span class="original">æ</span><span class="regularized">[ae]</span>lio ineundo accinere<span class="original">-<br></span>tur, <span class="original">&amp;</span> singularem vim haberet ad animos militum concitandos;
+               <span class="original"><br></span>cuius vice ad eundem usum nunc adhibetur <span class="latin">Ionicus</span>, qui olim
+            
+        </div>
+              
+            <span class="pb atalanta-fugiens">8</span>
+            
+            
+        <div class="page italic">
+           
+               <span class="original"><br></span>amatorius <span class="original">æ</span><span class="regularized">[ae]</span>stimatus fuit (qualis nunc habetur <span class="latin">Phrygius</span>) unde
+               <span class="original"><br></span>modos inter se mutatos conjicimus: <span class="milestone atalanta-fugiens">pr-12</span><span class="latin">Phrygio</span> <span class="latin">Timotheum</span>
+                  <span class="original"><br></span><span class="latin">Milesium</span> usum tradunt ad Alexandrum Magnum in rebus bel<span class="original">-<br></span>licis alacriorem <span class="original">&amp;</span> animosiorem reddendum, cujus Cicero meminit
+               <span class="original"><br></span>2. de legib<span class="regularized">[legibus]</span>. <span class="milestone atalanta-fugiens">pr-13</span><span class="latin">Terpandrum</span> verò <span class="latin">Lesbium</span> <span class="latin">Ionico</span>; qui accersi<span class="original">-<br></span>tus à Laced<span class="original">æ</span><span class="regularized">[ae]</span>moniis, seditionibus inter se tumultuantibus suavi<span class="original">-<br></span>tate cantus eorum animos adeò delinivit, ut redirent in amici<span class="original">-<br></span>citiam <span class="original">&amp;</span> à seditione desisterent: Unde <span class="latin">Lesbii</span> cantores primas
+               <span class="original"><br></span>semper meruerunt Spartanorum judicio: <span class="milestone atalanta-fugiens">pr-14</span>De Musica sic Fabius,
+               <span class="original"><br></span>Musica, inquit, est honestum <span class="original">&amp;</span> jucundum oblectamentum libe<span class="original">-<br></span>ralibus ingeniis maximè dignum: <span class="milestone atalanta-fugiens">pr-15</span>H<span class="original">æ</span><span class="regularized">[ae]</span>c tria itaque sensuum magis
+               <span class="original"><br></span>spiritualium, nempe visus <span class="original">&amp;</span> auditus, nec non intellectus ipsius
+               <span class="original"><br></span>objecta, ut in uno quasi conspectu <span class="original">&amp;</span> complexu haberemus, <span class="original">&amp;</span> ma<span class="original">-<br></span>gis intelligendũ<span class="regularized">[intelligendum]</span> animis simul <span class="original">&amp;</span> semel insinuaremus, En conju<span class="original">-<br></span>ximus Opticam cum Musica <span class="original">&amp;</span> sensum cum intellectu, hoc est, ra<span class="original">-<br></span>ra visu <span class="original">&amp;</span> auditu cum chymicis emblematibus, qu<span class="original">æ</span><span class="regularized">[ae]</span> huic scienti<span class="original">æ</span><span class="regularized">[ae]</span>
+               <span class="original"><br></span>sunt propria. <span class="milestone atalanta-fugiens">pr-16</span>C<span class="original">æ</span><span class="regularized">[ae]</span>ter<span class="original">æ</span><span class="regularized">[ae]</span> enim artes, si emblemata edant de moribus,
+               <span class="original"><br></span>aur rebus aliis, quàm de natur<span class="original">æ</span><span class="regularized">[ae]</span> arcanis, alienum hoc videtur ab
+               <span class="original"><br></span>eorum scopo <span class="original">&amp;</span> fine, cùm intelligi omnibus velint <span class="original">&amp;</span> debeant;
+               <span class="original"><br></span><span class="milestone atalanta-fugiens">pr-17</span>Chemia nõ<span class="regularized">[non]</span> itẽ<span class="regularized">[item]</span>, qu<span class="original">æ</span><span class="regularized">[ae]</span> ut casta virgo per transennam, <span class="original">&amp;</span> veluti Dia<span class="original">-<br></span>na, non absq<span class="original">;</span><span class="regularized">[absque]</span> veste variati coloris visenda est, propter causas alibi
+               <span class="original"><br></span>expressas: <span class="milestone atalanta-fugiens">pr-18</span>Quatuor, inquam, h<span class="original">æ</span><span class="regularized">[ae]</span>c, ficta, poëtica <span class="original">&amp;</span> allegorica, picta,
+               <span class="original"><br></span>Emblematica, Veneri sive cupro, non sine Venere sue gratia, incisa,
+               <span class="original"><br></span>Chymica secretissima, intellectu indaganda <span class="original">&amp;</span> denique Musicalia
+               <span class="original"><br></span>rariora, simul <span class="original">&amp;</span> semel uno libro suscipias inq́ue tuum usum dicata
+               <span class="original"><br></span>adhibeas, qui si potiùs intellectualis fuerit, quàm sensualis, eò uti             
+            
+         </div>
+                        
+            <span class="pb atalanta-fugiens">9</span>
+            
+            
+         <div class="page italic">
+            <span class="original">-<br></span>lior <span class="original">&amp;</span> jucundior olim futurus est: <span class="milestone atalanta-fugiens">pr-19</span>quod si verò primum sensui man<span class="original">-<br></span>cipatus, nullum est dubium quin à sensu ad intellectum transitus
+               <span class="original"><br></span>fiet, tanquam per ostium: <span class="milestone atalanta-fugiens">pr-20</span>Nihil enim in intellectu esse dicitur, quod
+               <span class="original"><br></span>non per sensum aliquem introiverit, cùm hominis recens nati in<span class="original">-<br></span>tellectus instar tabul<span class="original">æ</span><span class="regularized">[ae]</span> ras<span class="original">æ</span><span class="regularized">[ae]</span> habeatur, in qua nihil adhuc scriptum,
+               <span class="original"><br></span>sed quod libet sensu mediante, tanquam stylo, scribi possit: <span class="milestone atalanta-fugiens">pr-21</span>Et vulgo
+               <span class="original"><br></span>dicitur; Ignoti nulla cupido, quia oportet, ut intellectui, veluti dicta<span class="original">-<br></span>tori <span class="original">&amp;</span> arbitro, sensus indagatores <span class="original">&amp;</span> nuncii, omne scibile primitus
+               <span class="original"><br></span>apportent <span class="original">&amp;</span> innotescere faciant, tanquã<span class="regularized">[tanquam]</span> Excubitores ad (sua or<span class="original">-<br></span>gana) civitatis alicujus portas invigilãtes<span class="regularized">[invigilantes]</span>. <span class="milestone atalanta-fugiens">pr-22</span>De ratione inscriptionis
+               <span class="original"><br></span>horum emblematũ<span class="regularized">[emblematum]</span>, ne <span class="original">&amp;</span> h<span class="original">æ</span><span class="regularized">[ae]</span>c tibi monstrosa videatur <span class="original">&amp;</span> absona,
+               <span class="original"><br></span>pauca adjiciam: <span class="milestone atalanta-fugiens">pr-23</span><span class="latin">Atalanta</span> Poëtis celebrata est propter fugam,
+               <span class="original"><br></span>quâ omnes procos in certamine antevertit, ideóque ipsis victis pro
+               <span class="original"><br></span>virgine, pr<span class="original">æ</span><span class="regularized">[ae]</span>mio victori<span class="original">æ</span><span class="regularized">[ae]</span> proposito, mors obtigit, donec ab <span class="latin">Hippo<span class="original">-<br></span>mene</span>, juvene audaciore <span class="original">&amp;</span> provido, superata <span class="original">&amp;</span> obtenta sit trium
+               <span class="original"><br></span>malorum aureorum per vices inter currendum objectu, qu<span class="original">æ</span><span class="regularized">[ae]</span> dum
+               <span class="original"><br></span>illa tolleret, pr<span class="original">æ</span><span class="regularized">[ae]</span>venta est ab eo, metam jam attingente: <span class="milestone atalanta-fugiens">pr-24</span>H<span class="original">æ</span><span class="regularized">[ae]</span>c <span class="latin">Ata<span class="original">-<br></span>lanta</span> ut fugit, sic una vox Musicalis semper fugit ante aliam <span class="original">&amp;</span>
+               <span class="original"><br></span>altera insequitur, ut <span class="latin">Hippomenes</span>: <span class="milestone atalanta-fugiens">pr-25</span>In tertia tamen stabiliun<span class="original">-<br></span>tur <span class="original">&amp;</span> firmantur, qu<span class="original">æ</span><span class="regularized">[ae]</span> simplex est <span class="original">&amp;</span> unius valoris, tanquam
+               <span class="original"><br></span>malo aureo: <span class="milestone atalanta-fugiens">pr-26</span>H<span class="original">æ</span><span class="regularized">[ae]</span>c eadem virgo merè Chymica est, nempe Mercu<span class="original">-<br></span>rius Philosophicus à sulfure aureo in fuga fixatus <span class="original">&amp;</span> retentus,
+               <span class="original"><br></span>quem si quis sistere noverit, sponsam, quam ambit, habebit, sin mi<span class="original">-<br></span>nus, perditionem suarum rerum <span class="original">&amp;</span> interitum: <span class="milestone atalanta-fugiens">pr-27</span>Ex <span class="latin">Hippome<span class="original">-<br></span>ne</span> <span class="original">&amp;</span> <span class="latin">Atalanta</span> coëuntibus in templo Matris Deûm, hoc est, va<span class="original">-<br></span>se, fiunt leones, sive rubeum acquirunt colorem. <span class="milestone atalanta-fugiens">pr-28</span>Obtinuit quoque
+            
+         </div>
+                         
+            <span class="pb atalanta-fugiens">10</span>
+            
+            
+         <div class="page italic">
+             
+               <span class="original"><br></span>h<span class="original">æ</span><span class="regularized">[ae]</span>c virgo victoriam pr<span class="original">æ</span><span class="regularized">[ae]</span> viris, apro quodam insignis magnitudinis
+               <span class="original"><br></span>occiso, unde pr<span class="original">æ</span><span class="regularized">[ae]</span>mio à <span class="latin">Meleagro</span> donata est: <span class="milestone atalanta-fugiens">pr-29</span>Apud Steth<span class="original">æ</span><span class="regularized">[ae]</span>um
+               <span class="original"><br></span><span class="original">Æ</span><span class="regularized">[Ae]</span>sculapii fanum è saxo percusso aquam elicuit, quam sitibunda
+               <span class="original"><br></span>bibit: <span class="milestone atalanta-fugiens">pr-30</span>Qu<span class="original">æ</span><span class="regularized">[ae]</span> cùm allegorica <span class="original">&amp;</span> Emblematica revera sint <span class="original">&amp;</span> nullo
+               <span class="original"><br></span>modo historica, volui in hujus Heroin<span class="original">æ</span><span class="regularized">[ae]</span> commemorationem intell<span class="original">-<br></span>lectualem hunc tractatum Emblematicum indigetare, pr<span class="original">æ</span><span class="regularized">[ae]</span>sertim
+               <span class="original"><br></span>cùm poma ei projecta ex hortis Hesperiis à Venere, suavitatis
+               <span class="original"><br></span>Dea, <span class="latin">Hippomeni</span> fuerint ministrata: <span class="milestone atalanta-fugiens">pr-30</span>In modulis illis seu fugis
+               <span class="original"><br></span>Musicis hoc observatum videtis, quod singula disticha ad tres il<span class="original">-<br></span>las voces adaptata convenienter canendo exprimi possint, in qui<span class="original">-<br></span>bus cùm uni simplici voci tot varietates fugarum sint accommo<span class="original">-<br></span>dat<span class="original">æ</span><span class="regularized">[ae]</span>, omnis cordatus <span class="original">&amp;</span> intelligens hanc quoque Emblematicam
+               <span class="original"><br></span>quasi figurationem, in his, ut <span class="original">&amp;</span> in distichis adaptationẽ<span class="regularized">[adaptationem]</span> ad singu<span class="original">-<br></span>las voculas, boni consulet <span class="original">&amp;</span> pro nonnihilo reputabit: <span class="milestone atalanta-fugiens">pr-31</span>Si enim
+               <span class="original"><br></span>mercatores nonnulli pro magna pecuni<span class="original">æ</span><span class="regularized">[ae]</span> summa artificium pictur<span class="original">æ</span><span class="regularized">[ae]</span>
+               <span class="original"><br></span>aliquod <span class="original">æ</span><span class="regularized">[ae]</span>stimant <span class="original">&amp;</span> emunt, ubi soli oculi falluntur, cùm natur<span class="original">æ</span><span class="regularized">[ae]</span>
+               <span class="original"><br></span>propinquissimum judicent, quid ni literati has figuras, qu<span class="original">æ</span><span class="regularized">[ae]</span> <span class="original">&amp;</span> in<span class="original">-<br></span>tellecctui <span class="original">&amp;</span> sensibus pluribus inserviunt ita, ut magna inde spe<span class="original">-<br></span>randa sit utilitas pr<span class="original">æ</span><span class="regularized">[ae]</span>ter oblectationem, in precio habeant <span class="original">&amp;</span> ma<span class="original">-<br></span>gni censeant? Vale.
+            
+                        
+         </div>
+         
+         </div></div></div></section></div></main><script type="text/javascript" src="../assets/js/topnav.js"></script><script type="text/javascript" src="../assets/js/emblem.js"></script><script type="text/javascript" src="../assets/js/zooming-image-viewer--openseadragon.js"></script></body></html>

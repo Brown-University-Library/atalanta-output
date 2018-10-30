@@ -1,108 +1,515 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Furnace and Fugue: Atalanta Fugiens (Digital Edition)</title>
-	<link type="text/css" rel="stylesheet" media="screen" href="../assets/css/styles.css" />
-	<script src="../assets/js/vendors/jquery/jquery-3.3.1.min.js"></script>
-	<script src="../assets/js/vendors/openseadragon/openseadragon.min.js"></script>
-</head>
-<body>
-<!-- GLOBAL NAVIGATION -->
-	<header>
-		<div class="_topnav"></div>
-<!-- EMBLEM NAVIGATION -->
-		<nav class="subnav">
-			<ul>
-				<li class="subnav__views--single is-hidden" data-state="active"><a href="#"><span></span>Single View</a></li>
-				<li class="subnav__options--option is-active" data-state="active"><a href="#">English</a></li>
-				<li class="subnav__options--option" data-state="inactive"><a href="#">Latin/German</a></li>
-				<li class="subnav__options--option" data-state="inactive"><a href="#">Original</a></li>
-				<li class="subnav__views--double" data-state="inactive"><a href="#"><span></span>Comparative View</a></li>
-				<li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">English</a></li>
-				<li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">Latin/German</a></li>
-				<li class="subnav__options--option is-hidden is-active" data-state="active"><a href="#">Original</a></li>
-			</ul>
-		</nav>
-	</header>
-<!-- EMBLEM PAGE-->
-	<main id="emblem-data" class="emblem-page frontmatter" data-id="3">
-<!-- SIDENAV -->
-	<div class="_sidenav"></div>
-<!-- EMBLEM GRID -->
-		<!-- Facsimile -->
-		<div class="section__facsimile is-hidden">
-			<div class="facsimile--full">
-				<section class="_facsimile">
-					<section class="facsimile">
-						<div id="openseadragon-wrapper">
-							<div id="tools">
-								<span>
-									<a id="next" href="#next" title="Next" style="position: relative"><svg id="icon_arrow-right-lineart" data-name="icon_arrow-right-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.6 250.2" transform="scale(1)" transform-origin="0 0"><title>export_icon_arrow-right-lineart</title><polyline points="1.8 248.5 125.1 125.1 1.8 1.8" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="5"/></svg><span>Next</span></a>
-									<a id="previous" href="#previous" title="Previous" style="position: relative"><svg id="icon_arrow-left-lineart" data-name="icon_arrow-left-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128.6 250.2" transform="scale(1)" transform-origin="0 0"><title>export_icon_arrow-left-lineart</title><polyline points="126.9 1.8 3.5 125.1 126.9 248.5" fill="none" stroke="#000" stroke-miterlimit="50" stroke-width="5"/></svg><span>Previous</span></a>
-									<a id="zoom-in" href="#zoom-in" title="Zoom In" style="position: relative"><svg id="icon_zoom-in-lineart" data-name="icon_zoom-in-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.1 299.9" transform="scale(.6)" transform-origin="50% 80%"><title>icon_magnifying-glass_zoom-in</title><g id="handle"><path d="M537.6,337.5l97,97Z" transform="translate(-343 -143)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="24"/></g><g id="glass"><path d="M480,153a127,127,0,1,1-89.8,37.2A126.2,126.2,0,0,1,480,153m0-10A137,137,0,1,0,617,280,137,137,0,0,0,480,143Z" transform="translate(-343 -143)"/></g><g id="symbol"><path d="M480,337.5v-115M422.5,280h115" transform="translate(-343 -143)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="12"/></g></svg><span>Zoom In</span></a>
-									<a id="zoom-out" href="#zoom-out" title="Zoom Out" style="position: relative"><svg id="icon_zoom-out-lineart" data-name="icon_zoom-out-lineart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.1 299.9" transform="scale(.6)" transform-origin="50% 80%"><title>icon_magnifying-glass_zoom-out</title><g id="handle"><path d="M537.6,337.5l97,97Z" transform="translate(-343 -143)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="24"/></g><g id="glass"><path d="M480,154a126,126,0,1,1-89.1,36.9A125.2,125.2,0,0,1,480,154m0-11A137,137,0,1,0,617,280,137,137,0,0,0,480,143Z" transform="translate(-343 -143)"/></g><g id="symbol"><line x1="79.5" y1="137" x2="194.5" y2="137" fill="none" stroke="#000" stroke-miterlimit="100" stroke-width="10"/></g></svg><span>Zoom Out</span></a>
-								</span>
-							</div>
-						</div>
-					</section>
-				</section>
-			</div>
-		</div>
-		<div class="emblem">
-			<section class="section__dedication section--single panel--full">
-				<div class="translation">
-					<div class="switch-wrapper left">
-						<div class="facsimile-normalized-switch">
-							<ul>
-								<li><a href="#">Facsimile</a></li>
-								<li class="is-selected"><a href="#">Normalized</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--english _dedication--english edition--normalized"></div>
-				<div class="original is-hidden">
-					<div class="switch-wrapper left">
-						<div class="latin-german-switch" style="display:none;">
-							<ul>
-								<li class="is-selected"><a href="#">Latin</a></li>
-								<li><a href="#">German</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--latin _dedication--latin"></div>
-				</div>
-			</section>
-			<section class="section__dedication section--double panel--right is-hidden">
-				<div class="translation is-hidden">
-					<div class="switch-wrapper right">
-						<div class="facsimile-normalized-switch">
-							<ul>
-								<li><a href="#">Facsimile</a></li>
-								<li class="is-selected"><a href="#">Normalized</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--english _dedication--english edition--normalized"></div>
-				</div>
-				<div class="original">
-					<div class="switch-wrapper right">
-						<div class="latin-german-switch" style="display:none;">
-							<ul>
-								<li class="is-selected"><a href="#">Latin</a></li>
-								<li><a href="#">German</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="lang--latin _dedication--latin"></div>
-				</div>
-			</section>
-		</div><!-- END EMBLEM -->
-	</main> <!-- END OF EMBLEM PAGE -->
-<!-- JS -->
-	<script src="../assets/js/topnav.js"></script>
-	<script src="../assets/js/emblem.js"></script>
-	<script src="../assets/js/zooming-image-viewer--openseadragon.js"></script>
-</body>
-</html>
+<html xmlns:af="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="text/html" charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Furnace and Fugue: Atalanta Fugiens (Digital Edition)</title><link type="text/css" rel="stylesheet" media="screen" href="../assets/css/styles.css"><script type="text/javascript" src="../assets/js/vendors/jquery/jquery-3.3.1.min.js"></script><script type="text/javascript" src="../assets/js/vendors/openseadragon/openseadragon.min.js"></script></head><body><header><div class="_topnav"><nav class="topnav">
+<ul>
+<li class="my-trigger">
+<button>
+<img class="toc-icon" src="../assets/icons/toc.png" alt="table of contents icon">
+</button>
+</li>
+<li class="topnav__identity">
+<a href="../index.html">Furnace &amp; Fugue</a>
+</li>
+</ul>
+</nav><nav class="toc-wrapper">
+<div style="margin-left: 2em" class="toc">
+<div class="toc__items">
+<ul>
+<li class="toc__heading">
+<a href="../index.html">Home</a>
+</li>
+<li class="toc__heading">
+<a href="#">Front Matter</a>
+</li>
+<li>
+<a href="#">Print Culture</a>
+</li>
+<li>
+<a href="#">Maier's Biography</a>
+</li>
+<li>
+<a href="#">Maier's Bibliography</a>
+</li>
+<li class="toc__heading">
+<a href="#">Atalanta fugiens</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/frontispiece.html">Frontispiece</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/author-epigram.html">Author's Epigram</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/dedication.html">Dedication</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/preface.html">Preface</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem01.html">Emblem 1</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem02.html">Emblem 2</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem03.html">Emblem 3</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem04.html">Emblem 4</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem05.html">Emblem 5</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem06.html">Emblem 6</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem07.html">Emblem 7</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem08.html">Emblem 8</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem09.html">Emblem 9</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem10.html">Emblem 10</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem11.html">Emblem 11</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem12.html">Emblem 12</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem13.html">Emblem 13</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem14.html">Emblem 14</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem15.html">Emblem 15</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem16.html">Emblem 16</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem17.html">Emblem 17</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem18.html">Emblem 18</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem19.html">Emblem 19</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem20.html">Emblem 20</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem21.html">Emblem 21</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem22.html">Emblem 22</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem23.html">Emblem 23</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem24.html">Emblem 24</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem25.html">Emblem 25</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem26.html">Emblem 26</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem27.html">Emblem 27</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem28.html">Emblem 28</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem29.html">Emblem 29</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem30.html">Emblem 30</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem31.html">Emblem 31</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem32.html">Emblem 32</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem33.html">Emblem 33</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem34.html">Emblem 34</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem35.html">Emblem 35</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem36.html">Emblem 36</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem37.html">Emblem 37</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem38.html">Emblem 38</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem39.html">Emblem 39</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem40.html">Emblem 40</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem41.html">Emblem 41</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem42.html">Emblem 42</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem43.html">Emblem 43</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem44.html">Emblem 44</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem45.html">Emblem 45</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem46.html">Emblem 46</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem47.html">Emblem 47</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem48.html">Emblem 48</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem49.html">Emblem 49</a>
+</li>
+<li>
+<a href="../atalanta-fugiens/emblem50.html">Emblem 50</a>
+</li>
+<li class="toc__heading">
+<a href="../atalanta-essays/essay-toc.html">Essays</a>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay-intro.html">Introduction</a>
+<span class="toc__byline">by Donna Bilak and Tara Nummedal</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay1.html">Essay 1</a>
+<span class="toc__byline">by Author 1</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay2.html">Essay 2</a>
+<span class="toc__byline">by Author 2</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay3.html">Essay 3</a>
+<span class="toc__byline">by Author 3</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay4.html">Essay 4</a>
+<span class="toc__byline">by Author 4</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay5.html">Essay 5</a>
+<span class="toc__byline">by Author 5</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay6.html">Essay 6</a>
+<span class="toc__byline">by Author 6</span>
+</li>
+<li class="toc__essay">
+<a href="../atalanta-essays/essay7.html">Essay 7</a>
+<span class="toc__byline">by Author 7</span>
+</li>
+<li class="toc__heading">
+<a href="#">Search</a>
+</li>
+<li class="toc__heading">Resources</li>
+<li>
+<a href="#">Process &amp; Acknowledgments</a>
+</li>
+<li>
+<a href="#">Performance Edition</a>
+</li>
+<li>
+<a href="#">Downloads</a>
+</li>
+</ul>
+</div>
+</div>
+</nav></div><nav class="subnav"><ul><li class="subnav__views--single is-hidden" data-state="active"><a href="#">Single View</a></li><li class="subnav__options--option is-active" data-state="active"><a href="#">English</a></li><li class="subnav__options--option" data-state="inactive"><a href="#">Latin/German</a></li><li class="subnav__options--option" data-state="inactive"><a href="#">Original</a></li><li class="subnav__views--double" data-state="inactive"><a href="#">Comparative View</a></li><li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">English</a></li><li class="subnav__options--option is-hidden" data-state="inactive"><a href="#">Latin/German</a></li><li class="subnav__options--option is-hidden is-active" data-state="active"><a href="#">Original</a></li></ul></nav></header><main id="emblem-data" class="emblem-page frontmatter" data-id="1"><div class="_sidenav"></div><div class="section__facsimile is-hidden"><div class="facsimile--full"><section class="_facsimile"><section class="facsimile"><div id="openseadragon-wrapper"><div id="tools"><span><a id="zoom-in" href="#zoom-in" title="Zoom In" style="display: inline-block; position: relative">Zoom In</a><a id="zoom-out" href="#zoom-out" title="Zoom Out" style="display: inline-block; position: relative">Zoom Out</a><a id="previous" href="#previous" title="Previous" style="display: inline-block; position: relative">Previous</a><a id="next" href="#next" title="Next" style="display: inline-block; position: relative">Next</a></span></div></div></section></section></div></div><div class="emblem"><section class="section__frontispiece section--single panel--full"><div class="translation"><div class="switch-wrapper left"><div class="facsimile-normalized-switch"><ul><li><a href="#">Facsimile</a></li><li class="is-selected"><a href="#">Normalized</a></li></ul></div></div><span class="page-break--atalanta-fugiens"></span><span class="page-break--beinecke"></span><div class="lang--english _frontispiece--english edition--normalized"><div class="dedication">
+                        <div class="ab">
+                        Michael Majerus Doctor of <span class="original">Physicke </span><span class="regularized">Physic</span>, <span class="original">Præsident </span><span class="regularized">President</span> of
+                        the <span class="original">Imperiall </span><span class="regularized">Imperial</span> Consistory, Knight etc. most humbly
+                        offers, presents, and dedicates this testimony (such
+                        as it is) of his good will and gratitude to the most
+                        magnificent, famous, and most excellent Sena<span class="original">=<br></span>tory Order of the <span class="original">Imperiall </span><span class="regularized">Imperial</span> <span class="original">Republicke </span><span class="regularized">Republic</span> of 
+                        Mülhause<span class="add">n</span> in Thuringia, consisting of men
+                        incomparable for virtue, learning, and 
+                        true <span class="original">noblenesse </span><span class="regularized">nobleness</span> of mind;
+                    </div>
+              
+                    <div class="ab">
+                        as <span class="original">allso </span><span class="regularized">also</span>
+                        to the most vigilant <span class="original">Syndicke </span><span class="regularized">Syndic</span> thereof of Christopher
+                        Reinart, a most eminent Doctor of both <span class="original">lawes </span><span class="regularized">laws</span>, etc.
+                        being all his honored and much esteemed 
+                        <span class="original">freinds </span><span class="regularized">friends</span> and Masters
+                    </div></div><div class="dedication">
+                        Most honorable and most prudent Senators!
+                    <div class="ab">
+                        As touching that Tripos 
+                        given by Vulcan to Pelops the <span class="original">Bridegroome </span><span class="regularized">Bridegroom</span> when <span class="original">hee </span><span class="regularized">he</span> <span class="original">marryed </span><span class="regularized">married</span> Hippo<span class="original">=<br></span>damia the daughter of Oënomaus King of Elis, they report, that, being of
+                        singular artifice, it was <span class="original">againe </span><span class="regularized">again</span> presented by Pelops to Apollo Pythius at
+                        Delphos, upon which oracles were by the inspiration of that God from 
+                        thenceforth uttered by a Virgin: <span class="milestone">004</span><span class="original">Soe </span><span class="regularized">So</span> this Tripes (curiously wrought by 
+                        Vulcan) coming to my hand, moved by the example of Pelops, I resolved
+                        to present and consecrate it to the most worthy place and order, and in<span class="original">=<br></span>deed before all others, to your <span class="original">Honours </span><span class="regularized">Honors</span> and <span class="original">Excellencyes </span><span class="regularized">Excellencies</span>, yet not to the
+                        end that Oracles should arise from thence (though they cannot be here ex<span class="original">=<br></span>pected, but <span class="original">Chymicall </span><span class="regularized">Chymical</span> things) but to testify <span class="original">publickly </span><span class="regularized">publicly</span> the promptitude and
+                        good will of my mind some way towards you, who in your most high 
+                        and worthy state were some few years since <span class="original">pleasd </span><span class="regularized">pleased</span> to declare to <span class="original">mee </span><span class="regularized">me</span> <span class="note-mark">*</span><div class="margin-note"><span class="note-mark">*</span>of blessed me<span class="original">=<br></span>mory<span class="pc">. . .</span></div>
+                        then serving as <span class="original">Physitian </span><span class="regularized">Physician</span> to his <span class="original">Cæsarean </span><span class="regularized">Cesarean</span> Majesty Rudolph 2.<span class="add">d</span> your opini
+                        on thereto relating: after which time I have <span class="original">allwayes </span><span class="regularized">always</span>, <span class="original">soe </span><span class="regularized">so</span> <span class="original">farre </span><span class="regularized">far</span> as my ability
+                        could extend, advanced your virtues abroad not only by words, but have 
+                        <span class="original">allso </span><span class="regularized">also</span> been <span class="original">carefull </span><span class="regularized">careful</span> and studious how I might actually and more evidently
+                        declare and more abundantly discharge my mind to the same, but ap<span class="original">=<br></span>prehending it could not be done otherwise than by some present of 
+                        literature, and having taken some pains in this running Atalanta, I was
+                        desirous to dedicate it <span class="original">wholy </span><span class="regularized">wholly</span>, as it is, to your <span class="original">Honours </span><span class="regularized">Honors</span> and <span class="original">Excellencyes </span><span class="regularized">Excellencies</span>, 
+                        herein imitating the writers both of our and former ages, who would <span class="del">ne</span><span class="original">=<br></span>never appear in <span class="original">publick </span><span class="regularized">public</span> without the conduct of a Scipio, for if they
+                        Should have fallen, who could have <span class="original">help'd </span><span class="regularized">helped</span> them? I entreat that I
+                        
+                <span class="pb">04</span>
+                        may <span class="original">terme </span><span class="regularized">term</span> you the patrons of this little <span class="original">worke </span><span class="regularized">work</span>, not that you have exer<span class="original">=<br></span>cised either hand or mind, <span class="original">soe </span><span class="regularized">so</span> <span class="original">farre </span><span class="regularized">far</span> as I know, in this study <span class="milestone">005</span>(for neither 
+                        have you <span class="original">soe </span><span class="regularized">so</span> much leisure from most weighty affairs) but because you 
+                        seem to <span class="original">mee </span><span class="regularized">me</span> able to defend any branch of learning, and as the case stands
+                        I have not <span class="original">mett </span><span class="regularized">met</span> with any matter more worthy, or more honest, abuse ex<span class="original">=<br></span>cepted and excluded: let it be what it will, esteem of my <span class="original">endeavours </span><span class="regularized">endeavors</span>, not
+                        according to the <span class="original">meanesse </span><span class="regularized">meanness</span> of the writing, but the candor of my mind, 
+                        which I am <span class="original">assurd </span><span class="regularized">assured</span> of, and for the future receive and register <span class="original">mee </span><span class="regularized">me</span> 
+                        amongst the most <span class="original">dutifull </span><span class="regularized">dutiful</span> of your <span class="original">Honours </span><span class="regularized">Honors</span> servants. Farewell.
+                       
+                    </div>
+                    
+                        Frankfurt ad Mænum
+                        1617. August<span class="pc">. . . .</span>
+                    
+                        </div></div></div><div class="original is-hidden"><div class="switch-wrapper left"><div class="latin-german-switch" style="display:none;"><ul><li class="is-selected"><a href="#">Latin</a></li><li><a href="#">German</a></li></ul></div></div><div class="lang--latin _frontispiece--latin"><div class="preface ">
+            <span class="pb atalanta-fugiens">3</span>   
+            
+            
+            
+               
+                
+                   <span class="original"><br></span><span class="italic">Amplissimo, Celeberrimo <span class="original">&amp;</span> Excellentissimo</span>
+                   <span class="original"><br></span>Mülhausensis
+                   <span class="original"><br></span>in Thuringia Imperialis
+                   <span class="original"><br></span>Reipublic<span class="original">æ</span><span class="regularized">[ae]</span> Senatorio ordini,
+                   <span class="original"><br></span>Viris Virtute, Doctrinâ, <span class="original">&amp;</span> verâ animi Nobilitate
+                   <span class="original"><br></span>pr<span class="original">æ</span><span class="regularized">[ae]</span>stantissimis;
+                   <span class="original"><br></span><span class="italic">Nec non ejusdem Syndico vigilantissimo</span>,
+                   <span class="original"><br></span>Christophoro
+                   <span class="original"><br></span>Reinart utriusque Juris Doctori
+                   <span class="original"><br></span>Consultiss<span class="original">.</span><span class="regularized">[Consultissimo]</span> P<span class="original">.</span><span class="regularized">[Poetae]</span> C<span class="original">.</span><span class="regularized">[Coronato]</span> Caes<span class="original">.</span><span class="regularized">[Caesareo]</span>
+                   <span class="original"><br></span>suaviss<span class="original">.</span><span class="regularized">[suavissimo]</span> etc<span class="regularized">[etcaetera]</span>.
+                
+                
+                   a
+                   <span class="original"><br></span><span class="italic">Dominis suis semper honorificè colendis omnibus <span class="original">&amp;</span> singulis hoc benevo<span class="original">-<br></span>lenti<span class="original">æ</span><span class="regularized">[ae]</span> su<span class="original">æ</span><span class="regularized">[ae]</span> gratitudinisɋ́<span class="regularized">[gratitudinisque]</span> qualecunque tecmerion, dicat, dedicat <span class="original">&amp;</span>
+                   <span class="original"><br></span>obfert officiosissimè.</span>
+                                
+              
+               
+            
+               
+                  <span class="original"><br></span><span class="milestone atalanta-fugiens">ded-01</span><span class="caps">Michael Maierus</span> Med<span class="original">.</span><span class="regularized">[Medicinarum]</span> D<span class="original">.</span><span class="regularized">[Doctor]</span> Imper<span class="original">.</span><span class="regularized">[Imperialis]</span> Consist<span class="original">.</span><span class="regularized">[Consistorii]</span> Com<span class="original">.</span><span class="regularized">[Comes]</span> E<span class="original">.</span><span class="regularized">[Eques]</span> E<span class="original">.</span><span class="regularized">[Exemptus]</span> P<span class="original">.</span><span class="regularized">[Poeta]</span> C<span class="regularized">[Coronatus]</span>.
+                  <span class="original"><br></span><span class="milestone atalanta-fugiens">ded-02</span>Viri amplissimi consultissimíq<span class="original">;</span><span class="regularized">[consultissimique]</span> De <span class="caps">Tri<span class="original">-<br></span>pode</span> illo Pelopi sponso, cum Hippoda<span class="original">-<br></span>miam Oënomai Regis Elidis filiam in u<span class="original">-<br></span>xorem duceret, à Vulcano dono dato, nar<span class="original">-<br></span>rant, quod, cùm singularis artificii esset, à
+                  <span class="original"><br></span>Pelope Apollini Pythio Delphis iterùm oblatus sit, ex
+                  <span class="original"><br></span>quo deinde per virginiem afflatu illius Dei oracula sint e<span class="original">-<br></span>
+               
+            
+                
+               <span class="pb atalanta-fugiens">4</span>
+                
+               
+                  
+                     
+                  <span class="original"><br></span>dita: <span class="milestone atalanta-fugiens">ded-03</span>Ita cùm mihi hic <span class="caps">Tripes</span> à Vulcano elaboratus
+                  <span class="original"><br></span>ad manum venerit, Pelopis exemplo motus, illum di<span class="original">-<br></span>gnissimo loco <span class="original">&amp;</span> ordini consecrare <span class="original">&amp;</span> obferre decrevi, <span class="original">&amp;</span>
+                  <span class="original"><br></span>quidem ante omnes alios, Vestris Amplitud<span class="original">dd.</span><span class="regularized">[Amplitudissimis]</span> <span class="original">&amp;</span> Excelcent<span class="original">tt.</span><span class="regularized">[Excelcentissimis]</span> non quidem eo consilio, ut unde Oracula depro<span class="original">-<br></span>mantur (quamvis nec ea, at chymica, hîc desyderari pos<span class="original">-<br></span>sint) sed ut animi mei promptitudinem voluntatemq́<span class="original">;</span><span class="regularized">[voluntatemque]</span>
+                  <span class="original"><br></span>benevolam aliquo modo erga eas publicè testarer, qu<span class="original">æ</span><span class="regularized">[ae]</span>
+                  <span class="original"><br></span>ante paucos annos in transitu mihi tum C<span class="original">æ</span><span class="regularized">[ae]</span>sare<span class="original">æ</span><span class="regularized">[ae]</span> Maje<span class="original">-<br></span>stati <span class="caps">Rudolpho II.</span> div<span class="original">æ</span><span class="regularized">[ae]</span> memori<span class="original">æ</span><span class="regularized">[ae]</span> à consiliis medicis
+                  <span class="original"><br></span>existenti, quo animo erga Dominum essetis, ministro
+                  <span class="original"><br></span>declarare volueritis, nempe optimo <span class="original">&amp;</span> vestro statu di<span class="original">-<br></span>gnissimo: <span class="milestone atalanta-fugiens">ded-04</span>A quo tempore semper non solùm verbis,
+                  <span class="original"><br></span>quoad potui, vestras virtutes apud exteros ornavi, sed in
+                  <span class="original"><br></span>hoc quoque incubui, ut re ipsa mentem meam apertiùs
+                  <span class="original"><br></span>iisdem patefacerem, <span class="original">&amp;</span> uberiùs effunderem. <span class="milestone atalanta-fugiens">ded-05</span>Quod cùm
+                  <span class="original"><br></span>non aliter, quàm literario quopiam Xeniolo fieri posse
+                  <span class="original"><br></span>pr<span class="original">æ</span><span class="regularized">[ae]</span>senserim, ac nonnihil oper<span class="original">æ</span><span class="regularized">[ae]</span> in hac Atalanta fugien<span class="original">-<br></span>te consumpserim, omne id, qualecunque sit, Vestris
+                  <span class="original"><br></span>Amplitud<span class="original">dd.</span><span class="regularized">[Amplitudissimis]</span> <span class="original">&amp;</span> Excellent<span class="original">tt.</span><span class="regularized">[Excellentissimis]</span> dicare volui, in hoc imitatus
+                  <span class="original"><br></span>nostri <span class="original">&amp;</span> antiqui temporis scriptores, qui nunquam sine
+                  <span class="original"><br></span>Scipione, duce aut comite in vulgus prodire, sive per ora
+                  <span class="original"><br></span>virûm ambulare voluerunt: Si enim cecidissent, quis
+                  <span class="original"><br></span>subvenisset illis? <span class="milestone atalanta-fugiens">ded-06</span>Qu<span class="original">æ</span><span class="regularized">[ae]</span>so, ut hujus opusculi Patronos mi<span class="original">-<br></span>hi vos appellare liceat, non quod huic, verè dubio, stu<span class="original">-<br></span>dio manum aut mentem, quantum sciam, adhibueritis,
+                        <span class="original"><br></span>
+                    
+                  
+               
+               
+               <span class="pb atalanta-fugiens">5</span>
+                
+               
+                  
+                     
+                  <span class="original"><br></span>(nec enim à gravissimis negotiis tantùm superfuit otii)
+                  <span class="original"><br></span>sed quia satis mihi videremini, ad quamvis doctrin<span class="original">æ</span><span class="regularized">[ae]</span>
+                  <span class="original"><br></span>partem tuendam, mihiq́<span class="original">;</span><span class="regularized">[mihique]</span> non alia materia sive dignior
+                  <span class="original"><br></span>sive honestior (excluso abusu) pro tempore occurrerit.
+                  <span class="original"><br></span><span class="milestone atalanta-fugiens">ded-07</span>Quicquid sit, vos meos conatus, non pro chart<span class="original">æ</span><span class="regularized">[ae]</span> vilitate,
+                  <span class="original"><br></span>sed animi mei candore (quod scio) <span class="original">æ</span><span class="regularized">[ae]</span>stimabitis, méque
+                  <span class="original"><br></span>inter vestrarum Amplitud<span class="original">dd.</span><span class="regularized">[Amplitudissimarum]</span> observantissimos impo<span class="original">-<br></span>sterum habebitis <span class="original">&amp;</span> numberabitis. <span class="milestone atalanta-fugiens">ded-08</span>Valete, Dabam
+                  <span class="original"><br></span>Francofurti ad M<span class="original">œ</span><span class="regularized">[oe]</span>num, Anno 1617. Mense Augusto.
+                  
+                  
+               
+                
+            </div></div></div></section><section class="section__frontispiece section--double panel--right is-hidden"><div class="translation is-hidden"><div class="switch-wrapper right"><div class="facsimile-normalized-switch"><ul><li><a href="#">Facsimile</a></li><li class="is-selected"><a href="#">Normalized</a></li></ul></div></div><div class="lang--english _frontispiece--english edition--normalized"><div class="dedication">
+                        <div class="ab">
+                        Michael Majerus Doctor of <span class="original">Physicke </span><span class="regularized">Physic</span>, <span class="original">Præsident </span><span class="regularized">President</span> of
+                        the <span class="original">Imperiall </span><span class="regularized">Imperial</span> Consistory, Knight etc. most humbly
+                        offers, presents, and dedicates this testimony (such
+                        as it is) of his good will and gratitude to the most
+                        magnificent, famous, and most excellent Sena<span class="original">=<br></span>tory Order of the <span class="original">Imperiall </span><span class="regularized">Imperial</span> <span class="original">Republicke </span><span class="regularized">Republic</span> of 
+                        Mülhause<span class="add">n</span> in Thuringia, consisting of men
+                        incomparable for virtue, learning, and 
+                        true <span class="original">noblenesse </span><span class="regularized">nobleness</span> of mind;
+                    </div>
+              
+                    <div class="ab">
+                        as <span class="original">allso </span><span class="regularized">also</span>
+                        to the most vigilant <span class="original">Syndicke </span><span class="regularized">Syndic</span> thereof of Christopher
+                        Reinart, a most eminent Doctor of both <span class="original">lawes </span><span class="regularized">laws</span>, etc.
+                        being all his honored and much esteemed 
+                        <span class="original">freinds </span><span class="regularized">friends</span> and Masters
+                    </div></div><div class="dedication">
+                        Most honorable and most prudent Senators!
+                    <div class="ab">
+                        As touching that Tripos 
+                        given by Vulcan to Pelops the <span class="original">Bridegroome </span><span class="regularized">Bridegroom</span> when <span class="original">hee </span><span class="regularized">he</span> <span class="original">marryed </span><span class="regularized">married</span> Hippo<span class="original">=<br></span>damia the daughter of Oënomaus King of Elis, they report, that, being of
+                        singular artifice, it was <span class="original">againe </span><span class="regularized">again</span> presented by Pelops to Apollo Pythius at
+                        Delphos, upon which oracles were by the inspiration of that God from 
+                        thenceforth uttered by a Virgin: <span class="milestone">004</span><span class="original">Soe </span><span class="regularized">So</span> this Tripes (curiously wrought by 
+                        Vulcan) coming to my hand, moved by the example of Pelops, I resolved
+                        to present and consecrate it to the most worthy place and order, and in<span class="original">=<br></span>deed before all others, to your <span class="original">Honours </span><span class="regularized">Honors</span> and <span class="original">Excellencyes </span><span class="regularized">Excellencies</span>, yet not to the
+                        end that Oracles should arise from thence (though they cannot be here ex<span class="original">=<br></span>pected, but <span class="original">Chymicall </span><span class="regularized">Chymical</span> things) but to testify <span class="original">publickly </span><span class="regularized">publicly</span> the promptitude and
+                        good will of my mind some way towards you, who in your most high 
+                        and worthy state were some few years since <span class="original">pleasd </span><span class="regularized">pleased</span> to declare to <span class="original">mee </span><span class="regularized">me</span> <span class="note-mark">*</span><div class="margin-note"><span class="note-mark">*</span>of blessed me<span class="original">=<br></span>mory<span class="pc">. . .</span></div>
+                        then serving as <span class="original">Physitian </span><span class="regularized">Physician</span> to his <span class="original">Cæsarean </span><span class="regularized">Cesarean</span> Majesty Rudolph 2.<span class="add">d</span> your opini
+                        on thereto relating: after which time I have <span class="original">allwayes </span><span class="regularized">always</span>, <span class="original">soe </span><span class="regularized">so</span> <span class="original">farre </span><span class="regularized">far</span> as my ability
+                        could extend, advanced your virtues abroad not only by words, but have 
+                        <span class="original">allso </span><span class="regularized">also</span> been <span class="original">carefull </span><span class="regularized">careful</span> and studious how I might actually and more evidently
+                        declare and more abundantly discharge my mind to the same, but ap<span class="original">=<br></span>prehending it could not be done otherwise than by some present of 
+                        literature, and having taken some pains in this running Atalanta, I was
+                        desirous to dedicate it <span class="original">wholy </span><span class="regularized">wholly</span>, as it is, to your <span class="original">Honours </span><span class="regularized">Honors</span> and <span class="original">Excellencyes </span><span class="regularized">Excellencies</span>, 
+                        herein imitating the writers both of our and former ages, who would <span class="del">ne</span><span class="original">=<br></span>never appear in <span class="original">publick </span><span class="regularized">public</span> without the conduct of a Scipio, for if they
+                        Should have fallen, who could have <span class="original">help'd </span><span class="regularized">helped</span> them? I entreat that I
+                        
+                <span class="pb">04</span>
+                        may <span class="original">terme </span><span class="regularized">term</span> you the patrons of this little <span class="original">worke </span><span class="regularized">work</span>, not that you have exer<span class="original">=<br></span>cised either hand or mind, <span class="original">soe </span><span class="regularized">so</span> <span class="original">farre </span><span class="regularized">far</span> as I know, in this study <span class="milestone">005</span>(for neither 
+                        have you <span class="original">soe </span><span class="regularized">so</span> much leisure from most weighty affairs) but because you 
+                        seem to <span class="original">mee </span><span class="regularized">me</span> able to defend any branch of learning, and as the case stands
+                        I have not <span class="original">mett </span><span class="regularized">met</span> with any matter more worthy, or more honest, abuse ex<span class="original">=<br></span>cepted and excluded: let it be what it will, esteem of my <span class="original">endeavours </span><span class="regularized">endeavors</span>, not
+                        according to the <span class="original">meanesse </span><span class="regularized">meanness</span> of the writing, but the candor of my mind, 
+                        which I am <span class="original">assurd </span><span class="regularized">assured</span> of, and for the future receive and register <span class="original">mee </span><span class="regularized">me</span> 
+                        amongst the most <span class="original">dutifull </span><span class="regularized">dutiful</span> of your <span class="original">Honours </span><span class="regularized">Honors</span> servants. Farewell.
+                       
+                    </div>
+                    
+                        Frankfurt ad Mænum
+                        1617. August<span class="pc">. . . .</span>
+                    
+                        </div></div></div><div class="original"><div class="switch-wrapper right"><div class="latin-german-switch"><ul><li class="is-selected"><a href="#">Latin</a></li><li><a href="#">German</a></li></ul></div></div><div class="lang--latin _frontispiece--latin"><div class="preface ">
+            <span class="pb atalanta-fugiens">3</span>   
+            
+            
+            
+               
+                
+                   <span class="original"><br></span><span class="italic">Amplissimo, Celeberrimo <span class="original">&amp;</span> Excellentissimo</span>
+                   <span class="original"><br></span>Mülhausensis
+                   <span class="original"><br></span>in Thuringia Imperialis
+                   <span class="original"><br></span>Reipublic<span class="original">æ</span><span class="regularized">[ae]</span> Senatorio ordini,
+                   <span class="original"><br></span>Viris Virtute, Doctrinâ, <span class="original">&amp;</span> verâ animi Nobilitate
+                   <span class="original"><br></span>pr<span class="original">æ</span><span class="regularized">[ae]</span>stantissimis;
+                   <span class="original"><br></span><span class="italic">Nec non ejusdem Syndico vigilantissimo</span>,
+                   <span class="original"><br></span>Christophoro
+                   <span class="original"><br></span>Reinart utriusque Juris Doctori
+                   <span class="original"><br></span>Consultiss<span class="original">.</span><span class="regularized">[Consultissimo]</span> P<span class="original">.</span><span class="regularized">[Poetae]</span> C<span class="original">.</span><span class="regularized">[Coronato]</span> Caes<span class="original">.</span><span class="regularized">[Caesareo]</span>
+                   <span class="original"><br></span>suaviss<span class="original">.</span><span class="regularized">[suavissimo]</span> etc<span class="regularized">[etcaetera]</span>.
+                
+                
+                   a
+                   <span class="original"><br></span><span class="italic">Dominis suis semper honorificè colendis omnibus <span class="original">&amp;</span> singulis hoc benevo<span class="original">-<br></span>lenti<span class="original">æ</span><span class="regularized">[ae]</span> su<span class="original">æ</span><span class="regularized">[ae]</span> gratitudinisɋ́<span class="regularized">[gratitudinisque]</span> qualecunque tecmerion, dicat, dedicat <span class="original">&amp;</span>
+                   <span class="original"><br></span>obfert officiosissimè.</span>
+                                
+              
+               
+            
+               
+                  <span class="original"><br></span><span class="milestone atalanta-fugiens">ded-01</span><span class="caps">Michael Maierus</span> Med<span class="original">.</span><span class="regularized">[Medicinarum]</span> D<span class="original">.</span><span class="regularized">[Doctor]</span> Imper<span class="original">.</span><span class="regularized">[Imperialis]</span> Consist<span class="original">.</span><span class="regularized">[Consistorii]</span> Com<span class="original">.</span><span class="regularized">[Comes]</span> E<span class="original">.</span><span class="regularized">[Eques]</span> E<span class="original">.</span><span class="regularized">[Exemptus]</span> P<span class="original">.</span><span class="regularized">[Poeta]</span> C<span class="regularized">[Coronatus]</span>.
+                  <span class="original"><br></span><span class="milestone atalanta-fugiens">ded-02</span>Viri amplissimi consultissimíq<span class="original">;</span><span class="regularized">[consultissimique]</span> De <span class="caps">Tri<span class="original">-<br></span>pode</span> illo Pelopi sponso, cum Hippoda<span class="original">-<br></span>miam Oënomai Regis Elidis filiam in u<span class="original">-<br></span>xorem duceret, à Vulcano dono dato, nar<span class="original">-<br></span>rant, quod, cùm singularis artificii esset, à
+                  <span class="original"><br></span>Pelope Apollini Pythio Delphis iterùm oblatus sit, ex
+                  <span class="original"><br></span>quo deinde per virginiem afflatu illius Dei oracula sint e<span class="original">-<br></span>
+               
+            
+                
+               <span class="pb atalanta-fugiens">4</span>
+                
+               
+                  
+                     
+                  <span class="original"><br></span>dita: <span class="milestone atalanta-fugiens">ded-03</span>Ita cùm mihi hic <span class="caps">Tripes</span> à Vulcano elaboratus
+                  <span class="original"><br></span>ad manum venerit, Pelopis exemplo motus, illum di<span class="original">-<br></span>gnissimo loco <span class="original">&amp;</span> ordini consecrare <span class="original">&amp;</span> obferre decrevi, <span class="original">&amp;</span>
+                  <span class="original"><br></span>quidem ante omnes alios, Vestris Amplitud<span class="original">dd.</span><span class="regularized">[Amplitudissimis]</span> <span class="original">&amp;</span> Excelcent<span class="original">tt.</span><span class="regularized">[Excelcentissimis]</span> non quidem eo consilio, ut unde Oracula depro<span class="original">-<br></span>mantur (quamvis nec ea, at chymica, hîc desyderari pos<span class="original">-<br></span>sint) sed ut animi mei promptitudinem voluntatemq́<span class="original">;</span><span class="regularized">[voluntatemque]</span>
+                  <span class="original"><br></span>benevolam aliquo modo erga eas publicè testarer, qu<span class="original">æ</span><span class="regularized">[ae]</span>
+                  <span class="original"><br></span>ante paucos annos in transitu mihi tum C<span class="original">æ</span><span class="regularized">[ae]</span>sare<span class="original">æ</span><span class="regularized">[ae]</span> Maje<span class="original">-<br></span>stati <span class="caps">Rudolpho II.</span> div<span class="original">æ</span><span class="regularized">[ae]</span> memori<span class="original">æ</span><span class="regularized">[ae]</span> à consiliis medicis
+                  <span class="original"><br></span>existenti, quo animo erga Dominum essetis, ministro
+                  <span class="original"><br></span>declarare volueritis, nempe optimo <span class="original">&amp;</span> vestro statu di<span class="original">-<br></span>gnissimo: <span class="milestone atalanta-fugiens">ded-04</span>A quo tempore semper non solùm verbis,
+                  <span class="original"><br></span>quoad potui, vestras virtutes apud exteros ornavi, sed in
+                  <span class="original"><br></span>hoc quoque incubui, ut re ipsa mentem meam apertiùs
+                  <span class="original"><br></span>iisdem patefacerem, <span class="original">&amp;</span> uberiùs effunderem. <span class="milestone atalanta-fugiens">ded-05</span>Quod cùm
+                  <span class="original"><br></span>non aliter, quàm literario quopiam Xeniolo fieri posse
+                  <span class="original"><br></span>pr<span class="original">æ</span><span class="regularized">[ae]</span>senserim, ac nonnihil oper<span class="original">æ</span><span class="regularized">[ae]</span> in hac Atalanta fugien<span class="original">-<br></span>te consumpserim, omne id, qualecunque sit, Vestris
+                  <span class="original"><br></span>Amplitud<span class="original">dd.</span><span class="regularized">[Amplitudissimis]</span> <span class="original">&amp;</span> Excellent<span class="original">tt.</span><span class="regularized">[Excellentissimis]</span> dicare volui, in hoc imitatus
+                  <span class="original"><br></span>nostri <span class="original">&amp;</span> antiqui temporis scriptores, qui nunquam sine
+                  <span class="original"><br></span>Scipione, duce aut comite in vulgus prodire, sive per ora
+                  <span class="original"><br></span>virûm ambulare voluerunt: Si enim cecidissent, quis
+                  <span class="original"><br></span>subvenisset illis? <span class="milestone atalanta-fugiens">ded-06</span>Qu<span class="original">æ</span><span class="regularized">[ae]</span>so, ut hujus opusculi Patronos mi<span class="original">-<br></span>hi vos appellare liceat, non quod huic, verè dubio, stu<span class="original">-<br></span>dio manum aut mentem, quantum sciam, adhibueritis,
+                        <span class="original"><br></span>
+                    
+                  
+               
+               
+               <span class="pb atalanta-fugiens">5</span>
+                
+               
+                  
+                     
+                  <span class="original"><br></span>(nec enim à gravissimis negotiis tantùm superfuit otii)
+                  <span class="original"><br></span>sed quia satis mihi videremini, ad quamvis doctrin<span class="original">æ</span><span class="regularized">[ae]</span>
+                  <span class="original"><br></span>partem tuendam, mihiq́<span class="original">;</span><span class="regularized">[mihique]</span> non alia materia sive dignior
+                  <span class="original"><br></span>sive honestior (excluso abusu) pro tempore occurrerit.
+                  <span class="original"><br></span><span class="milestone atalanta-fugiens">ded-07</span>Quicquid sit, vos meos conatus, non pro chart<span class="original">æ</span><span class="regularized">[ae]</span> vilitate,
+                  <span class="original"><br></span>sed animi mei candore (quod scio) <span class="original">æ</span><span class="regularized">[ae]</span>stimabitis, méque
+                  <span class="original"><br></span>inter vestrarum Amplitud<span class="original">dd.</span><span class="regularized">[Amplitudissimarum]</span> observantissimos impo<span class="original">-<br></span>sterum habebitis <span class="original">&amp;</span> numberabitis. <span class="milestone atalanta-fugiens">ded-08</span>Valete, Dabam
+                  <span class="original"><br></span>Francofurti ad M<span class="original">œ</span><span class="regularized">[oe]</span>num, Anno 1617. Mense Augusto.
+                  
+                  
+               
+                
+            </div></div></div></section></div></main><script type="text/javascript" src="../assets/js/topnav.js"></script><script type="text/javascript" src="../assets/js/emblem.js"></script><script type="text/javascript" src="../assets/js/zooming-image-viewer--openseadragon.js"></script></body></html>
