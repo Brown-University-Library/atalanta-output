@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <atalanta-emblems xmlns:af="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><atalanta-texts-orig>
-        <file filename="emblem01.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.205703" atime="2019-02-06T13:57:57.269406" size="17761">
+        <file filename="emblem01.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.205703" atime="2019-03-18T16:59:02.948166" size="17761">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -176,7 +176,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem02.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.215703" atime="2019-02-06T13:57:57.280405" size="14632">
+        <file filename="emblem02.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.215703" atime="2019-03-18T16:59:02.922167" size="14632">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -330,7 +330,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem03.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.229710" atime="2019-02-06T13:57:57.292406" size="14450">
+        <file filename="emblem03.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.229710" atime="2019-03-18T16:59:02.405170" size="14450">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -488,7 +488,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem04.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.237706" atime="2019-02-06T13:57:57.304407" size="14526">
+        <file filename="emblem04.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.237706" atime="2019-03-18T16:59:02.377162" size="14526">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -645,7 +645,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem05.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.245702" atime="2019-02-06T13:57:57.319424" size="16333">
+        <file filename="emblem05.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.245702" atime="2019-03-18T16:59:02.347161" size="16333">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -816,7 +816,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem06.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.253703" atime="2019-02-06T13:57:57.344414" size="26878">
+        <file filename="emblem06.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.680385" atime="2019-03-18T13:47:21.679380" size="26878">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -871,7 +871,7 @@
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="2"/>Seminate aurum vestrum in terram albam foliatam.
+                  <lb n="1"/>Seminate aurum vestrum in terram albam foliatam.
                </head>
                <figure><graphic url=""/></figure>
             </div>            
@@ -987,7 +987,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem07.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.262703" atime="2019-02-06T13:57:57.363428" size="15266">
+        <file filename="emblem07.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.262703" atime="2019-03-18T16:59:02.239177" size="15266">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1146,7 +1146,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem08.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.270716" atime="2019-02-06T13:57:57.375407" size="13754">
+        <file filename="emblem08.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.681380" atime="2019-03-18T13:47:21.681380" size="13754">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1201,7 +1201,7 @@
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="2"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.
+                  <lb n="1"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.
                </head>
                <figure><graphic url=""/></figure>
 
@@ -1294,7 +1294,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem09.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.281705" atime="2019-02-06T13:57:57.394414" size="27000">
+        <file filename="emblem09.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.684383" atime="2019-03-18T13:47:21.683382" size="27000">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1351,8 +1351,8 @@
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="2"/>Arborem cum sene conclude in rorida domo, <g type="ampersand">et</g> comedens
-                  <lb n="3"/>de fructu ejus fiet juvenis.
+                  <lb n="1"/>Arborem cum sene conclude in rorida domo, <g type="ampersand">et</g> comedens
+                  <lb n="2"/>de fructu ejus fiet juvenis.
                </head>
                <figure><graphic url=""/></figure>
             </div>       
@@ -1463,7 +1463,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem10.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.290703" atime="2019-02-06T13:57:57.418420" size="25902">
+        <file filename="emblem10.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.290703" atime="2019-03-18T16:59:02.058160" size="25902">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1625,7 +1625,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem11.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.300705" atime="2019-02-06T13:57:57.437408" size="19025">
+        <file filename="emblem11.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.686378" atime="2019-03-18T13:47:21.685378" size="19025">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1678,7 +1678,7 @@
             
             <div type="image" xml:lang="la">
                <head>
-                  <lb n="2"/>Dealbate <persName>Latonam</persName> <g type="ampersand">et</g> rumpite libros.
+                  <lb n="1"/>Dealbate <persName>Latonam</persName> <g type="ampersand">et</g> rumpite libros.
                </head>
                <figure><graphic url=""/></figure>
 
@@ -1788,7 +1788,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem12.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.308705" atime="2019-02-06T13:57:57.461420" size="16897">
+        <file filename="emblem12.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.308705" atime="2019-03-18T16:59:01.504785" size="16897">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1947,7 +1947,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem13.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.429713" atime="2019-02-06T13:57:57.480596" size="25305">
+        <file filename="emblem13.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.429713" atime="2019-03-18T16:59:01.452788" size="25305">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2112,7 +2112,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem14.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.437705" atime="2019-02-06T13:57:57.504624" size="13852">
+        <file filename="emblem14.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.437705" atime="2019-03-18T16:59:01.407786" size="13852">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2267,7 +2267,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem15.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.445705" atime="2019-02-06T13:57:57.522587" size="15497">
+        <file filename="emblem15.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.445705" atime="2019-03-18T16:59:01.352783" size="15497">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2421,7 +2421,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem16.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.875196" atime="2019-02-06T13:57:57.537583" size="13619">
+        <file filename="emblem16.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.688379" atime="2019-03-18T13:47:21.687380" size="13726">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2452,7 +2452,7 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
+               <lb n="1"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
             </head>
                
             </div>
@@ -2472,7 +2472,10 @@
             <fw type="catchword">Emble-</fw>
             <pb n="73" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">73</fw><div type="image" xml:lang="la"><head/></div>
+            <fw type="header" place="top-center">Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">73</fw>
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Hic leo, quas plumas non habet, alter habet.</head>
+            </div>
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVI.</head>
@@ -2560,7 +2563,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem17.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.454706" atime="2019-02-06T13:57:57.554598" size="22706">
+        <file filename="emblem17.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.689391" atime="2019-03-18T13:47:21.689391" size="22800">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2610,7 +2613,10 @@
             <pb n="77" edRef="Maier1618"/>
             
             <fw type="header" place="top-center">Emblema XVII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">77</fw>
-            <div type="image" xml:lang="la"><head/></div>            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Orbita quadruplex hoc regit ignis opus.</head>
+            </div>     
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVII.</head>
                <lg>
@@ -2709,7 +2715,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem18.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.464707" atime="2019-02-06T13:57:57.576583" size="19227">
+        <file filename="emblem18.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.691381" atime="2019-03-18T13:47:21.691381" size="19362">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2739,8 +2745,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Das Feiuer macht feiurig <pc>/</pc> nicht güldin <pc>/</pc>
-               <lb n="3"/>sondern das Gold.
+               <lb n="1"/>Das Feiuer macht feiurig <pc>/</pc> nicht güldin <pc>/</pc>
+               <lb n="2"/>sondern das Gold.
             </head>
                
             </div>
@@ -2760,7 +2766,12 @@
             
             <pb n="81" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Ignire ignis amat, non aurificare, sed aurum:</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVIII.</head>
                <lg>
@@ -2858,7 +2869,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem19.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.472706" atime="2019-02-06T13:57:57.603588" size="15919">
+        <file filename="emblem19.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.693380" atime="2019-03-18T13:47:21.692382" size="16087">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2889,8 +2900,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>So du von vieren ein ertödest <pc>/</pc> bald werden
-               <lb n="3"/>sie sterben all.
+               <lb n="1"/>So du von vieren ein ertödest <pc>/</pc> bald werden
+               <lb n="2"/>sie sterben all.
             </head>
                
             </div>
@@ -2910,7 +2921,12 @@
             
             <pb n="85" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Si de quattuor unum Occidas, subit<hi rend="grave">o</hi> mortuus omnis erit.</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XIX.</head>
                <lg>
@@ -3008,7 +3024,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem20.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.485705" atime="2019-02-06T13:57:57.620614" size="23818">
+        <file filename="emblem20.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.695383" atime="2019-03-18T13:47:21.694384" size="23939">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3038,8 +3054,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Die Natur lehret die Natur deß Feiurs zuüberwinden
-               <lb n="3"/>bald werden sie sterben all.
+               <lb n="1"/>Die Natur lehret die Natur deß Feiurs zuüberwinden
+               <lb n="2"/>bald werden sie sterben all.
             </head>
                
             </div>
@@ -3059,7 +3075,12 @@
             
             <pb n="89" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">89</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">89</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Naturam natura docet, debellet ut ignem.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XX.</head>
                <lg>
@@ -3160,7 +3181,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem21.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.494704" atime="2019-02-06T13:57:57.641585" size="18588">
+        <file filename="emblem21.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.696380" atime="2019-03-18T13:47:21.696380" size="18718">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3192,9 +3213,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Mache von Mann und Weib einen Circkel <pc>/</pc> darauß ein
-               <lb n="3"/>Quadrangel <pc>/</pc> hierauß ein Triangel <pc>/</pc> mache ein Circkel <pc>/</pc> und
-               <lb n="4"/>du wirst haben den Schein der Weisen.
+               <lb n="1"/>Mache von Mann und Weib einen Circkel <pc>/</pc> darauß ein
+               <lb n="2"/>Quadrangel <pc>/</pc> hierauß ein Triangel <pc>/</pc> mache ein Circkel <pc>/</pc> und
+               <lb n="3"/>du wirst haben den Schein der Weisen.
             </head>
                
             </div>
@@ -3214,7 +3235,12 @@
             
             <pb n="93" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Naturam natura docet, debellet ut ignem.</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXI.</head>
                <lg>
@@ -3317,7 +3343,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem22.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.502708" atime="2019-02-06T13:57:57.665585" size="15208">
+        <file filename="emblem22.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.698382" atime="2019-03-18T13:47:21.698382" size="15375">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3348,8 +3374,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
-               <lb n="3"/>das ist <pc>/</pc> koche.
+               <lb n="1"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
+               <lb n="2"/>das ist <pc>/</pc> koche.
             </head>
                
             </div>
@@ -3369,7 +3395,12 @@
             
             <pb n="97" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">97</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">97</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXII.</head>
                <lg>
@@ -3461,7 +3492,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem23.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.510706" atime="2019-02-06T13:57:57.681581" size="15875">
+        <file filename="emblem23.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.701384" atime="2019-03-18T13:47:21.700380" size="16130">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3491,8 +3522,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
-               <lb n="3"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
+               <lb n="1"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
+               <lb n="2"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
             </head>
                
             </div>
@@ -3512,7 +3543,12 @@
             
             <pb n="101" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Aurum pluit, dum nascitur <persName>Pallas</persName> <placeName>Rhodi</placeName>, <g type="ampersand">et</g> <persName>Sol</persName> concumbit <persName>Veneri</persName>.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIII.</head>
                <lg>
@@ -3604,7 +3640,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem24.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.519705" atime="2019-02-06T13:57:57.692600" size="16692">
+        <file filename="emblem24.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.703382" atime="2019-03-18T13:47:21.702383" size="16869">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3654,7 +3690,12 @@
             
             <pb n="105" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">105</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">105</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Regem lupus voravit <g type="ampersand">et</g> vit<hi rend="ligature">ae</hi> crematus reddidit.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIV.</head>
                <lg>
@@ -3753,7 +3794,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem25.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.527704" atime="2019-02-06T13:57:57.713608" size="23938">
+        <file filename="emblem25.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.704384" atime="2019-03-18T13:47:21.704384" size="24181">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3805,8 +3846,10 @@
             <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw><fw type="pageNum" place="top-right">109</fw>
             
             <div type="image" xml:lang="la">
-               
-            </div>            
+               <head><lb n="1"/>Draco non moritur, nisi cum fratre <g type="ampersand">et</g> sorore sua inter
+                  <lb n="2" break="no"/>ficiatur, qui sunt <persName>Sol</persName> <g type="ampersand">et</g> <persName>Luna</persName>.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                
                <lg>
@@ -3906,7 +3949,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem26.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.535705" atime="2019-02-06T13:57:57.735596" size="22079">
+        <file filename="emblem26.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.706382" atime="2019-03-18T13:47:21.706382" size="22412">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3933,7 +3976,7 @@
       <body>
          <div type="emblem" n="e26">
             <pb n="112" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">112</fw>
+            <fw type="pageNum" place="top-left">112</fw><fw type="header" place="top-center">FUGA <num value="22" type="cardinal">XXII</num>. in <num value="8">8</num>. duplici; infrà. </fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -3958,7 +4001,12 @@
             
             <pb n="113" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">113</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">113</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Sapienti<hi rend="ligature">ae</hi> human<hi rend="ligature">ae</hi> fructus Lignum vit<hi rend="ligature">ae</hi> est.</head>
+            </div> 
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXVI.</head>
                <lg>
@@ -4080,7 +4128,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem27.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.544706" atime="2019-02-06T13:57:57.749581" size="15095">
+        <file filename="emblem27.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.708384" atime="2019-03-18T13:47:21.707383" size="15343">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4110,9 +4158,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
-               <lb n="3"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
-               <lb n="4"/>ohne Füssen.
+               <lb n="1"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
+               <lb n="2"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
+               <lb n="3"/>ohne Füssen.
             </head>
                
             </div>
@@ -4133,7 +4181,12 @@
             <pb n="117" edRef="Maier1618"/>
             
             <fw type="header" place="top-center">Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">117</fw>
-            <div type="image" xml:lang="la"><head/></div>            
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Qui Rosarium intrare conatur Philosophicum absque clave,
+               <lb n="2"/>assimilatur homini ambulare volenti <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> pedibus:</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
                <lg>
@@ -4229,7 +4282,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem28.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.552706" atime="2019-02-06T13:57:57.760594" size="17887">
+        <file filename="emblem28.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.711381" atime="2019-03-18T13:47:21.711381" size="18131">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4260,8 +4313,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
-               <lb n="3"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
+               <lb n="1"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
+               <lb n="2"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
             </head>
                
             </div>
@@ -4281,7 +4334,13 @@
             
             <pb n="121" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Rex balneatur in Laconico sedens,
+                  <lb n="2"/>Atr<hi rend="circumflex">a</hi>que bile liberatur <hi rend="grave">a</hi> <persName>Pharut</persName>.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="28" type="cardinal">XXVIII</num>.</head>
                <lg>
@@ -4377,7 +4436,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem29.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.563709" atime="2019-02-06T13:57:57.782590" size="27801">
+        <file filename="emblem29.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.713382" atime="2019-03-18T13:47:21.712381" size="27926">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4408,8 +4467,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Wie der Salamander lebet im Feiur <pc>/</pc>
-               <lb n="3"/>also auch der Stein.
+               <lb n="1"/>Wie der Salamander lebet im Feiur <pc>/</pc>
+               <lb n="2"/>also auch der Stein.
             </head>
                
             </div>
@@ -4429,7 +4488,12 @@
             
             <pb n="125" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="29" type="cardinal">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">125</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="29" type="cardinal">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">125</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Ut Salamandra vivit igne sic lapis:</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="29" type="cardinal">XXIX</num>.</head>
                <lg>
@@ -4533,7 +4597,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem30.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.571707" atime="2019-02-06T13:57:57.808585" size="27125">
+        <file filename="emblem30.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.716382" atime="2019-03-18T13:47:21.715382" size="27296">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4565,8 +4629,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Die Sonn bedarff deß Monds <pc>/</pc> wie der Han
-               <lb n="3"/>der Hänen.
+               <lb n="1"/>Die Sonn bedarff deß Monds <pc>/</pc> wie der Han
+               <lb n="2"/>der Hänen.
             </head>
                
             </div>
@@ -4586,7 +4650,12 @@
             
             <pb n="129" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="30" type="cardinal">XXX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">129</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="30" type="cardinal">XXX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">129</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Sol indiget lun<hi rend="circumflex">a</hi>, ut gallus gallin<hi rend="circumflex">a</hi>.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="30" type="cardinal">XXX</num>.</head>
                <lg>
@@ -4686,7 +4755,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem31.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.581707" atime="2019-02-06T13:57:57.825582" size="17100">
+        <file filename="emblem31.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.718386" atime="2019-03-18T13:47:21.717383" size="17345">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4717,9 +4786,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
-               <lb n="3"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
-               <lb n="4"/>empfangen.
+               <lb n="1"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
+               <lb n="2"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
+               <lb n="3"/>empfangen.
             </head>
                
             </div>
@@ -4739,7 +4808,13 @@
             
             <pb n="133" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,
+                  <lb n="2"/>ingens pr<hi rend="ligature">ae</hi>mium habebit.</head>
+            </div>      
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="31" type="cardinal">XXXI</num>.</head>
                <lg>
@@ -4836,7 +4911,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem32.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.589707" atime="2019-02-06T13:57:57.847604" size="15488">
+        <file filename="emblem32.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.720382" atime="2019-03-18T13:47:21.719382" size="15653">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4888,7 +4963,12 @@
             
             <pb n="137" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="32" type="cardinal">XXXII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">137</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="32" type="cardinal">XXXII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">137</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Corallus sub aquis ut crescit <g type="ampersand">et</g> aëre induratur, sic lapis.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="32" type="cardinal">XXXII</num>.</head>
                <lg>
@@ -4987,7 +5067,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem33.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.599707" atime="2019-02-06T13:57:57.858585" size="17518">
+        <file filename="emblem33.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.722382" atime="2019-03-18T13:47:21.721388" size="17681">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5040,7 +5120,12 @@
             
             <pb n="141" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName>Hermaphroditus</persName> mortuo similis, in tenebris jacens, igne indiget.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="33" type="cardinal">XXXIII</num>.</head>
                <lg>
@@ -5139,7 +5224,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem34.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.920198" atime="2019-02-06T13:57:57.886584" size="16238">
+        <file filename="emblem34.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.724381" atime="2019-03-18T13:47:21.723385" size="16484">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5171,8 +5256,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Im Wasserbad wirt er empfangen <pc>/</pc> und in der Lufft geboren <pc>/</pc>
-               <lb n="3"/>wenner aber roht worden <pc>/</pc> gehet er auff dem Wasser.
+               <lb n="1"/>Im Wasserbad wirt er empfangen <pc>/</pc> und in der Lufft geboren <pc>/</pc>
+               <lb n="2"/>wenner aber roht worden <pc>/</pc> gehet er auff dem Wasser.
             </head>
                
             </div>
@@ -5192,7 +5277,13 @@
             
             <pb n="145" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">145</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">145</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>In balneis concipitur, <g type="ampersand">et</g> in aëre nascitur, rubeus ver<hi rend="grave">o</hi>
+                  <lb n="2"/>factus graditur super aquas.</head>
+            </div>      
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="34" type="cardinal">XXXIV</num>.</head>
                <lg>
@@ -5292,7 +5383,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem35.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.922196" atime="2019-02-06T13:57:57.901586" size="16403">
+        <file filename="emblem35.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.725383" atime="2019-03-18T13:47:21.725383" size="16711">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5323,9 +5414,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Wie <persName type="divinity"><hi rend="latin">Ceres</hi></persName> <persName><hi rend="latin">Triptolemum</hi></persName>, die <persName type="divinity"><hi rend="latin">Thetis</hi></persName> <persName><hi rend="latin">Achillem</hi></persName> unterm
-               <lb n="3"/>Feiur zu tawren gewehnet hat <pc>/</pc> also sol der Künstler
-               <lb n="4"/>den Stein gewehnen.
+               <lb n="1"/>Wie <persName type="divinity"><hi rend="latin">Ceres</hi></persName> <persName><hi rend="latin">Triptolemum</hi></persName>, die <persName type="divinity"><hi rend="latin">Thetis</hi></persName> <persName><hi rend="latin">Achillem</hi></persName> unterm
+               <lb n="2"/>Feiur zu tawren gewehnet hat <pc>/</pc> also sol der Künstler
+               <lb n="3"/>den Stein gewehnen.
             </head>
                
             </div>
@@ -5345,7 +5436,13 @@
             
             <pb n="149" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">149</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">149</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, sub igne
+                  <lb n="2"/>morari assuescit, sic artifex lapidem.</head>
+            </div> 
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="35" type="cardinal">XXXV</num>.</head>
                <lg>
@@ -5443,7 +5540,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem36.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.927195" atime="2019-02-06T13:57:57.918582" size="15771">
+        <file filename="emblem36.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.727383" atime="2019-03-18T13:47:21.727383" size="16108">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5475,9 +5572,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Dieser Stein ist verworffen auff der Erden <pc>/</pc> und erhoben auff
-               <lb n="3"/>Bergen <pc>/</pc> wohnet in der Lufft <pc>/</pc> und wirt ernehret in Flüssen <pc>/</pc>
-               <lb n="4"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
+               <lb n="1"/>Dieser Stein ist verworffen auff der Erden <pc>/</pc> und erhoben auff
+               <lb n="2"/>Bergen <pc>/</pc> wohnet in der Lufft <pc>/</pc> und wirt ernehret in Flüssen <pc>/</pc>
+               <lb n="3"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
             </head>
                
             </div>
@@ -5497,7 +5594,13 @@
             
             <pb n="153" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Lapis projectus est in terras, <g type="ampersand">et</g> in montibus exaltatus, <g type="ampersand">et</g> in
+                  <lb n="2"/>aëre habitat, <g type="ampersand">et</g> in flumine pascitur, id est, <persName type="divinity">Mercurius</persName>.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="36" type="cardinal">XXXVI</num>.</head>
                <lg>
@@ -5592,7 +5695,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem37.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.607707" atime="2019-02-06T13:57:57.932599" size="16064">
+        <file filename="emblem37.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.729382" atime="2019-03-18T13:47:21.728389" size="16394">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5623,9 +5726,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
-               <lb n="3"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
-               <lb n="4"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
+               <lb n="1"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
+               <lb n="2"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
+               <lb n="3"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
             </head>
                
             </div>
@@ -5645,7 +5748,14 @@
             
             <pb n="157" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo
+                  <lb n="2"/>viridis, id est, <hi rend="ligature">ae</hi>s <persName>Hermetis</persName>, <g type="ampersand">et</g> aqua f<hi rend="ligature">oe</hi>tida.</head>
+            </div> 
+            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
                <lg>
@@ -5742,7 +5852,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem38.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.929193" atime="2019-02-06T13:57:57.946591" size="16485">
+        <file filename="emblem38.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.731380" atime="2019-03-18T13:47:21.730381" size="16812">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5773,8 +5883,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
-               <lb n="3"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
+               <lb n="1"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
+               <lb n="2"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
             </head>
                
             </div>
@@ -5794,7 +5904,13 @@
             
             <pb n="161" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/><persName>Rebis</persName>, ut <persName>Hermaphroditus</persName>, nascitur ex duobus montibus,
+                  <lb n="2"/><persName type="divinity">Mercurii</persName> <g type="ampersand">et</g> <persName type="divinity">Veneris</persName>.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="38" type="cardinal">XXXVIII</num>.</head>
                <lg>
@@ -5893,7 +6009,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem39.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.618708" atime="2019-02-06T13:57:57.968585" size="25248">
+        <file filename="emblem39.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.733382" atime="2019-03-18T13:47:21.732384" size="25512">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5924,10 +6040,10 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/><persName><hi rend="latin">Oedypus</hi></persName> wie er <hi rend="latin">Sphyngem</hi> uberwunden <pc>/</pc> und sein Vatter
-               <lb n="3"/>ertödtet <pc>/</pc> nimpt sein Mutter zum Weib: Deß Räzels Meijnung
-               <lb n="4"/>ist diese: Der Stein ist ein Triangel im Wesen <pc>/</pc>
-               <lb n="5"/>und ein Vierangel in der Qualität.
+               <lb n="1"/><persName><hi rend="latin">Oedypus</hi></persName> wie er <hi rend="latin">Sphyngem</hi> uberwunden <pc>/</pc> und sein Vatter
+               <lb n="2"/>ertödtet <pc>/</pc> nimpt sein Mutter zum Weib: Deß Räzels Meijnung
+               <lb n="3"/>ist diese: Der Stein ist ein Triangel im Wesen <pc>/</pc>
+               <lb n="4"/>und ein Vierangel in der Qualität.
             </head>
                
             </div>
@@ -5947,7 +6063,14 @@
             
             <pb n="165" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName>Oedypus</persName> Sphynge superata <g type="ampersand">et</g> trucidato <persName>Lajo</persName> patre 
+                  <lb n="2"/>matrem ducit in uxorem.
+               </head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="39" type="cardinal">XXXIX</num>.</head>
                <lg>
@@ -6046,7 +6169,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem40.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.626708" atime="2019-02-06T13:57:57.993588" size="16518">
+        <file filename="emblem40.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.735382" atime="2019-03-18T13:47:21.735382" size="16672">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6098,7 +6221,12 @@
             
             <pb n="169" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">169</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">169</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Ex duabus aquis, fac unam, <g type="ampersand">et</g> erit aqua sanctitatis.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="40" type="cardinal">XL</num>.</head>
                <lg>
@@ -6193,7 +6321,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem41.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.635707" atime="2019-02-06T13:57:58.011589" size="15289">
+        <file filename="emblem41.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.739384" atime="2019-03-18T13:47:21.738384" size="15525">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6246,7 +6374,13 @@
             
             <pb n="173" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName>Adonis</persName> ab apro occiditur, cui <persName type="divinity">Venus</persName> accurrens tinxit
+                  <lb n="2"/>Rosas sanguine.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="41" type="cardinal">XLI</num>.</head>
                <lg>
@@ -6333,7 +6467,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem42.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.643705" atime="2019-02-06T13:57:58.031595" size="13746">
+        <file filename="emblem42.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.740385" atime="2019-03-18T13:47:21.740385" size="14002">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6386,7 +6520,13 @@
             
             <pb n="177" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>In Chymicis versanti Natura, Ratio, Experientia <g type="ampersand">et&gt;</g> lectio
+                  <lb n="2"/>sint Dux, scipio, perspicilia <g type="ampersand">et&gt;</g> lampas.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XLII.</head>
                <lg>
@@ -6477,7 +6617,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem43.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.651709" atime="2019-02-06T13:57:58.050605" size="17110">
+        <file filename="emblem43.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.743384" atime="2019-03-18T13:47:21.742385" size="17240">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6529,7 +6669,12 @@
             
             <pb n="181" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Audi loquacem vulturem, qui neutiquam te decipit.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="43" type="cardinal">XLIII</num>.</head>
                <lg>
@@ -6631,7 +6776,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem44.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.658706" atime="2019-02-06T13:57:58.073581" size="19358">
+        <file filename="emblem44.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.744391" atime="2019-03-18T13:47:21.744391" size="19701">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6684,7 +6829,13 @@
             
             <pb n="185" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Dolo <persName type="divinity">Typhon</persName> <persName type="divinity">Osyridem</persName> trucidat, art<hi rend="acute">u</hi>sque illius
+                  <lb n="2"/>Hinc inde dissipat, sed hos collegit <persName type="divinity">Isis</persName> inclyta.</head>
+            </div>     
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="44" type="cardinal">XLIV</num>.</head>
                <lg>
@@ -6778,7 +6929,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem45.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.667707" atime="2019-02-06T13:57:58.090586" size="15650">
+        <file filename="emblem45.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.746382" atime="2019-03-18T13:47:21.746382" size="15787">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6830,7 +6981,12 @@
             
             <pb n="189" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Sol <g type="ampersand">et</g> ejus umbra perficiunt opus.</head>
+            </div> 
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="45" type="cardinal">XLV</num>.</head>
                <lg>
@@ -6927,7 +7083,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem46.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.669707" atime="2019-02-06T13:57:58.114617" size="18367">
+        <file filename="emblem46.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.748386" atime="2019-03-18T13:47:21.747384" size="18556">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6984,7 +7140,12 @@
             
             <pb n="193" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Aquil<hi rend="ligature">ae</hi> du<hi rend="ligature">ae</hi>, una ab ortu, altera ab occasu conveniunt.</head>
+            </div>      
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
                <lg>
@@ -7082,7 +7243,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem47.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.677711" atime="2019-02-06T13:57:58.137615" size="16176">
+        <file filename="emblem47.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.750385" atime="2019-03-18T13:47:21.749385" size="16378">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7134,7 +7295,12 @@
             
             <pb n="197" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Lupus ab Oriente <g type="ampersand">et</g> Canis ab Occidente venientes se
+                  <lb n="2"/>invicem momorderunt.</head>
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="47" type="cardinal">XLVII</num>.</head>
                <lg>
@@ -7229,7 +7395,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem48.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.687718" atime="2019-02-06T13:57:58.154580" size="15677">
+        <file filename="emblem48.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.752381" atime="2019-03-18T13:47:21.751382" size="15883">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7283,7 +7449,13 @@
             
             <pb n="201" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Rex ab aquis potatis morbum, <hi rend="grave">a</hi> medicis curatus
+                  <lb n="2"/>sanitatem obtinet.</head>
+            </div>          
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="48" type="cardinal">XLVIII</num>.</head>
                <lg>
@@ -7371,7 +7543,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem49.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.700706" atime="2019-02-06T13:57:58.186586" size="15554">
+        <file filename="emblem49.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.754382" atime="2019-03-18T13:47:21.753382" size="15717">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7425,7 +7597,12 @@
             
             <pb n="205" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="49" type="cardinal">XLIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">205</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="49" type="cardinal">XLIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">205</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Infans Philosophicus tres agnoscit patres, ut <persName>Orion</persName>.</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="49" type="cardinal">XLIX</num>.</head>
                <lg>
@@ -7513,7 +7690,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem50.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.706704" atime="2019-02-06T13:57:58.203626" size="14644">
+        <file filename="emblem50.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.755383" atime="2019-03-18T13:47:21.755383" size="14881">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7565,7 +7742,13 @@
             
             <pb n="209" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema L. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">209</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema L. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">209</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Draco mulierem, <g type="ampersand">et&gt;</g> h<hi rend="ligature">ae</hi>c illum interimit, simulque
+                  <lb n="2"/>saunguine perfunduntur.</head>
+            </div>     
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma L.</head>
                <lg>
@@ -7656,7 +7839,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="EpigrammaAuthoris.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpigrammaAuthoris.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.181710" atime="2019-02-06T13:57:58.227599" size="4171">
+        <file filename="EpigrammaAuthoris.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpigrammaAuthoris.xml" extension="xml" mime-type="text/xml" mtime="2018-09-26T12:52:18.181710" atime="2019-03-18T17:26:47.794077" size="4171">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -7718,7 +7901,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="EpistolaDedicatoria.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpistolaDedicatoria.xml" extension="xml" mime-type="text/xml" mtime="2018-10-03T12:27:43.416785" atime="2019-02-06T13:57:58.239590" size="10978">
+        <file filename="EpistolaDedicatoria.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpistolaDedicatoria.xml" extension="xml" mime-type="text/xml" mtime="2018-10-03T12:27:43.416785" atime="2019-03-18T17:26:50.698243" size="10978">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7840,7 +8023,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="PortraitPlate.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PortraitPlate.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.821194" atime="2019-02-06T13:57:58.255589" size="2381">
+        <file filename="PortraitPlate.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PortraitPlate.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.821194" atime="2019-03-18T17:26:53.438403" size="2381">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7885,7 +8068,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="PraefatioAdLectorem.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PraefatioAdLectorem.xml" extension="xml" mime-type="text/xml" mtime="2018-10-23T12:50:35.158102" atime="2019-02-06T13:57:58.274597" size="21393">
+        <file filename="PraefatioAdLectorem.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PraefatioAdLectorem.xml" extension="xml" mime-type="text/xml" mtime="2018-10-23T12:50:35.158102" atime="2019-03-18T16:58:59.880950" size="21393">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -8067,7 +8250,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="TitlePage.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\TitlePage.xml" extension="xml" mime-type="text/xml" mtime="2018-10-03T12:27:43.460784" atime="2019-02-06T13:57:58.292592" size="3925">
+        <file filename="TitlePage.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\TitlePage.xml" extension="xml" mime-type="text/xml" mtime="2018-10-03T12:27:43.460784" atime="2019-03-18T17:26:59.092726" size="3925">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -8131,7 +8314,7 @@
 </TEI>
         </file>
       </atalanta-texts-orig><atalanta-texts-english>
-        <file filename="emblem01.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.482731" atime="2019-02-06T13:57:58.309584" size="20532">
+        <file filename="emblem01.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.580386" atime="2019-03-18T13:47:21.580386" size="20512">
           <TEI xmlns="http://www.tei-c.org/ns/1.0" origfile-id="Atalanta-En-01">
     <teiHeader>
         <fileDesc>
@@ -8182,7 +8365,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="014"/>
                     <head rend="italics">Discourse i.</head><note place="margin" hand="1">D Powell 1821</note>
-                    <div type="">
+                   
                         <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e01-01"/>Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
                         <lb/>in his Smaragdine table elegantly, though concisely, describe the <choice><orig>naturalle</orig><reg>natural</reg></choice> <pc>-</pc>
@@ -8256,7 +8439,7 @@
                         <lb/>in the <choice><orig>aire</orig><reg>air</reg></choice> is <choice><orig>borne</orig><reg>born</reg></choice> wisely: for <choice><orig>hee</orig><reg>he</reg></choice> ascends from earth to heaven, and
                         <lb/><choice><orig>againe</orig><reg>again</reg></choice> descends to earth acquiring both the <choice><orig>superiour</orig><reg>superior</reg></choice> and <choice><orig>inferiour</orig><reg>inferior</reg></choice>
                         <lb/>virtue. <pc>- - - - - - - - - - - - -</pc>
-                    </ab>   </div></div>
+                    </ab>   </div>
                 </div>
                 
             </div>
@@ -8264,7 +8447,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem02.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.493729" atime="2019-02-06T13:57:58.329600" size="16224">
+        <file filename="emblem02.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.493729" atime="2019-03-18T16:58:59.805943" size="16224">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -8392,7 +8575,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem03.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2018-11-05T21:08:48.006235" atime="2019-02-06T13:57:58.348603" size="15908">
+        <file filename="emblem03.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2018-11-05T21:08:48.006235" atime="2019-03-18T16:58:59.773944" size="15908">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -8513,7 +8696,7 @@
    </text>
 </TEI>
         </file>
-        <file filename="emblem04.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.504729" atime="2019-02-06T13:57:58.367618" size="13546">
+        <file filename="emblem04.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.504729" atime="2019-03-18T16:58:59.750947" size="13546">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -8635,7 +8818,7 @@
    </text>
 </TEI>
         </file>
-        <file filename="emblem05.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.513729" atime="2019-02-06T13:57:58.381589" size="18388">
+        <file filename="emblem05.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.513729" atime="2019-03-18T16:58:59.713946" size="18388">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -8766,7 +8949,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem06.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.515727" atime="2019-02-06T13:57:58.397580" size="17450">
+        <file filename="emblem06.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.515727" atime="2019-03-18T16:58:59.687979" size="17450">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -8901,7 +9084,7 @@
    </text>
 </TEI>
         </file>
-        <file filename="emblem07.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.524729" atime="2019-02-06T13:57:58.410625" size="16453">
+        <file filename="emblem07.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.524729" atime="2019-03-18T16:58:59.646941" size="16453">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9032,7 +9215,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem08.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.533729" atime="2019-02-06T13:57:58.421581" size="14484">
+        <file filename="emblem08.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.533729" atime="2019-03-18T16:58:59.609943" size="14484">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9151,7 +9334,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem09.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.543731" atime="2019-02-06T13:57:58.440603" size="18573">
+        <file filename="emblem09.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.543731" atime="2019-03-18T16:58:59.586942" size="18573">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9294,7 +9477,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem10.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.552729" atime="2019-02-06T13:57:58.459582" size="17489">
+        <file filename="emblem10.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.552729" atime="2019-03-18T16:58:59.559941" size="17489">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9432,7 +9615,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem11.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.562730" atime="2019-02-06T13:57:58.484598" size="16361">
+        <file filename="emblem11.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.562730" atime="2019-03-18T16:58:59.530947" size="16361">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9566,7 +9749,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem12.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.571728" atime="2019-02-06T13:57:58.498600" size="15620">
+        <file filename="emblem12.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.571728" atime="2019-03-18T16:58:59.509942" size="15620">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9688,7 +9871,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem13.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.582731" atime="2019-02-06T13:57:58.520589" size="18170">
+        <file filename="emblem13.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.582731" atime="2019-03-18T16:58:59.485941" size="18170">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9824,7 +10007,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem14.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.602730" atime="2019-02-06T13:57:58.540595" size="14133">
+        <file filename="emblem14.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.602730" atime="2019-03-18T16:58:59.468942" size="14133">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9946,7 +10129,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem15.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.610736" atime="2019-02-06T13:57:58.558581" size="15322">
+        <file filename="emblem15.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.610736" atime="2019-03-18T16:58:59.448942" size="15322">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10076,7 +10259,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem16.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.620730" atime="2019-02-06T13:57:58.580610" size="15520">
+        <file filename="emblem16.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.620730" atime="2019-03-18T16:58:59.424942" size="15520">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10200,7 +10383,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem17.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.629731" atime="2019-02-06T13:57:58.597609" size="15537">
+        <file filename="emblem17.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.629731" atime="2019-03-18T16:58:59.401944" size="15537">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10337,7 +10520,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem18.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.637728" atime="2019-02-06T13:57:58.615582" size="15254">
+        <file filename="emblem18.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.637728" atime="2019-03-18T16:58:59.376940" size="15254">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10469,7 +10652,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem19.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.648731" atime="2019-02-06T13:57:58.625592" size="17070">
+        <file filename="emblem19.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.648731" atime="2019-03-18T16:58:59.346941" size="17070">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10600,7 +10783,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem20.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.658733" atime="2019-02-06T13:57:58.642582" size="16559">
+        <file filename="emblem20.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.658733" atime="2019-03-18T16:58:59.319953" size="16559">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10738,7 +10921,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem21.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.666728" atime="2019-02-06T13:57:58.663606" size="16510">
+        <file filename="emblem21.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.666728" atime="2019-03-18T16:58:58.963937" size="16510">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10875,7 +11058,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem22.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.674732" atime="2019-02-06T13:57:58.678590" size="14903">
+        <file filename="emblem22.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.674732" atime="2019-03-18T16:58:58.950939" size="14903">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10999,7 +11182,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem23.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.682729" atime="2019-02-06T13:57:58.698583" size="15157">
+        <file filename="emblem23.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.682729" atime="2019-03-18T16:58:58.915940" size="15157">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11123,7 +11306,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem24.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.696736" atime="2019-02-06T13:57:58.715581" size="20813">
+        <file filename="emblem24.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.696736" atime="2019-03-18T16:58:58.892941" size="20813">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11261,7 +11444,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem25.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.706729" atime="2019-02-06T13:57:58.742594" size="18063">
+        <file filename="emblem25.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.582374" atime="2019-03-18T13:47:21.582374" size="18067">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11380,7 +11563,7 @@
                         <lb break="no"/>stord</orig><reg>restored</reg></choice> to a dead dragon, and death to a living by course in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> processes <choice><orig>onely</orig><reg>only</reg></choice>:
                         <lb/>But some man may enquire, where and how the dragon must be taken? <pc>-</pc>
                         <lb/>The Philosophers answer by a verse most concisely,
-                        <quote xml:lang="la"><lg><l>Dant Rebis montes, dracones, terraꝗ, fontes:</l></lg></quote>
+                            <quote><lg xml:lang="la"><l>Dant Rebis montes, dracones, terraꝗ, fontes:</l></lg></quote>
                         <lb/>But you may see Tacitus of the way of taking him, with what care and
                         <lb/>industry many men <choice><orig>watchd</orig><reg>watched</reg></choice> to take a mighty dragon <choice><orig>observd</orig><reg>observed</reg></choice> in Africa,
                         <lb/>and bring him to the <choice><orig>Emperour</orig><reg>Emperor</reg></choice> Tiberius, namely the dragons accusto
@@ -11396,7 +11579,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem26.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.714729" atime="2019-02-06T13:57:58.768138" size="18817">
+        <file filename="emblem26.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.714729" atime="2019-03-18T16:58:58.139931" size="18817">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11527,7 +11710,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem27.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.731733" atime="2019-02-06T13:57:58.786351" size="15808">
+        <file filename="emblem27.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.731733" atime="2019-03-18T16:58:58.114933" size="15808">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11653,7 +11836,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem28.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.747731" atime="2019-02-06T13:57:58.799370" size="16363">
+        <file filename="emblem28.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.747731" atime="2019-03-18T16:58:58.087932" size="16363">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11791,7 +11974,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem29.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.760735" atime="2019-02-06T13:57:58.818369" size="18609">
+        <file filename="emblem29.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.760735" atime="2019-03-18T16:58:58.053934" size="18609">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11936,7 +12119,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem30.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.770730" atime="2019-02-06T13:57:58.850352" size="18735">
+        <file filename="emblem30.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.770730" atime="2019-03-18T16:58:58.011930" size="18735">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12081,7 +12264,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem31.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.779733" atime="2019-02-06T13:57:58.872351" size="16964">
+        <file filename="emblem31.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.779733" atime="2019-03-18T16:58:57.959933" size="16964">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12215,7 +12398,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem32.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.792738" atime="2019-02-06T13:57:58.890006" size="17733">
+        <file filename="emblem32.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.584385" atime="2019-03-18T13:47:21.584385" size="17733">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12342,11 +12525,11 @@
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> it be separated, which suffers not the <choice><orig>coralline</orig><reg>coraline</reg></choice> <choice><orig>rednesse</orig><reg>redness</reg></choice> to <pc>-</pc>
                         <lb/>appear, which <choice><orig>admitts</orig><reg>admits</reg></choice> not coagulation, whilst it is therein <pc>. . . . .</pc>
                         <add rend="hilight">
-                            <lb/>Avoid all disputes as much as poss<note anchored="false" type="editorial">Text in a later hand on a flap glued onto the page below the text. </note>
+                            <lb/>Avoid all disputes as much as poss
                             <lb/>Beware of all unruly passions
                             <lb/>Crave the divine protection
                             <lb/>Demonstrate your care by improvem
-                        </add>
+                        </add><note anchored="false" type="editorial">Text in a later hand on a flap glued onto the page below the text. </note>
                     </ab> </div>  
                 </div>
                 
@@ -12355,7 +12538,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem33.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.804729" atime="2019-02-06T13:57:58.907087" size="15761">
+        <file filename="emblem33.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.804729" atime="2019-03-18T16:58:57.879931" size="15761">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12496,7 +12679,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem34.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.823735" atime="2019-02-06T13:57:58.923095" size="16979">
+        <file filename="emblem34.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.823735" atime="2019-03-18T16:58:57.837929" size="16979">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12634,7 +12817,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem35.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.831731" atime="2019-02-06T13:57:58.939865" size="16080">
+        <file filename="emblem35.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.831731" atime="2019-03-18T16:58:57.806929" size="16080">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12772,7 +12955,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem36.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.840731" atime="2019-02-06T13:57:58.963879" size="16190">
+        <file filename="emblem36.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.840731" atime="2019-03-18T16:58:57.776930" size="16190">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12906,7 +13089,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem37.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.850729" atime="2019-02-06T13:57:59.013495" size="15336">
+        <file filename="emblem37.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.850729" atime="2019-03-18T16:58:57.751928" size="15336">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13049,7 +13232,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem38.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.859732" atime="2019-02-06T13:57:59.036492" size="15695">
+        <file filename="emblem38.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.859732" atime="2019-03-18T16:58:57.723928" size="15695">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13193,7 +13376,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem39.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.868731" atime="2019-02-06T13:57:59.059479" size="19204">
+        <file filename="emblem39.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.868731" atime="2019-03-18T16:58:57.698931" size="19204">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13337,7 +13520,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem40.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.876730" atime="2019-02-06T13:57:59.083479" size="15128">
+        <file filename="emblem40.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.876730" atime="2019-03-18T16:58:57.685929" size="15128">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13472,7 +13655,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem41.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.885730" atime="2019-02-06T13:57:59.100486" size="14414">
+        <file filename="emblem41.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.885730" atime="2019-03-18T16:58:57.632928" size="14414">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13601,7 +13784,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem42.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.894730" atime="2019-02-06T13:57:59.119573" size="14911">
+        <file filename="emblem42.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.894730" atime="2019-03-18T16:58:57.610926" size="14911">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13731,7 +13914,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem43.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.902739" atime="2019-02-06T13:57:59.139685" size="19083">
+        <file filename="emblem43.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.902739" atime="2019-03-18T16:58:57.579927" size="19083">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13882,7 +14065,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem44.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.911731" atime="2019-02-06T13:57:59.157267" size="17533">
+        <file filename="emblem44.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.911731" atime="2019-03-18T16:58:57.248931" size="17533">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14020,7 +14203,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem45.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.919731" atime="2019-02-06T13:57:59.174869" size="16503">
+        <file filename="emblem45.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.919731" atime="2019-03-18T16:58:57.193604" size="16503">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14154,7 +14337,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem46.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.927730" atime="2019-02-06T13:57:59.232857" size="15651">
+        <file filename="emblem46.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.927730" atime="2019-03-18T16:58:57.141574" size="15651">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14291,7 +14474,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem47.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.937733" atime="2019-02-06T13:57:59.243858" size="17926">
+        <file filename="emblem47.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.937733" atime="2019-03-18T16:58:56.988564" size="17926">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14427,7 +14610,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem48.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.948730" atime="2019-02-06T13:57:59.263869" size="14036">
+        <file filename="emblem48.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.948730" atime="2019-03-18T16:58:56.451600" size="14036">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14550,7 +14733,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem49.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.960732" atime="2019-02-06T13:57:59.276855" size="14392">
+        <file filename="emblem49.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.960732" atime="2019-03-18T16:58:56.389592" size="14392">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14677,7 +14860,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem50.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.974743" atime="2019-02-06T13:57:59.287854" size="15692">
+        <file filename="emblem50.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2018-10-30T12:32:58.974743" atime="2019-03-18T16:58:56.355561" size="15692">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14806,7 +14989,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="Introduction.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\Introduction.xml" extension="xml" mime-type="text/xml" mtime="2018-10-22T12:49:28.137420" atime="2019-02-06T13:57:59.315863" size="39330">
+        <file filename="Introduction.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\Introduction.xml" extension="xml" mime-type="text/xml" mtime="2019-03-18T13:47:21.578374" atime="2019-03-18T13:47:21.578374" size="39341">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14937,7 +15120,7 @@
                         <lb/><choice><orig>freinds</orig><reg>friends</reg></choice> and Masters
                     </ab></div>
                 <div type="dedication">
-                        <salute>Most honorable and most prudent Senators!</salute>
+                        <opener>Most honorable and most prudent Senators!</opener>
                     <ab>
                         <lb rend="indent"/>As touching that Tripos <pc>-</pc>
                         <lb/>given by Vulcan to Pelops the <choice><orig>Bridegroome</orig><reg>Bridegroom</reg></choice> when <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>marryed</orig><reg>married</reg></choice> Hippo
@@ -14953,7 +15136,7 @@
                         <lb/>good will of my mind some way towards you, who in your most high <pc>-</pc>
                         <lb/>and worthy state were some few years since <choice><orig>pleasd</orig><reg>pleased</reg></choice> to declare to <choice><orig>mee</orig><reg>me</reg></choice> <pc>-</pc><note place="margin"><lb/><pc>&gt;</pc>of blessed me<lb break="no"/>mory<pc>. . .</pc></note>
                         <lb/>then serving as <choice><orig>Physitian</orig><reg>Physician</reg></choice> to his <choice><orig>Cæsarean</orig><reg>Cesarean</reg></choice> Majesty Rudolph 2.<add>d</add> your opini
-                        <lb/>on thereto relating: after which time I have <choice><orig>allwayes</orig><reg>always</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as my ability
+                        <lb break="no"/>on thereto relating: after which time I have <choice><orig>allwayes</orig><reg>always</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as my ability
                         <lb/>could extend, advanced your virtues abroad not only by words, but have <pc>-</pc>
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> been <choice><orig>carefull</orig><reg>careful</reg></choice> and studious how I might actually and more evidently
                         <lb/>declare and more abundantly discharge my mind to the same, but ap
@@ -15118,7 +15301,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="table-of-contents.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\table-of-contents.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.817197" atime="2019-02-06T13:57:59.334856" size="17218">
+        <file filename="table-of-contents.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\table-of-contents.xml" extension="xml" mime-type="text/xml" mtime="2018-09-25T17:20:27.817197" atime="2019-03-18T16:58:56.249306" size="17218">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
