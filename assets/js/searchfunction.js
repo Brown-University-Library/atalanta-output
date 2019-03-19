@@ -1,9 +1,9 @@
 var doSearch;
 
 Promise.all([
-    $.get('searchindex.json', data => ataIdx = lunr.Index.load(data), 'json'),
-    $.get('byterm_enh_array.json', data => keyWords = data),
-    $.get('searchdocs.json', data => idxDocs = data),]).then(vals => {
+    $.get('../data/json/searchindex.json', data => ataIdx = lunr.Index.load(data), 'json'),
+    $.get('../data/json/byterm_enh_array.json', data => keyWords = data),
+    $.get('../data/json/searchdocs.json', data => idxDocs = data),]).then(vals => {
         doSearch = function(searchTerm) {
             var outp = {
                 'keywords': [],
