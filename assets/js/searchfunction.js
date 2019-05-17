@@ -1,4 +1,3 @@
-var ataIdx, keyWords, idxDocs;
 var doSearch;
 
 Promise.all([
@@ -133,10 +132,9 @@ Promise.all([
         
                 thisoutp = {
                     contexts: searchcontexts,
-                    uri: '/'+val.ref,
+                    uri: val.ref,
                     title: thisdoc.doctitle,
                     type: thisdoc.type,
-                    resultcount: resultcount,
                 }
                 
                 if ( 'emblem' == thisoutp.type ) {

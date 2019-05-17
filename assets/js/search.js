@@ -1,3 +1,4 @@
+var ataIdx, keyWords, idxDocs;
 const SURROUNDING_CHARACTERS = 75;
 const MERGE_DISTANCE = SURROUNDING_CHARACTERS;
 
@@ -20,11 +21,6 @@ $("#ataSearch").submit(function(ev) {
     results = doSearch(searchTerm);
     
     $('main').html(pageTemplate(results));
-    $('main').removeAttr("id");
-    $('main').removeAttr("class");
-    $('main').removeAttr("data-id");
-    $('main').removeAttr("data-page");
-    $('body').removeAttr("class");
 });
 
 //searchfunction.js throws this event when it's done loading the search index.
