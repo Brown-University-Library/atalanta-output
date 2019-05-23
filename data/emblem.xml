@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <atalanta-emblems xmlns:af="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"><atalanta-texts-orig>
-        <file filename="emblem01.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:16.288182" size="18632">
+        <file filename="emblem01.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:29.972919" size="18632">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -191,7 +191,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem02.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:19.585906" size="14749">
+        <file filename="emblem02.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:33.220679" size="14749">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -345,7 +345,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem03.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:22.859585" size="14562">
+        <file filename="emblem03.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:36.517689" size="14562">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -503,7 +503,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem04.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.663292" atime="2019-05-23T16:38:26.449845" size="14619">
+        <file filename="emblem04.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.663292" atime="2019-05-23T18:48:39.664307" size="14619">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -660,7 +660,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem05.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:30.077673" size="16473">
+        <file filename="emblem05.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:42.826399" size="16473">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -831,7 +831,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem06.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:33.847244" size="26920">
+        <file filename="emblem06.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:46.052830" size="26920">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1002,7 +1002,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem07.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:37.967510" size="15222">
+        <file filename="emblem07.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:49.704252" size="15222">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1161,7 +1161,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem08.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:41.908524" size="13691">
+        <file filename="emblem08.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:53.399722" size="13691">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1309,7 +1309,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem09.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:45.722732" size="26992">
+        <file filename="emblem09.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:57.042569" size="26992">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1478,7 +1478,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem10.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.666297" atime="2019-05-23T16:38:49.533801" size="25926">
+        <file filename="emblem10.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.666297" atime="2019-05-23T18:49:00.655260" size="25926">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1640,7 +1640,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem11.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:53.289590" size="19143">
+        <file filename="emblem11.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:04.313785" size="19143">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1804,7 +1804,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem12.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:57.028691" size="16948">
+        <file filename="emblem12.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:08.093093" size="16948">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -1963,7 +1963,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem13.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:00.648425" size="25268">
+        <file filename="emblem13.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:12.062781" size="25268">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2128,7 +2128,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem14.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:04.234701" size="14041">
+        <file filename="emblem14.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:16.116302" size="14041">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2283,7 +2283,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem15.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:07.763322" size="15522">
+        <file filename="emblem15.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:19.813737" size="15522">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2437,7 +2437,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem16.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:11.327564" size="13775">
+        <file filename="emblem16.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:23.319114" size="13775">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2579,7 +2579,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem17.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:14.988897" size="22991">
+        <file filename="emblem17.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:26.774441" size="22991">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2732,7 +2732,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem18.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:18.581980" size="19304">
+        <file filename="emblem18.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:30.436059" size="19304">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -2886,7 +2886,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem19.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:22.113842" size="16055">
+        <file filename="emblem19.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:34.311602" size="16055">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3041,7 +3041,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem20.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:25.636707" size="23982">
+        <file filename="emblem20.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:38.184897" size="23982">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3198,7 +3198,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem21.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:29.213856" size="18892">
+        <file filename="emblem21.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:42.235822" size="18892">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3361,7 +3361,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem22.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:32.832996" size="15472">
+        <file filename="emblem22.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:46.181896" size="15472">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3510,7 +3510,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem23.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:36.454655" size="16148">
+        <file filename="emblem23.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:49.754297" size="16148">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3658,7 +3658,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem24.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:39.939699" size="16922">
+        <file filename="emblem24.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:53.596780" size="16922">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3812,7 +3812,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem25.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:43.366370" size="24163">
+        <file filename="emblem25.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:49:57.617348" size="24163">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -3967,7 +3967,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem26.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:46.860086" size="22444">
+        <file filename="emblem26.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:01.034606" size="22444">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4146,7 +4146,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem27.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:50.298017" size="15239">
+        <file filename="emblem27.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:04.559236" size="15239">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4300,7 +4300,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem28.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:54.291960" size="18805">
+        <file filename="emblem28.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:08.518529" size="18805">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4458,7 +4458,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem29.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:39:58.068302" size="27721">
+        <file filename="emblem29.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:12.374791" size="27721">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4618,7 +4618,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem30.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:01.763030" size="27184">
+        <file filename="emblem30.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:16.245566" size="27184">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4776,7 +4776,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem31.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:05.459586" size="17282">
+        <file filename="emblem31.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:20.342461" size="17282">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -4932,7 +4932,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem32.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:14.507635" size="15542">
+        <file filename="emblem32.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:24.377191" size="15542">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5088,7 +5088,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem33.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:26.272537" size="17712">
+        <file filename="emblem33.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:28.315414" size="17712">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5246,7 +5246,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem34.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:36.192589" size="16382">
+        <file filename="emblem34.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:32.222694" size="16382">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5405,7 +5405,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem35.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:46.138466" size="16628">
+        <file filename="emblem35.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:36.079219" size="16628">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5562,7 +5562,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem36.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:40:56.173038" size="16076">
+        <file filename="emblem36.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:39.684939" size="16076">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5717,7 +5717,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem37.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:41:06.107096" size="16373">
+        <file filename="emblem37.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:43.161371" size="16373">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -5874,7 +5874,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem38.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:41:16.209777" size="16738">
+        <file filename="emblem38.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:46.709195" size="16738">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6031,7 +6031,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem39.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:41:25.791048" size="25367">
+        <file filename="emblem39.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:50.248902" size="25367">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6191,7 +6191,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem40.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:41:34.799388" size="16634">
+        <file filename="emblem40.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:53.842570" size="16634">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6343,7 +6343,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem41.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:41:43.891372" size="15513">
+        <file filename="emblem41.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:50:57.609130" size="15513">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6490,7 +6490,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem42.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:41:53.144115" size="13975">
+        <file filename="emblem42.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:00.922443" size="13975">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6640,7 +6640,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem43.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:02.813093" size="18107">
+        <file filename="emblem43.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:04.244841" size="18107">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6798,7 +6798,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem44.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:13.509579" size="19736">
+        <file filename="emblem44.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:07.557493" size="19736">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -6951,7 +6951,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem45.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:24.250994" size="15669">
+        <file filename="emblem45.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:10.905844" size="15669">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7105,7 +7105,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem46.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:28.752253" size="18485">
+        <file filename="emblem46.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:14.269227" size="18485">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7265,7 +7265,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem47.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:33.888582" size="16250">
+        <file filename="emblem47.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:17.596598" size="16250">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7417,7 +7417,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem48.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:39.044141" size="15640">
+        <file filename="emblem48.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:20.845284" size="15640">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7565,7 +7565,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem49.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:43.333484" size="15467">
+        <file filename="emblem49.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:24.232909" size="15467">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7711,7 +7711,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="emblem50.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:42:47.480347" size="14899">
+        <file filename="emblem50.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:51:28.030181" size="14899">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -7860,7 +7860,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="EpigrammaAuthoris.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpigrammaAuthoris.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.653278" atime="2019-05-23T16:42:51.460736" size="4181">
+        <file filename="EpigrammaAuthoris.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpigrammaAuthoris.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.653278" atime="2019-05-23T18:51:31.669171" size="4181">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -7922,7 +7922,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="EpistolaDedicatoria.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpistolaDedicatoria.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.656282" atime="2019-05-23T16:42:55.380521" size="10704">
+        <file filename="EpistolaDedicatoria.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\EpistolaDedicatoria.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.656282" atime="2019-05-23T18:51:35.232135" size="10704">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -8036,7 +8036,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="PortraitPlate.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PortraitPlate.xml" extension="xml" mime-type="text/xml" mtime="2019-04-04T13:49:06" atime="2019-05-23T16:42:59.461819" size="2381">
+        <file filename="PortraitPlate.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PortraitPlate.xml" extension="xml" mime-type="text/xml" mtime="2019-04-04T13:49:06" atime="2019-05-23T18:51:38.835783" size="2381">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -8081,7 +8081,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="PraefatioAdLectorem.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PraefatioAdLectorem.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.658290" atime="2019-05-23T16:43:04.243821" size="21583">
+        <file filename="PraefatioAdLectorem.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\PraefatioAdLectorem.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.658290" atime="2019-05-23T18:51:42.322626" size="21583">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -8264,7 +8264,7 @@
   </text>
 </TEI>
         </file>
-        <file filename="TitlePage.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\TitlePage.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.661300" atime="2019-05-23T16:43:09.320823" size="4044">
+        <file filename="TitlePage.xml" pathname="..\atalanta-texts\latin" fullpath="..\atalanta-texts\latin\TitlePage.xml" extension="xml" mime-type="text/xml" mtime="2019-05-22T12:22:15.661300" atime="2019-05-23T18:51:46.161696" size="4044">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -8329,7 +8329,7 @@
 </TEI>
         </file>
       </atalanta-texts-orig><atalanta-texts-english>
-        <file filename="emblem01.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:11.831251" size="22285">
+        <file filename="emblem01.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem01.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:29.330918" size="22285">
           <TEI xmlns="http://www.tei-c.org/ns/1.0" origfile-id="Atalanta-En-01">
     <teiHeader>
         <fileDesc>
@@ -8494,7 +8494,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem02.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:15.752452" size="16197">
+        <file filename="emblem02.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem02.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:32.401424" size="16197">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -8622,7 +8622,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem03.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:20.281148" size="15905">
+        <file filename="emblem03.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem03.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:35.403518" size="15905">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -8743,7 +8743,7 @@
    </text>
 </TEI>
         </file>
-        <file filename="emblem04.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:27.975883" size="13598">
+        <file filename="emblem04.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem04.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:38.373485" size="13598">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -8865,7 +8865,7 @@
    </text>
 </TEI>
         </file>
-        <file filename="emblem05.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:33.505738" size="18532">
+        <file filename="emblem05.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem05.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:41.452028" size="18532">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -8996,7 +8996,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem06.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:37.894041" size="17457">
+        <file filename="emblem06.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem06.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:44.464868" size="17457">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -9131,7 +9131,7 @@
    </text>
 </TEI>
         </file>
-        <file filename="emblem07.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:42.183808" size="16522">
+        <file filename="emblem07.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem07.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:47.474775" size="16522">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9262,7 +9262,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem08.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:46.616010" size="14458">
+        <file filename="emblem08.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem08.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:50.399756" size="14458">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9381,7 +9381,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem09.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:51.197408" size="18589">
+        <file filename="emblem09.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem09.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:53.447526" size="18589">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9524,7 +9524,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem10.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:55.320930" size="17462">
+        <file filename="emblem10.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem10.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:45:56.865347" size="17462">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9662,7 +9662,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem11.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:35:59.549632" size="16300">
+        <file filename="emblem11.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem11.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:00.368180" size="16300">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9796,7 +9796,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem12.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:03.850796" size="15607">
+        <file filename="emblem12.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem12.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:03.751883" size="15607">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -9918,7 +9918,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem13.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:07.862027" size="18105">
+        <file filename="emblem13.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem13.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:07.060147" size="18105">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10054,7 +10054,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem14.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:11.316032" size="14067">
+        <file filename="emblem14.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem14.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:10.519252" size="14067">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10176,7 +10176,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem15.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:14.670167" size="15337">
+        <file filename="emblem15.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem15.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:13.930470" size="15337">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10306,7 +10306,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem16.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:18.014336" size="15407">
+        <file filename="emblem16.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem16.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:17.583237" size="15407">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10430,7 +10430,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem17.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:21.113156" size="15626">
+        <file filename="emblem17.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem17.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:21.308522" size="15626">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10567,7 +10567,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem18.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:24.221900" size="15419">
+        <file filename="emblem18.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem18.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:25.011162" size="15419">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10699,7 +10699,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem19.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:27.423356" size="17043">
+        <file filename="emblem19.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem19.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:28.667407" size="17043">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10830,7 +10830,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem20.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:30.437996" size="16613">
+        <file filename="emblem20.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem20.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:31.803288" size="16613">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -10968,7 +10968,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem21.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:33.281375" size="16411">
+        <file filename="emblem21.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem21.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:34.935409" size="16411">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11105,7 +11105,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem22.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:36.192799" size="14875">
+        <file filename="emblem22.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem22.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:38.437829" size="14875">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11229,7 +11229,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem23.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:38.993403" size="15164">
+        <file filename="emblem23.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem23.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:41.933857" size="15164">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11354,7 +11354,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem24.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:41.710710" size="21458">
+        <file filename="emblem24.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem24.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:45.400882" size="21458">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11492,7 +11492,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem25.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:44.448079" size="18003">
+        <file filename="emblem25.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem25.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:48.942086" size="18003">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11627,7 +11627,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem26.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:47.188711" size="18790">
+        <file filename="emblem26.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem26.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:52.434111" size="18790">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11758,7 +11758,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem27.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:50.022331" size="15752">
+        <file filename="emblem27.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem27.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:56.240797" size="15752">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11884,7 +11884,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem28.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:52.857941" size="16370">
+        <file filename="emblem28.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem28.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:46:59.563729" size="16370">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12022,7 +12022,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem29.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:55.706663" size="18654">
+        <file filename="emblem29.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem29.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:02.969670" size="18654">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12167,7 +12167,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem30.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:36:58.472703" size="18741">
+        <file filename="emblem30.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem30.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:06.397159" size="18741">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12312,7 +12312,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem31.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:01.329837" size="16995">
+        <file filename="emblem31.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem31.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:10.134173" size="16995">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12446,7 +12446,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem32.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:04.413465" size="17771">
+        <file filename="emblem32.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem32.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:13.794503" size="17771">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12586,7 +12586,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem33.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:07.423265" size="15749">
+        <file filename="emblem33.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem33.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:17.476562" size="15749">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12727,7 +12727,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem34.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:10.662757" size="16918">
+        <file filename="emblem34.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem34.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:21.246596" size="16918">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12865,7 +12865,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem35.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:13.729362" size="16063">
+        <file filename="emblem35.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem35.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:24.966458" size="16063">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13003,7 +13003,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem36.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:17.013747" size="16174">
+        <file filename="emblem36.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem36.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:28.892652" size="16174">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13137,7 +13137,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem37.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:20.317456" size="15316">
+        <file filename="emblem37.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem37.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:32.671443" size="15316">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13280,7 +13280,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem38.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:23.616405" size="15631">
+        <file filename="emblem38.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem38.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:36.645083" size="15631">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13424,7 +13424,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem39.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:27.154038" size="19200">
+        <file filename="emblem39.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem39.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:40.611337" size="19200">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13568,7 +13568,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem40.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:30.746841" size="15026">
+        <file filename="emblem40.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem40.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:44.421248" size="15026">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13703,7 +13703,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem41.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:34.162672" size="14407">
+        <file filename="emblem41.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem41.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:48.168940" size="14407">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13832,7 +13832,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem42.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:37.618359" size="14985">
+        <file filename="emblem42.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem42.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:52.018686" size="14985">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13962,7 +13962,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem43.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:41.153407" size="19017">
+        <file filename="emblem43.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem43.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:55.835953" size="19017">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14113,7 +14113,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem44.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:44.434591" size="17518">
+        <file filename="emblem44.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem44.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:47:59.417795" size="17518">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14251,7 +14251,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem45.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:47.517676" size="16536">
+        <file filename="emblem45.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem45.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:03.051334" size="16536">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14385,7 +14385,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem46.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:50.782559" size="15555">
+        <file filename="emblem46.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem46.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:06.723135" size="15555">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14522,7 +14522,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem47.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:54.178573" size="17860">
+        <file filename="emblem47.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem47.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:10.041271" size="17860">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14658,7 +14658,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem48.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:37:58.017293" size="14011">
+        <file filename="emblem48.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem48.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:13.859251" size="14011">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14781,7 +14781,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem49.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:01.785254" size="14283">
+        <file filename="emblem49.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem49.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:17.376979" size="14283">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -14908,7 +14908,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="emblem50.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:05.490727" size="15677">
+        <file filename="emblem50.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\emblem50.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:20.483850" size="15677">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -15037,7 +15037,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="Introduction.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\Introduction.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:09.208381" size="39539">
+        <file filename="Introduction.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\Introduction.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:23.590056" size="39539">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -15349,7 +15349,7 @@
     </text>
 </TEI>
         </file>
-        <file filename="table-of-contents.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\table-of-contents.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T16:38:12.777955" size="17264">
+        <file filename="table-of-contents.xml" pathname="..\atalanta-texts\english" fullpath="..\atalanta-texts\english\table-of-contents.xml" extension="xml" mime-type="text/xml" mtime="2019-05-07T13:16:09" atime="2019-05-23T18:48:26.655384" size="17264">
           <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
