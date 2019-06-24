@@ -7,14 +7,16 @@
 <meta name="author" content="">
 <title>Furnace and Fugue: Emblem Image Search</title>
 <link type="text/css" rel="stylesheet" media="screen" href="../assets/css/styles.css">
+<link rel="stylesheet" href="../assets/css/collections.css">
 </head>
-<body>
+<body class="emblem-body bul">
+<div id="wrapper">
 <header data-page-type="image-search"><div class="_topnav" data-nav="image-search">
 <nav class="topnav" aria-label="Main">
 <button class="topnav__hamburger--closed" aria-hidden="true" aria-label="Mobile menu"></button>
 <div class="topnav-wrapper">
 <div class="topnav__logo">
-<a aria-label="Return to Furnace and Fugue home" href="../index.html"></a>
+<a aria-label="Return to Furnace and Fugue home" href="/"></a>
 </div>
 <div class="topnav__content">
 <ul>
@@ -1246,14 +1248,36 @@
 </div>
 </div>
 <div class="image-results__container container--inactive"></div>
-</div></main><div class="_collections"></div>
-<div class="_footer"><footer><div class="footer--main"><ul>
+</div>
+<div class="collections-wrapper">
+<div class="collection-opener"><div class="opener-holder-bg"><div class="opener-holder">
+<span class="collection-name">Emblem Collections</span><div class="js-btns">
+<a href="#" class="btn-up"><span class="icon-up"></span></a><a href="#" class="btn-down"><span class="icon-down"></span></a><a href="#" class="btn-close"><span class="icon-cancel"></span></a>
+</div>
+</div></div></div>
+<div class="all-collections"><div class="container">
+<div class="create-collection">
+<div class="new-collection"><a class="lightbox btn" data-link="create" data-type="ajax" href="/templates/modals/modal-create.html">Create
+                        a New Collection</a></div>
+<div class="collection-view">
+<span class="title">view<em>:</em></span><ul class="grids" data-target="#grid">
+<li class="view-icon sm-view"><a href="javascript:;" data-grid="small"><span class="icon-viewsm"></span></a></li>
+<li class="view-icon"><a href="javascript:;" data-grid="medium"><span class="icon-viewmd"></span></a></li>
+<li class="view-icon"><a href="javascript:;" data-grid="large"><span class="icon-viewlg"></span></a></li>
+</ul>
+</div>
+</div>
+<div class="grids-content small-grid" id="grid"></div>
+</div></div>
+</div></main><div class="_footer"><footer><div class="footer--main"><ul>
 <li><a href="../search">Contents</a></li>
 <li><a href="../atalanta-fugiens">Digital Edition</a></li>
 <li><a href="../atalanta-essays/essays">Scholarly Essays</a></li>
 <li><a href="../back-matter/about">About the Project</a></li>
 </ul></div>
 <div class="footer--branding"></div></footer></div>
-<script src="../assets/js/vendors/jquery/jquery-3.3.1.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script><script src="../assets/js/page.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js"></script><script src="../assets/js/lunr-languages/lunr.stemmer.support.js"></script><script src="../assets/js/lunr-languages/lunr.multi.js"></script><script src="../assets/js/lunr-languages/lunr.de.js"></script><script src="../assets/js/vendors/underscore/underscore-min.js"></script><script src="../assets/js/search.js"></script><script src="../assets/js/searchfunction.js"></script><script src="../assets/js/topnav.js"></script><script src="../assets/js/filterSelection.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/ScrollToPlugin.min.js"></script><script src="../assets/js/image-search.js"></script><script src="../assets/js/faceting.js"></script>
+</div>
+<div id="target"></div>
+<script src="../assets/js/vendors/jquery/jquery-3.3.1.min.js"></script><script src="../assets/js/collections.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script><script src="../assets/js/page.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js"></script><script src="../assets/js/lunr-languages/lunr.stemmer.support.js"></script><script src="../assets/js/lunr-languages/lunr.multi.js"></script><script src="../assets/js/lunr-languages/lunr.de.js"></script><script src="../assets/js/vendors/underscore/underscore-min.js"></script><script src="../assets/js/search.js"></script><script src="../assets/js/searchfunction.js"></script><script src="../assets/js/topnav.js"></script><script src="../assets/js/filterSelection.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/ScrollToPlugin.min.js"></script><script src="../assets/js/image-search.js"></script><script src="../assets/js/faceting.js"></script>
 </body>
 </html>
