@@ -89,6 +89,18 @@ $(document).ready(function() {
 		updateEmblemView();
 		setTimeout(resetGrid, 500);
 	});
+
+	//Click a tag in the list under an emblem.
+	$('body').on('click', '.image-results__all-terms a', ev => {
+		//Reset the tag selections.
+		$('li.'+imageTermSelected).removeClass(imageTermSelected);
+		//Find the right link in the facet bar and pretend we clicked that.
+		var tagid = $(ev.currentTarget).attr('data-tagid');
+		var termselector = imageTermTrigger+'[data-id='+tagid+']'
+		var termlink = $(termselector);
+		console.log(tagid, termselector, termlink);
+		termlink.click();
+	});
 	
 /* FUNCTIONS */
 	function checkCategorySelected(selectedCategory) {
