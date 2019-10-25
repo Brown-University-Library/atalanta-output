@@ -43,21 +43,21 @@ var activeFilters = function() {
     outp = [];
 
     $(MAIN_CATEGORY_SELECTOR).has(SELECTED_TERM_SELECTOR).map((i, catel) => {
-        //console.log('category', catel);
+        console.log('category', catel);
         var thiscat = {
             name: $(catel).children('a').text(),
             subcategories: []
         };
 
         $(SUBCATEGORY_SELECTOR, catel).has(SELECTED_TERM_SELECTOR).map((i, scatel) => {
-            //console.log('subcategory', scatel);
+            console.log('subcategory', scatel);
             var thisscat = {
                 name: $(scatel).children(SUBCATEGORY_LABEL).text(),
                 terms: []
             };
 
             $(SELECTED_TERM_SELECTOR, scatel).map((i, termel) => {
-                //console.log('term', termel);
+                console.log('term', termel);
                 thisscat['terms'].push({
                     name: $(termel).find(TERM_NAME_SELECTOR).text(),
                     count: $(termel).find(TERM_COUNT_SELECTOR).text(),
