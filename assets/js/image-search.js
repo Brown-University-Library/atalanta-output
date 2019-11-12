@@ -90,16 +90,30 @@ $(document).ready(function() {
 		setTimeout(resetGrid, 500);
 	});
 
-	//Click a tag in the list under an emblem.
-	$('body').on('click', '.image-results__all-terms a', ev => {
-		//Reset the tag selections.
+	$('body').on('click', 'a[href*="#terms="]', ev => {
+		var href = $(ev.currentTarget).attr('href');
+		var term = href.split('#terms=')[1]
+
+		var link = $(imageTermTrigger+'[data-id='+term+']');
+
+		//Deselect all options.
 		$('li.'+imageTermSelected).removeClass(imageTermSelected);
-		//Find the right link in the facet bar and pretend we clicked that.
-		var tagid = $(ev.currentTarget).attr('data-tagid');
-		var termselector = imageTermTrigger+'[data-id='+tagid+']'
-		var termlink = $(termselector);
-		console.log(tagid, termselector, termlink);
-		termlink.click();
+		//"click" the trigger to select this term.
+		link.click();
+
+		//Also close the collection pane.
+		var activeClass = 'emblems-active';
+		var classHalf = 'half-state';
+		var classFull = 'full-state';
+
+		$('html').removeClass(classHalf);
+		$('html').removeClass(classFull);
+		$('html').removeClass(activeClass);
+		$('div.collections-wrapper').css({
+			'top': '',
+			'bottom': '',
+			'marginTop': ''
+		});
 	});
 	
 /* FUNCTIONS */
