@@ -1,5 +1,5 @@
 # Developing _Furnace and Fugue_
-[_Furnace and Fugue_](https://furnaceandfugue.org) is a static site generated via several repositories
+[_Furnace and Fugue_](https://furnaceandfugue.org) is digital publication built as a static site that is generated via several repositories
 
 ## All Repositories Associated with the Development of _Furnace and Fugue_
 - [fugue](https://github.com/Brown-University-Library/fugue)
@@ -26,7 +26,7 @@
 ### Data Sources
 - [XML](https://github.com/Brown-University-Library/atalanta-texts/tree/master/latin) of Latin and German TEI for _Atalanta fugiens_, 1618
 - [XML](https://github.com/Brown-University-Library/atalanta-texts/tree/master/english) of English TEI for _Atalanta running, that is, new chymicall emblems relating to the secrets of nature_
-- [XML](https://github.com/Brown-University-Library/atalanta-code/tree/master/data/mei)in [MEI](https://music-encoding.org/) for 50 fugues
+- [XML](https://github.com/Brown-University-Library/atalanta-code/tree/master/data/mei) in [MEI](https://music-encoding.org/) for 50 fugues
 - [WAV](https://github.com/Brown-University-Library/atalanta-media/tree/master/audio/emblem-music/wav) audio files for 50 fugues in three voices
 - [JP2](https://repository.library.brown.edu/studio/item/bdr:698524/) image files for _Atalanta fugiens_, 1618
 - [JSON](https://github.com/Brown-University-Library/atalanta-code/blob/master/data/json/byterm_enh_array.json) image search terms for 50 emblem images and the frontispiece
