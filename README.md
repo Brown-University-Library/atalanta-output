@@ -1,4 +1,5 @@
 # Developing _Furnace and Fugue_
+[Furnace and Fugue](https://furnaceandfugue.org) is a static site generated via several repositories
 
 ## All repositories associated with the development of _Furnace and Fugue_
 - [atalanta-output](https://github.com/Brown-University-Library/atalanta-output)
@@ -13,3 +14,4 @@
 - [furnace-and-fugue-music](https://github.com/Brown-University-Library/furnace-and-fugue-music)
 - [atalanta](https://github.com/Brown-University-Library/atalanta)
 
+## How _Furnace and Fugue_ is generated
