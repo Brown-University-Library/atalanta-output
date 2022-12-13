@@ -1,10 +1,10 @@
 # Developing _Furnace and Fugue_
-[Furnace and Fugue](https://furnaceandfugue.org) is a static site generated via several repositories
+[_Furnace and Fugue_](https://furnaceandfugue.org) is a static site generated via several repositories
 
 ## All repositories associated with the development of _Furnace and Fugue_
 - [atalanta-output](https://github.com/Brown-University-Library/atalanta-output)
 - [atalanta-src](https://github.com/Brown-University-Library/atalanta-src)
-- [fugue (formerly furnace)](https://github.com/Brown-University-Library/fugue)
+- [fugue](https://github.com/Brown-University-Library/fugue)
 - [atalanta-search](https://github.com/Brown-University-Library/atalanta-search)
 - [atalanta-code](https://github.com/Brown-University-Library/atalanta-code)
 - [atalanta-texts](https://github.com/Brown-University-Library/atalanta-texts)
@@ -15,3 +15,4 @@
 - [atalanta](https://github.com/Brown-University-Library/atalanta)
 
 ## How _Furnace and Fugue_ is generated
+[Fugue (formerly furnace)](https://github.com/Brown-University-Library/fugue) is a custom static site generator that uses templates from [atalanta-src](https://github.com/Brown-University-Library/atalanta-src) to assemble various components into the complete publication at [atalanta-output](https://github.com/Brown-University-Library/atalanta-output). These components include:
