@@ -1,0 +1,45 @@
+main.home .hero-badge {
+	height: 150px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 150px;}
+@media screen and (min-width: 300px) and (max-width: 767px) {
+	main.home .hero-badge {
+		z-index: 1;}}
+main.home .hero-badge img {
+	height: 150px;
+	margin-left: -10px;
+	width: 160px;}
+main.home .credits {
+	grid-area: 6 / 1 / 7 / 13;}
+main.home .awards {
+	background-color: #ffae00;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.125rem;
+	grid-area: 5 / 1 / 6 / 13;
+	line-height: 1.5;
+	padding: 0 0 3rem 0;
+	text-align: center;}
+@media screen and (min-width: 300px) and (max-width: 767px) {
+	main.home .awards {
+		padding: 1rem 1.5rem 3rem 1.5rem;}}
+main.home .awards .horizontal-rule {
+	border-top: 1px solid #333;
+	margin: 0 8vw;}
+@media screen and (min-width: 300px) and (max-width: 767px) {
+	main.home .awards .horizontal-rule {
+		margin: 0;}}
+main.home .awards h6 {
+	background-color: #ffae00;
+	font-size: 1rem;
+	letter-spacing: .075em;
+	margin: -.75rem 45vw 2rem 45vw;
+	padding: 0 0 1rem 0;
+	text-align: center;
+	text-transform: uppercase;}
+@media screen and (min-width: 300px) and (max-width: 767px) {
+	main.home .awards h6 {
+		margin: -0.75rem 30vw 2rem 30vw;}}
